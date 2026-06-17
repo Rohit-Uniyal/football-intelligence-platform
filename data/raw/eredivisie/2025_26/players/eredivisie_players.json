@@ -1,0 +1,4205 @@
+[
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "130177",
+        "player_name": "Jeroen Zoet",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "41"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "150166",
+        "player_name": "Hobie Verhulst",
+        "age": 33,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "307575",
+        "player_name": "Daniel Deen",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "332466",
+        "player_name": "Rome-Jayden Owusu-Oduro",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "360261",
+        "player_name": "Jur Schipper",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "71"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "261596",
+        "player_name": "Mees De Wit",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "299530",
+        "player_name": "Denso Kasius",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "30"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "306510",
+        "player_name": "Alexandre Penetra",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "318531",
+        "player_name": "Maxim Dekker",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "329972",
+        "player_name": "Wouter Goes",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "333892",
+        "player_name": "Seiya Maikuma",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "340532",
+        "player_name": "Billy Van Duijl",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "343924",
+        "player_name": "Elijah Dijkstra",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "362961",
+        "player_name": "Rion Ichihara",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "379193",
+        "player_name": "Mateo Ch\u00e1vez",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "386238",
+        "player_name": "Andrea Natali",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "394410",
+        "player_name": "Mathijs Menu",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "46"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "409683",
+        "player_name": "Jesper Zwart",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "48"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "150199",
+        "player_name": "Jordy Clasie",
+        "age": 34,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "269610",
+        "player_name": "Peer Koopmeiners",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "287279",
+        "player_name": "Sven Mijnans",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "318532",
+        "player_name": "Nick Twisk",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "81"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "353365",
+        "player_name": "Kees Smit",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "26"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "380172",
+        "player_name": "Rio Robbemond",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "56"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "380174",
+        "player_name": "Kasper Boogaard",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "382643",
+        "player_name": "Matej Sin",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "33"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "266593",
+        "player_name": "Ibrahim Sadiq",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "268688",
+        "player_name": "Jizz Hornkamp",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "279790",
+        "player_name": "Troy Parrott",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "309651",
+        "player_name": "Isak Jensen",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "332465",
+        "player_name": "Mexx Meerdink",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "35"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "338775",
+        "player_name": "Ro-Zangelo Daal",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "338959",
+        "player_name": "Weslley Patati",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "347443",
+        "player_name": "Jasper Hartog",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "63"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "389354",
+        "player_name": "Ayoub Oufkir",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "24"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "398766",
+        "player_name": "Wassim Bouziane",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "75"
+    },
+    {
+        "team_id": "140",
+        "team_name": "AZ Alkmaar",
+        "player_id": "408528",
+        "player_name": "Bendeg\u00faz Kov\u00e1cs",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "45"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "238919",
+        "player_name": "Maarten Paes",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "26"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "289840",
+        "player_name": "Vitezslav Jaros",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "362072",
+        "player_name": "Paul Reverson",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "52"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "389638",
+        "player_name": "Aymean El Hani",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "62"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "396040",
+        "player_name": "Joeri Heerkens",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "421783",
+        "player_name": "Valentijn Van Der Velde",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "58"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "217482",
+        "player_name": "Oleksandr Zinchenko",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "47"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "238004",
+        "player_name": "Takehiro Tomiyasu",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "238033",
+        "player_name": "Kou Itakura",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "241392",
+        "player_name": "Owen Wijndal",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "305552",
+        "player_name": "Josip Sutalo",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "305590",
+        "player_name": "Youri Baas",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "333312",
+        "player_name": "Anton Gaaei",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "351281",
+        "player_name": "Lucas Oliveira Rosa",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "369869",
+        "player_name": "Ethan Butera",
+        "age": 20,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "375486",
+        "player_name": "Avery Appiah",
+        "age": 20,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "381074",
+        "player_name": "Jorthy Mokio",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "384127",
+        "player_name": "Aaron Bouwman",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "30"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "386842",
+        "player_name": "Lucas Jetten",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "46"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "390073",
+        "player_name": "Mylo Van Der Lans",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "53"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "396638",
+        "player_name": "Ryan Van De Pavert",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "45"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "401532",
+        "player_name": "Marvyn Muzungu",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "50"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "410913",
+        "player_name": "Kennynho Kasanwirjo",
+        "age": 18,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "415090",
+        "player_name": "Sesynijo Tilborg",
+        "age": 18,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "168993",
+        "player_name": "Davy Klaassen",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "297292",
+        "player_name": "Youri Regeer",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "305589",
+        "player_name": "Kian Fitz-Jim",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "325609",
+        "player_name": "Oscar Gloukh",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "384128",
+        "player_name": "Don O`Niel",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "384372",
+        "player_name": "Sean Steur",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "48"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "390071",
+        "player_name": "Jinairo Johnson",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "57"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "390072",
+        "player_name": "Mark Verkuijl",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "403927",
+        "player_name": "Abdellah Ouazane",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "68"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "406914",
+        "player_name": "Dami\u00e1n Van Der Vaart",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "406915",
+        "player_name": "Tijn Peters",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "55"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "417684",
+        "player_name": "Mohamed Abdalla",
+        "age": 16,
+        "position": "Midfielder",
+        "jersey": "67"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "149577",
+        "player_name": "Steven Berghuis",
+        "age": 34,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "177042",
+        "player_name": "Wout Weghorst",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "219284",
+        "player_name": "Kasper Dolberg",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "295861",
+        "player_name": "Oliver Edvardsen",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "353363",
+        "player_name": "Mika Godts",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "368816",
+        "player_name": "Skye Vink",
+        "age": 19,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "376476",
+        "player_name": "Maher Carrizo",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "384371",
+        "player_name": "Emre \u00dcn\u00fcvar",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "59"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "386841",
+        "player_name": "Don-Angelo Konadu",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "397492",
+        "player_name": "Rayane Bounida",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "43"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "406913",
+        "player_name": "Pharell Nash",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "66"
+    },
+    {
+        "team_id": "139",
+        "team_name": "Ajax Amsterdam",
+        "player_id": "414988",
+        "player_name": "Maximiliam Ibrahimovic",
+        "age": 19,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "196688",
+        "player_name": "Stijn van Gassel",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "295996",
+        "player_name": "Calvin Raatsie",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "395979",
+        "player_name": "Tijmen Holla",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "265723",
+        "player_name": "Ilias Bronkhorst",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "266190",
+        "player_name": "Arthur Zagre",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "278383",
+        "player_name": "Simon Janssen",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "291225",
+        "player_name": "Hamdi Akujobi",
+        "age": 26,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "303840",
+        "player_name": "Casper Widell",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "305597",
+        "player_name": "Rick Meissen",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "324740",
+        "player_name": "Stan Hendrikx",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "334064",
+        "player_name": "Lewis Schouten",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "246424",
+        "player_name": "Gijs Van Den Berg",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "25"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "310133",
+        "player_name": "Mathijs Tielemans",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "313971",
+        "player_name": "Adam Carl\u00e9n",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "321080",
+        "player_name": "Lennard Hartjes",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "321341",
+        "player_name": "Noah Naujoks",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "343207",
+        "player_name": "Irakli Yegoian",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "388590",
+        "player_name": "Guilliano Cairo",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "413914",
+        "player_name": "Noa El Hamdaoui",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "157478",
+        "player_name": "Mike van Duinen",
+        "age": 34,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "214178",
+        "player_name": "Emil Hansson",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "304484",
+        "player_name": "Derensili Sanches Fernandes",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "305487",
+        "player_name": "Szymon Wlodarczyk",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "332656",
+        "player_name": "Gyan De Regt",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "340232",
+        "player_name": "Miliano Jonathans",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "344197",
+        "player_name": "Nesto Groen",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "28"
+    },
+    {
+        "team_id": "2566",
+        "team_name": "Excelsior",
+        "player_id": "388592",
+        "player_name": "Jerolldino Bergraaf",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "33"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "191304",
+        "player_name": "Hidde Jurjus",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "21"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "227420",
+        "player_name": "Etienne Vaessen",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "337088",
+        "player_name": "Dirk Baron",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "24"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "347069",
+        "player_name": "Lovro \u0160tubljar",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "362898",
+        "player_name": "Stijn Petiet",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "41"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "179181",
+        "player_name": "Marvin Peersman",
+        "age": 35,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "261212",
+        "player_name": "Marco Rente",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "319298",
+        "player_name": "Thijmen Blokzijl",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "368818",
+        "player_name": "Dies Janse",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "371412",
+        "player_name": "Wouter Prins",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "375666",
+        "player_name": "Tyrique Mercera",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "379550",
+        "player_name": "Sven Bouland",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "400799",
+        "player_name": "Elvis Laan",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "408837",
+        "player_name": "Robin Kelder",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "48"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "164264",
+        "player_name": "Mats Seuntjens",
+        "age": 34,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "310482",
+        "player_name": "Stije Resink",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "319297",
+        "player_name": "Tika De Jonge",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "349089",
+        "player_name": "Travis Hearnes",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "352987",
+        "player_name": "Jorg Schreuders",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "355957",
+        "player_name": "Tygo Land",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "385716",
+        "player_name": "David Van Der Werff",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "408836",
+        "player_name": "Jismerai Dillema",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "44"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "408839",
+        "player_name": "Y\u00e9nio Holder",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "55"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "206463",
+        "player_name": "Oskar Zawada",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "289883",
+        "player_name": "Brynj\u00f3lfur Willumsson",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "324448",
+        "player_name": "Rui Jorge Monteiro Mendes",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "324583",
+        "player_name": "Younes Taha",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "351290",
+        "player_name": "Thom Van Bergen",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "408838",
+        "player_name": "Mark Hoekstra",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "69"
+    },
+    {
+        "team_id": "145",
+        "team_name": "FC Groningen",
+        "player_id": "417934",
+        "player_name": "Ryan Metu",
+        "age": 17,
+        "position": "Forward",
+        "jersey": "34"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "125136",
+        "player_name": "Przemyslaw Tyton",
+        "age": 39,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "148868",
+        "player_name": "Lars Unnerstall",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "264945",
+        "player_name": "Issam El Maach",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "339899",
+        "player_name": "Sam Karssies",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "21"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "402998",
+        "player_name": "Yannick Gerritsen",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "169050",
+        "player_name": "Robin Pr\u00f6pper",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "277855",
+        "player_name": "Bart van Rooij",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "304908",
+        "player_name": "Mees Hilgers",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "310724",
+        "player_name": "Max Bruns",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "38"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "340691",
+        "player_name": "Stav Lemkin",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "359744",
+        "player_name": "Mats Rots",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "399213",
+        "player_name": "Ruud Nijstad",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "406780",
+        "player_name": "Guilherme Martinho Peixoto",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "415042",
+        "player_name": "Bjorn Titulaer",
+        "age": 17,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "214666",
+        "player_name": "Arno Verschueren",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "32"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "277315",
+        "player_name": "Thomas van den Belt",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "290517",
+        "player_name": "Ramiz Zerrouki",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "293644",
+        "player_name": "Mathias Kj\u00f8l\u00f8",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "4"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "311168",
+        "player_name": "Kristian Hlynsson",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "345579",
+        "player_name": "Daouda Weidmann",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "379956",
+        "player_name": "Sondre \u00d8rjasaeter",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "411096",
+        "player_name": "Benjamin Nagel",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "26"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "124932",
+        "player_name": "Ricky van Wolfswinkel",
+        "age": 37,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "187956",
+        "player_name": "Marko Pjaca",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "224042",
+        "player_name": "Sam Lammers",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "265872",
+        "player_name": "Taylor Booth",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "8"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "304905",
+        "player_name": "Daan Rots",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "379839",
+        "player_name": "Lucas Vennegoor Of Hesselink",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "394464",
+        "player_name": "Owen Panneflek",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "152",
+        "team_name": "FC Twente",
+        "player_id": "418588",
+        "player_name": "Nigel Groenewald",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "36"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "177022",
+        "player_name": "Michael Brouwer",
+        "age": 33,
+        "position": "Goalkeeper",
+        "jersey": "25"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "223162",
+        "player_name": "Vasilios Barkas",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "313006",
+        "player_name": "Kevin Gadellaa",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "33"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "359675",
+        "player_name": "Mees Eppink",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "51"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "397993",
+        "player_name": "Justin Eversen",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": null
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "131354",
+        "player_name": "Nick Viergever",
+        "age": 36,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "158143",
+        "player_name": "Mike van der Hoorn",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "240351",
+        "player_name": "Siebe Horemans",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "2"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "278644",
+        "player_name": "Mike Eerdhuijzen",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "291730",
+        "player_name": "Souffian El Karouani",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "315705",
+        "player_name": "Matisse Didden",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "40"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "319262",
+        "player_name": "Niklas Vesterlund",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "355506",
+        "player_name": "Oualid Agougil",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "38"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "355507",
+        "player_name": "Neal Viereck",
+        "age": 22,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "358580",
+        "player_name": "Emeka Adeile",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "365391",
+        "player_name": "Per Kloosterboer",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "57"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "406251",
+        "player_name": "Viggo Plantinga",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "50"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "250528",
+        "player_name": "Dani de Wit",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "263618",
+        "player_name": "Victor Jensen",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "303790",
+        "player_name": "Can Bozdogan",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "321347",
+        "player_name": "Alonzo Engwanda",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "325549",
+        "player_name": "Zidane Iqbal",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "337056",
+        "player_name": "Rafik El Arguioui",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "43"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "365021",
+        "player_name": "Gjivai Zechi\u00ebl",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "399048",
+        "player_name": "Jaygo Van Ommeren",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "46"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "83494",
+        "player_name": "Miguel Rodr\u00edguez",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "22"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "164171",
+        "player_name": "S\u00e9bastien Haller",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "91"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "235503",
+        "player_name": "Jesper Karlsson",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "251979",
+        "player_name": "David Min",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "305670",
+        "player_name": "Yoann Cathline",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "340665",
+        "player_name": "Adrian Blake",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "352177",
+        "player_name": "Emirhan Demircan",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "355505",
+        "player_name": "Jesse Van De Haar",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "357698",
+        "player_name": "\u00c1ngel Alarc\u00f3n",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "390471",
+        "player_name": "Artem Stepanov",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "153",
+        "team_name": "FC Utrecht",
+        "player_id": "399047",
+        "player_name": "Bjorn Menzo",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "49"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "150070",
+        "player_name": "Nick Marsman",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "32"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "151900",
+        "player_name": "Luuk Koopmans",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "155965",
+        "player_name": "Mattijs Branderhorst",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "365682",
+        "player_name": "Niels Martens",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "25"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "384165",
+        "player_name": "Ramazan Bayram",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": null
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "418498",
+        "player_name": "Lars Van Parys",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "48"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "132666",
+        "player_name": "Ivo Pinto",
+        "age": 36,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "190986",
+        "player_name": "Daley Sinkgraven",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "250659",
+        "player_name": "Iv\u00e1n M\u00e1rquez",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "277375",
+        "player_name": "Shawn Adewoye",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "292393",
+        "player_name": "Neraysho Kasanwirjo",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "297295",
+        "player_name": "Syb van Ottele",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "305616",
+        "player_name": "Jasper Dahlhaus",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "8"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "346817",
+        "player_name": "Justin Hubner",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "384166",
+        "player_name": "Daan Bisschops",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "42"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "403414",
+        "player_name": "Alhaji Bah",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "179195",
+        "player_name": "Alen Halilovic",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "210810",
+        "player_name": "Samuel Bastien",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "223161",
+        "player_name": "Dimitrios Limnios",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "251691",
+        "player_name": "Justin Lonwijk",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "277854",
+        "player_name": "Lance Duijvestijn",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "70"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "284701",
+        "player_name": "Mohamed Ihattaren",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "52"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "300592",
+        "player_name": "Yassin Oukili",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "304738",
+        "player_name": "Edouard Michut",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "324486",
+        "player_name": "Philip Brittijn",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "384518",
+        "player_name": "Tristan Schenkhuizen",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "38"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "387950",
+        "player_name": "Luka Tunjic",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "77"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "392583",
+        "player_name": "Hasip Korkmazy\u00fcrek",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "36"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "408556",
+        "player_name": "Moussa Gbemou",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "46"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "411886",
+        "player_name": "Amin Laoukili",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "47"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "415966",
+        "player_name": "Wassim Elasri",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "422189",
+        "player_name": "Ganni Buyukhan",
+        "age": 16,
+        "position": "Midfielder",
+        "jersey": "40"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "156838",
+        "player_name": "Paul Gladon",
+        "age": 34,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "196353",
+        "player_name": "Kristoffer Peterson",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "250529",
+        "player_name": "Kaj Sierhuis",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "143",
+        "team_name": "Fortuna Sittard",
+        "player_id": "376042",
+        "player_name": "Owen Johnson",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "45"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "255740",
+        "player_name": "Jari De Busser",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "261584",
+        "player_name": "Luca Plogmann",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "310450",
+        "player_name": "Sven Jansen",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "334352",
+        "player_name": "Nando Verdoni",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "33"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "153764",
+        "player_name": "Gerrit Nauber",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "218424",
+        "player_name": "Joris Kramer",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "237839",
+        "player_name": "Alfons Sampsted",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "304868",
+        "player_name": "Dean James",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "312142",
+        "player_name": "Julius Dirksen",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "318573",
+        "player_name": "Giovanni van Zwam",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "346986",
+        "player_name": "Pim Saathof",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "347026",
+        "player_name": "Aske Adelgaard",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "361534",
+        "player_name": "Eus Waayers",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "20"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "258453",
+        "player_name": "Melle Meulensteen",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "271858",
+        "player_name": "Kenzo Goudmijn",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "272716",
+        "player_name": "Evert Linthorst",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "289301",
+        "player_name": "S\u00f6ren Tengstedt",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "303769",
+        "player_name": "Jakob Breum",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "308091",
+        "player_name": "Mathis Suray",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "346985",
+        "player_name": "Robbin Weijenberg",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "15"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "406247",
+        "player_name": "Yassir Rahmouni",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "195502",
+        "player_name": "Finn Stokkers",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "285014",
+        "player_name": "Richonell Margaret",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "293395",
+        "player_name": "Stefan Ingi Sigurdarson",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "303498",
+        "player_name": "Oskar Siira Sivertsen",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "308986",
+        "player_name": "Thibo Baeten",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "313972",
+        "player_name": "Victor Edvardsen",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "16"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "344195",
+        "player_name": "Jaden Slory",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "400957",
+        "player_name": "Ofosu Boakye",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "32"
+    },
+    {
+        "team_id": "3706",
+        "team_name": "Go Ahead Eagles",
+        "player_id": "415246",
+        "player_name": "Dani Tijman",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "31"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "137783",
+        "player_name": "Jasper Cillessen",
+        "age": 37,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "292223",
+        "player_name": "Gonzalo Crettaz",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "306435",
+        "player_name": "Rijk Janse",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "388586",
+        "player_name": "Martijn Overmars",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "38"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "398044",
+        "player_name": "Freek Entius",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "36"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "140350",
+        "player_name": "Bram Nuytinck",
+        "age": 36,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "154521",
+        "player_name": "Jetro Willems",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "218237",
+        "player_name": "Eli Dasa",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "223312",
+        "player_name": "Thomas Ouwejan",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "239999",
+        "player_name": "Philippe Sandler",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "306806",
+        "player_name": "Ahmetcan Kaplan",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "332960",
+        "player_name": "Brayann Pereira",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "335203",
+        "player_name": "Deveron Fonville",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "409658",
+        "player_name": "Yassin Moslih",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "418005",
+        "player_name": "Douwe Vernooij",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "42"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "420331",
+        "player_name": "Mees Rensen",
+        "age": 16,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "116893",
+        "player_name": "Tjaronn Chery",
+        "age": 38,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "276579",
+        "player_name": "Darko Nejasmic",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "285471",
+        "player_name": "Willum Th\u00f3r Willumsson",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "296510",
+        "player_name": "Dirk Proper",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "71"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "308227",
+        "player_name": "Isak Hansen-Aar\u00f8en",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "340685",
+        "player_name": "No\u00e9 Lebreton",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "341715",
+        "player_name": "Kodai Sano",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "346896",
+        "player_name": "Sami Ouaissa",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "25"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "408764",
+        "player_name": "Sam De Laat",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "35"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "122954",
+        "player_name": "Bryan Linssen",
+        "age": 35,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "156836",
+        "player_name": "Virgil Misidjan",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "238016",
+        "player_name": "Koki Ogawa",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "272224",
+        "player_name": "Danilo ",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "281525",
+        "player_name": "Youssef El Kachati",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "34"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "337855",
+        "player_name": "Basar \u00d6nal",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "363412",
+        "player_name": "Kevin Kers",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "39"
+    },
+    {
+        "team_id": "147",
+        "team_name": "NEC Nijmegen",
+        "player_id": "414285",
+        "player_name": "Jesaja Mustapha",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "41"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "263619",
+        "player_name": "Jasper Schendelaar",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "321101",
+        "player_name": "Duke Verduin",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "41"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "330425",
+        "player_name": "Tom De Graaff",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "398717",
+        "player_name": "Nick Dobben",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "410790",
+        "player_name": "Len Bakker",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "48"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "224786",
+        "player_name": "Sherel Floranus",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "271210",
+        "player_name": "Simon Graves",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "295628",
+        "player_name": "Tijs Velthuis",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "320920",
+        "player_name": "Anselmo Garcia MacNulty",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "333618",
+        "player_name": "Olivier Aertssen",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "333760",
+        "player_name": "Damian Van Der Haar",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "336542",
+        "player_name": "Tristan Gooijer",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "379188",
+        "player_name": "Dylan Ruward",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "42"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "386564",
+        "player_name": "Rodney Kroeze",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "45"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "414069",
+        "player_name": "Jayden Holtman",
+        "age": 17,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "67437",
+        "player_name": "Scott Calderwood",
+        "age": null,
+        "position": "Midfielder",
+        "jersey": "43"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "156146",
+        "player_name": "Ryan Thomas",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "227441",
+        "player_name": "Jamiro Monteiro",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "35"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "239353",
+        "player_name": "Odysseus Velanas",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "272329",
+        "player_name": "Thijs Oosting",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "25"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "306400",
+        "player_name": "Zico Buurmeester",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "365026",
+        "player_name": "Nick Fichtinger",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "386853",
+        "player_name": "Gabriel Reiziger",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "408619",
+        "player_name": "Givaro Rahaja\u00e4n",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "38"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "408620",
+        "player_name": "Jadiel Pereira Da Gama",
+        "age": 16,
+        "position": "Midfielder",
+        "jersey": "26"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "414063",
+        "player_name": "Lasse Aelbers",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "43"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "414363",
+        "player_name": "Corean Drost",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "46"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "415365",
+        "player_name": "Gilles Van Der Wal",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "37"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "215159",
+        "player_name": "Younes Namli",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "241527",
+        "player_name": "Koen Kostons",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "270806",
+        "player_name": "Thomas Buitink",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "271345",
+        "player_name": "Kaj de Rooij",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "22"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "304876",
+        "player_name": "Samir Lagsir",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "310638",
+        "player_name": "Shola Shoretire",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "350346",
+        "player_name": "David Voute",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "39"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "388678",
+        "player_name": "Jan Faberski",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "2565",
+        "team_name": "PEC Zwolle",
+        "player_id": "422249",
+        "player_name": "Maxim De Troije",
+        "age": null,
+        "position": "Forward",
+        "jersey": "49"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "190976",
+        "player_name": "Nick Olij",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "277313",
+        "player_name": "Matej Kov\u00e1r",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "32"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "325076",
+        "player_name": "Niek Schiks",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "24"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "343607",
+        "player_name": "Tijn Smolenaars",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "51"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "245918",
+        "player_name": "Armando Obispo",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "259136",
+        "player_name": "Mauro J\u00fanior",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "266291",
+        "player_name": "Sergi\u00f1o Dest",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "8"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "297296",
+        "player_name": "Anass Salah-Eddine",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "301279",
+        "player_name": "Kiliann Sildillia",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "304478",
+        "player_name": "Ryan Flamingo",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "364814",
+        "player_name": "Yarek Gasiorowski",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "367997",
+        "player_name": "Wessel Kuhn",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "36"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "386881",
+        "player_name": "Fabian Meri\u00e9n",
+        "age": 17,
+        "position": "Defender",
+        "jersey": "38"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "239998",
+        "player_name": "Jerdy Schouten",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "240912",
+        "player_name": "Joey Veerman",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "240965",
+        "player_name": "Guus Til",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "304572",
+        "player_name": "Ismael Saibari",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "333399",
+        "player_name": "Paul Wanner",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "371409",
+        "player_name": "Jordy Bawuah",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "52"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "372317",
+        "player_name": "Nicolas Verkooijen",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "50"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "384374",
+        "player_name": "Joel Van Den Berg",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "35"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "386885",
+        "player_name": "Noah Fernandez",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "31"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "388509",
+        "player_name": "Jim Koller",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "56"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "103485",
+        "player_name": "Ivan Perisic",
+        "age": 37,
+        "position": "Forward",
+        "jersey": "5"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "168318",
+        "player_name": "Alassane Pl\u00e9a",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "245805",
+        "player_name": "Dennis Man",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "259143",
+        "player_name": "Myron Boadu",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "289120",
+        "player_name": "Ricardo Pepi",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "304592",
+        "player_name": "Couhaib Driouech",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "325410",
+        "player_name": "Esmir Bajraktarevic",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "148",
+        "team_name": "PSV Eindhoven",
+        "player_id": "340252",
+        "player_name": "Ruben Van Bommel",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "287679",
+        "player_name": "Brett Minnema",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "23"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "298565",
+        "player_name": "Thijs Jansen",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "337053",
+        "player_name": "Thijmen Renkel",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "213368",
+        "player_name": "Arnau Casas",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "301585",
+        "player_name": "Gabi Caschili",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "301667",
+        "player_name": "Thomas Poll",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "308547",
+        "player_name": "Sturla Ottesen",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "346826",
+        "player_name": "Bryant Nieling",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "20"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "346837",
+        "player_name": "Floris Smand",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "348266",
+        "player_name": "Tomas Galvez",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "378429",
+        "player_name": "Toni Jonker",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "379710",
+        "player_name": "Bram Marsman",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "397118",
+        "player_name": "Amar Bakkati",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "150202",
+        "player_name": "Maikel Kieftenbeld",
+        "age": 35,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "177029",
+        "player_name": "Mark Diemers",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "259186",
+        "player_name": "Nicky Souren",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "284717",
+        "player_name": "Fedde de Jong",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "298515",
+        "player_name": "Marcel Schaapman",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "306438",
+        "player_name": "Jeremy Van Mullem",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "362859",
+        "player_name": "Tony R\u00f6lke",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "378435",
+        "player_name": "Steyn Potma",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "44"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "379166",
+        "player_name": "Matthias Nartey",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "391955",
+        "player_name": "Jelte Priem",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "402838",
+        "player_name": "Daan Visser",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "36"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "138532",
+        "player_name": "Michael de Leeuw",
+        "age": 39,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "228657",
+        "player_name": "Ilias Alhaft",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "246951",
+        "player_name": "Jonathan Afolabi",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "262471",
+        "player_name": "Jeredy Hilterman",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "303565",
+        "player_name": "Remco Balk",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "364992",
+        "player_name": "Wiebe Kooistra",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "369831",
+        "player_name": "Yorem Van Der Veen",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "370607",
+        "player_name": "Iwan Henstra",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "41"
+    },
+    {
+        "team_id": "3736",
+        "team_name": "SC Cambuur",
+        "player_id": "380031",
+        "player_name": "Sybrand Veldhuis",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "40"
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "167731",
+        "player_name": "Filip Bednarek",
+        "age": 33,
+        "position": "Goalkeeper",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "207780",
+        "player_name": "Joel Drommel",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "308016",
+        "player_name": "Pascal Kuiper",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "422191",
+        "player_name": "Rik Suur",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "138746",
+        "player_name": "Patrick van Aanholt",
+        "age": 35,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "149301",
+        "player_name": "Bruno Martins Indi",
+        "age": 34,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "262736",
+        "player_name": "Sa\u00efd Bakari",
+        "age": 31,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "300260",
+        "player_name": "Teo Quintero",
+        "age": 27,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "301456",
+        "player_name": "Shurandy Sambo",
+        "age": 24,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "337603",
+        "player_name": "Mike Kleijn",
+        "age": 21,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "372845",
+        "player_name": "Max De Ligt",
+        "age": 21,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "388712",
+        "player_name": "Marvin Young",
+        "age": 20,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "408790",
+        "player_name": "Giannino Vianello",
+        "age": 19,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "415046",
+        "player_name": "Lushendry Martes",
+        "age": 18,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "422248",
+        "player_name": "Justice Esser",
+        "age": 19,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "69579",
+        "player_name": "Jonathan de Guzm\u00e1n",
+        "age": 38,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "142517",
+        "player_name": "Jens Toornstra",
+        "age": 37,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "218947",
+        "player_name": "Pelle Clement",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "268460",
+        "player_name": "Joshua Kitolano",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "304485",
+        "player_name": "Julian Baas",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "364725",
+        "player_name": "Alwande Roalds\u00f6y",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "405673",
+        "player_name": "Ayoni Santos",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "415459",
+        "player_name": "Younes El Meftahi",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "200194",
+        "player_name": "Vito van Crooij",
+        "age": 30,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "223138",
+        "player_name": "Tobias Lauritsen",
+        "age": 28,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "231832",
+        "player_name": "Mitchell van Bergen",
+        "age": 26,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "297252",
+        "player_name": "Shunsuke Mito",
+        "age": 23,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "320298",
+        "player_name": "Casper Terho",
+        "age": 22,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "151",
+        "team_name": "Sparta Rotterdam",
+        "player_id": "324585",
+        "player_name": "Milan Zonneveld",
+        "age": 22,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "79505",
+        "player_name": "Ronald Koeman",
+        "age": 31,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "284790",
+        "player_name": "Daan Reiziger",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "20"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "297542",
+        "player_name": "Tyrick Bodak",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "399284",
+        "player_name": "Finn Mulder",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": null
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "122946",
+        "player_name": "Dion Malone",
+        "age": 37,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "181345",
+        "player_name": "Danny Bakker",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "200158",
+        "player_name": "Jeff Hardeveld",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "281027",
+        "player_name": "Nigel Ogidi Nwankwo",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "304595",
+        "player_name": "Guus Offerhaus",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "308107",
+        "player_name": "Dewon Koswal",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "352629",
+        "player_name": "Neville Nwankwo",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "359132",
+        "player_name": "Tyrese Noslin",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "11"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "367650",
+        "player_name": "Mano Olfers",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "368817",
+        "player_name": "Gerald Alders",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "375939",
+        "player_name": "Adil Lechkar",
+        "age": 24,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "388595",
+        "player_name": "Abdelraffie Benzzine",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "419027",
+        "player_name": "Amin Bouchouari",
+        "age": 17,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "207421",
+        "player_name": "Dylan Mertens",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "306461",
+        "player_name": "Tyrone Owusu",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "330546",
+        "player_name": "Jochem Ritmeester Van De Kamp",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "39"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "332709",
+        "player_name": "Nils Rossen",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "379191",
+        "player_name": "Cedric Hatenboer",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "404628",
+        "player_name": "Rayyan Koubini",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "240916",
+        "player_name": "Kay Tejan",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "306445",
+        "player_name": "Patrick Brouwer",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "325219",
+        "player_name": "Sem van Duijn",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "37"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "356979",
+        "player_name": "N\u00f6kkvi Th\u00f3risson",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "372971",
+        "player_name": "Soufiane Hetli",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "397194",
+        "player_name": "Jelani Seedorf",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "3735",
+        "team_name": "Telstar",
+        "player_id": "408545",
+        "player_name": "Rojendro Oudsten",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "28"
+    }
+]

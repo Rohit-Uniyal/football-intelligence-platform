@@ -1,0 +1,88 @@
+version: 2
+
+models:
+
+  - name: dim_players
+    description: Player dimension table
+
+    columns:
+      - name: PLAYER_ID
+        tests:
+          - not_null
+
+      - name: PLAYER_NAME
+        tests:
+          - not_null
+
+      - name: TEAM_ID
+        tests:
+          - not_null
+
+  - name: dim_teams
+    description: Team dimension table
+
+    columns:
+      - name: TEAM_ID
+        tests:
+          - not_null
+          - unique
+
+      - name: TEAM_NAME
+        tests:
+          - not_null
+
+  - name: fact_player_performance
+    description: Aggregated player performance metrics
+
+    columns:
+      - name: PLAYER_ID
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_players')
+                field: PLAYER_ID
+
+      - name: TEAM_ID
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_teams')
+                field: TEAM_ID
+
+      - name: GOALS
+        tests:
+          - not_null
+
+      - name: ASSISTS
+        tests:
+          - not_null
+
+  - name: fact_team_performance
+    description: Team performance fact table
+
+    columns:
+      - name: TEAM_ID
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_teams')
+                field: TEAM_ID
+
+      - name: TEAM_NAME
+        tests:
+          - not_null
+
+  - name: fact_player_rankings
+    description: Player ranking metrics
+
+    columns:
+      - name: PLAYER_ID
+        tests:
+          - not_null
+
+      - name: ATTACKING_SCORE
+        tests:
+          - not_null

@@ -1,0 +1,5033 @@
+[
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "238362",
+        "player_name": "\u00c9douard Mendy",
+        "age": 34,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "307748",
+        "player_name": "Abdulrahman Al-Sanbi",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "367986",
+        "player_name": "Abdullah Abdo",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "62"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "409776",
+        "player_name": "Salman Al-Jadani",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "72"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "418704",
+        "player_name": "Ali Bakhashwin",
+        "age": 17,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "259835",
+        "player_name": "Roger Iba\u00f1ez",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "267178",
+        "player_name": "Merih Demiral",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "325035",
+        "player_name": "Rayane Hamidou",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "46"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "331153",
+        "player_name": "Matteo Dams",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "331920",
+        "player_name": "Ali Majrashi",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "341463",
+        "player_name": "Mohammed Sulaiman",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "349151",
+        "player_name": "Zakaria Al Hawsawi",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "367660",
+        "player_name": "Mohammed Yousef",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "384703",
+        "player_name": "Mansour Alnakhli",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "66"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "405656",
+        "player_name": "Yazan Madani",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "60"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "410714",
+        "player_name": "Yaser Al Fallatah",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "93"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "410717",
+        "player_name": "Ahmed Al Refai",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "51"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "410897",
+        "player_name": "Gustavo Alves",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "194711",
+        "player_name": "Franck Kessi\u00e9",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "79"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "297158",
+        "player_name": "Enzo Millot",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "306692",
+        "player_name": "Ziyad Al-Johani",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "359165",
+        "player_name": "Valentin Atangana",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "367696",
+        "player_name": "Eid Al Muwallad",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "391948",
+        "player_name": "Ramez Al Attar",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "87"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "410718",
+        "player_name": "Ziyad Mallah",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "40"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "411753",
+        "player_name": "Ibrahin Montasser Azzam",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "163940",
+        "player_name": "Riyad Mahrez",
+        "age": 35,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "180639",
+        "player_name": "Ivan Toney",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "259732",
+        "player_name": "Galeno",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "13"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "283331",
+        "player_name": "Feras Al-Brikan",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "334379",
+        "player_name": "Matheus Gon\u00e7alves",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "361364",
+        "player_name": "Ricardo Mathias",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "371797",
+        "player_name": "Saleh Abu Al-Shamat",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "47"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "372852",
+        "player_name": "Yaseen Al Zubaidi",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "403859",
+        "player_name": "Salem Abdullah",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "49"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "410716",
+        "player_name": "Saif Al Salami",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "96"
+    },
+    {
+        "team_id": "8346",
+        "team_name": "Al Ahli",
+        "player_id": "418705",
+        "player_name": "Aboubakkar Moussa",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "98"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "194970",
+        "player_name": "Marek Rod\u00e1k",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "341466",
+        "player_name": "Belal Mousa Ali Al Dawaa",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "76"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "357536",
+        "player_name": "Turki Baaljawsh",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "92"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "357670",
+        "player_name": "Hawswi",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "159195",
+        "player_name": "Francisco Calvo",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "207454",
+        "player_name": "Jack Hendry",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "236088",
+        "player_name": "Abdullah Madu",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "253100",
+        "player_name": "Madallah Al-Olayan",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "278536",
+        "player_name": "Abdullah Khateeb",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "70"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "280862",
+        "player_name": "Abdulbasit Hindi",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "331917",
+        "player_name": "Meshal Sibyani",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "87"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "367517",
+        "player_name": "Radhi Al-Otaibi",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "61"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "408237",
+        "player_name": "Awad Dahal",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "98342",
+        "player_name": "Georginio Wijnaldum",
+        "age": 35,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "200986",
+        "player_name": "\u00c1lvaro Medr\u00e1n",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "206072",
+        "player_name": "Ondrej Duda",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "243630",
+        "player_name": "Mukhtar Ali",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "298879",
+        "player_name": "Jacopo Da Riva",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "40"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "372811",
+        "player_name": "Faris Al Ghamdi",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "390082",
+        "player_name": "Hassan Almusallam",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "391782",
+        "player_name": "Abdulrahman Sahhari",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "393554",
+        "player_name": "Yasir Shammari",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "58"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "401559",
+        "player_name": "Mohammed Alkadi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "418205",
+        "player_name": "Abdulrahman Nabza",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "60"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "180051",
+        "player_name": "Koka",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "196576",
+        "player_name": "Moussa Demb\u00e9l\u00e9",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "288570",
+        "player_name": "Khalid Al-Ghannam",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "373806",
+        "player_name": "Jo\u00e3o Costa",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "380803",
+        "player_name": "Mohau Nkota",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "382397",
+        "player_name": "Matija Gluscevic",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "71"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "391771",
+        "player_name": "Abdullah Al Bishi",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "2"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "391775",
+        "player_name": "Turki Al Madani",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "391786",
+        "player_name": "Jalal Al Salem",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "24"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "391787",
+        "player_name": "Abdulhakim Maghfori",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "8363",
+        "team_name": "Al Ettifaq",
+        "player_id": "391949",
+        "player_name": "Abdullah Al Ghamdi",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "191806",
+        "player_name": "Orlando Mosquera",
+        "age": 31,
+        "position": "Goalkeeper",
+        "jersey": "52"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "367576",
+        "player_name": "Osama Al Thumairy",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "371413",
+        "player_name": "Abdulraouf Al Dakheel",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "389675",
+        "player_name": "Sattam Al Shammari",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "123605",
+        "player_name": "Chris Smalling",
+        "age": 36,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "180698",
+        "player_name": "Mikel Villanueva",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "278537",
+        "player_name": "Mohammed Al Baqawi",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "286012",
+        "player_name": "Ziyad Al Sahafi",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "350707",
+        "player_name": "Ahmed Bamasud",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "357641",
+        "player_name": "Mukhir Al Rashidi",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "357645",
+        "player_name": "Sami Al Khaibari",
+        "age": 36,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "368335",
+        "player_name": "Abdulrhman Al Anzi",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "70"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "371415",
+        "player_name": "Khalid Al Rammah",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "75"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "371420",
+        "player_name": "Mohammed Al Dowaish",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "47"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "389768",
+        "player_name": "Osama Al Turki",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "46"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "422135",
+        "player_name": "J\u00e9r\u00e9mie Kanon",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "159327",
+        "player_name": "Yassine Benzia",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "259963",
+        "player_name": "Alfa Semedo",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "288758",
+        "player_name": "Mansor Faiez Al-Beshe",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "342890",
+        "player_name": "Stylianos Vrontis",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "349836",
+        "player_name": "Nawaf Al-Harthi",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "362868",
+        "player_name": "Rakan Kaabi",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "367947",
+        "player_name": "Sattam Al-Roqi",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "417249",
+        "player_name": "Danyal Al Habeeb",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "186840",
+        "player_name": "Jason",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "215358",
+        "player_name": "Silv\u00e9re Ganvoula",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "35"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "256640",
+        "player_name": "Fashion Sakala",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "275425",
+        "player_name": "Abdullah Al-Joui",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "302750",
+        "player_name": "Malek Al Abdulmonam",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "313423",
+        "player_name": "Abdullah Radif",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "373114",
+        "player_name": "Rayan Enad",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "391785",
+        "player_name": "Sabri Abdu Dahal",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "72"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "404977",
+        "player_name": "Ammar Al Khaibari",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "41"
+    },
+    {
+        "team_id": "21827",
+        "team_name": "Al Fayha",
+        "player_id": "416536",
+        "player_name": "Saikou Secka",
+        "age": null,
+        "position": "Forward",
+        "jersey": "59"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "146710",
+        "player_name": "Ibrahim Zaid",
+        "age": 36,
+        "position": "Goalkeeper",
+        "jersey": "23"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "165799",
+        "player_name": "Bruno Varela",
+        "age": 31,
+        "position": "Goalkeeper",
+        "jersey": "14"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "365535",
+        "player_name": "Majed Al Ghamdi",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "33"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "392492",
+        "player_name": "Yazan Al Ruwaili",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "253205",
+        "player_name": "Abdullah Al-Amar",
+        "age": 32,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "306689",
+        "player_name": "Ahmed Al-Nakhli",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "309321",
+        "player_name": "Abdullah Al-Shanqiti",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "312821",
+        "player_name": "Abdelmounaim Boutouil",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "348553",
+        "player_name": "Mohammed Issa",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "365531",
+        "player_name": "Abdurahman Al-Dakheel",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "365537",
+        "player_name": "Farhan Al-Azmi",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "365541",
+        "player_name": "Abdulaziz Al-Harbi",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "82"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "367515",
+        "player_name": "Sultan Tanker",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "373164",
+        "player_name": "Saud Al Rashed",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "384704",
+        "player_name": "Asiri",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "421269",
+        "player_name": "Thamer Muhaddili",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "61"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "189615",
+        "player_name": "Amir Sayoud",
+        "age": 35,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "233006",
+        "player_name": "Youssouf Alio Oumarou",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "37"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "276127",
+        "player_name": "Loreintz Rosier",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "32"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "286015",
+        "player_name": "Abdulaziz Aldhuwayhi",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "26"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "306516",
+        "player_name": "Miguel Carvalho",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "80"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "336151",
+        "player_name": "Ahmed Al-Shamrani",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "70"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "365524",
+        "player_name": "Abdulhadi Al-Harajin",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "367512",
+        "player_name": "Nawaf Al-Habshi",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "373109",
+        "player_name": "Abdulrahman Al Khaibary",
+        "age": 38,
+        "position": "Midfielder",
+        "jersey": "15"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "384508",
+        "player_name": "Hassan Idris",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "90"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "392488",
+        "player_name": "Muhammad Al Darwish",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "55"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "392489",
+        "player_name": "Mohammed Al Saedi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "45"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "409773",
+        "player_name": "Aboubacar Bah",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "419557",
+        "player_name": "Faiz Hausawi",
+        "age": null,
+        "position": "Midfielder",
+        "jersey": "99"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "419889",
+        "player_name": "Amadou Bamba Dieng",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "206547",
+        "player_name": "F\u00e1bio Martins",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "216955",
+        "player_name": "Omar Al-Somah",
+        "age": 37,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "346381",
+        "player_name": "Elias Mokwana",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "357552",
+        "player_name": "Yousef Al Shammari",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "377690",
+        "player_name": "Nawaf Al Bishri",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "21964",
+        "team_name": "Al Hazem",
+        "player_id": "410386",
+        "player_name": "Abdulrazzaq Awaji",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "175149",
+        "player_name": "Yassine Bounou",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "37"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "256611",
+        "player_name": "Mohammed Al-Yami",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "17"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "358504",
+        "player_name": "Ahmad Abu Rasen",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "362378",
+        "player_name": "Rayan Al Dossary",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "35"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "365781",
+        "player_name": "Mathieu Patouillet",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "25"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "150312",
+        "player_name": "Kalidou Koulibaly",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "169219",
+        "player_name": "Pablo Mar\u00ed",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "30"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "233621",
+        "player_name": "Theo Hern\u00e1ndez",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "256666",
+        "player_name": "Hassan Al-Tambakti",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "87"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "296972",
+        "player_name": "Ali Lajami",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "78"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "320482",
+        "player_name": "Hamad Al-Yami",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "88"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "330543",
+        "player_name": "Moteb Al-Harbi",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "373930",
+        "player_name": "Yusuf Akcicek",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "391777",
+        "player_name": "Mohammed Al Muhaysh",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "391778",
+        "player_name": "Saud Haroun",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "36"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "403727",
+        "player_name": "Saad Khalid Al Muthary",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "404704",
+        "player_name": "Saleh Barnawi",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "404803",
+        "player_name": "Meshal Al Dawood",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "55"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "163850",
+        "player_name": "Salem Al-Dawsari",
+        "age": 34,
+        "position": "Midfielder",
+        "jersey": "29"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "208128",
+        "player_name": "R\u00faben Neves",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "211141",
+        "player_name": "Sergej Milinkovic-Savic",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "262468",
+        "player_name": "Mohamed Kanno",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "270417",
+        "player_name": "Nasser Al-Dawsari",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "341475",
+        "player_name": "Abdullah Al Zaid",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "32"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "356059",
+        "player_name": "Suhayb Alzaid",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "96"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "371472",
+        "player_name": "Sa\u00efmon Bouabr\u00e9",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "70"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "373097",
+        "player_name": "Murad Bin Othman Bin Harun Al Hawsawi",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "392555",
+        "player_name": "Mohammed Al Zaid",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "39"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "405622",
+        "player_name": "Rayan Al Ghamdi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "31"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "418707",
+        "player_name": "Louay Labidi",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "46858",
+        "player_name": "Karim Benzema",
+        "age": 38,
+        "position": "Forward",
+        "jersey": "90"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "202191",
+        "player_name": "Malcom",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "271788",
+        "player_name": "Darwin N\u00fa\u00f1ez",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "287054",
+        "player_name": "Sultan Mandash",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "304571",
+        "player_name": "Marcos Leonardo",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "371402",
+        "player_name": "Turki Al Ghamil",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "66"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "372853",
+        "player_name": "Abdulkarim Darisi",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "391779",
+        "player_name": "Abdulaziz Hadhood",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "74"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "391780",
+        "player_name": "Ali Al Mahdawi",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "43"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "396028",
+        "player_name": "Mohamed Me\u00eft\u00e9",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "75"
+    },
+    {
+        "team_id": "929",
+        "team_name": "Al Hilal",
+        "player_id": "418706",
+        "player_name": "Abdulaziz Jurmush",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "41"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "192126",
+        "player_name": "Predrag Rajkovic",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "336153",
+        "player_name": "Mohammed Alabsi",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "341467",
+        "player_name": "Osama Al Marwash",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "88"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "341472",
+        "player_name": "Hamed Al-Shanqiti",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "47"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "76717",
+        "player_name": "Danilo Pereira",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "185636",
+        "player_name": "Hassan Kadish",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "202276",
+        "player_name": "Ahmed Sharahili",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "20"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "286009",
+        "player_name": "Muhannad Al-Shanqiti",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "306935",
+        "player_name": "Mario Mitaj",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "312560",
+        "player_name": "Stephane Paul Keller",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "3"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "341469",
+        "player_name": "Mohammed Ali Barnawi",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "66"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "355861",
+        "player_name": "Jan-Carlo Simic",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "357529",
+        "player_name": "Saad Al Mosa",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "361707",
+        "player_name": "Ahmed Al-Julaydan",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "390499",
+        "player_name": "Yaseen Khalid",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "87"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "410385",
+        "player_name": "Abdulrahman Hazazi",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "70"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "176287",
+        "player_name": "Fabinho ",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "241116",
+        "player_name": "Houssem Aouar",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "288571",
+        "player_name": "Hamed Alghamdi",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "80"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "349122",
+        "player_name": "Mahamadou Doumbia",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "349150",
+        "player_name": "Awad Al Nashri",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "357523",
+        "player_name": "Faisal Al-Ghamdi",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "366345",
+        "player_name": "Farhah Al Shamrani",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "29"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "389883",
+        "player_name": "Mohammed Fallatah",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "41"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "391942",
+        "player_name": "Mohammed Hazazi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "53"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "398856",
+        "player_name": "Nawaf Al Jadaani",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "177897",
+        "player_name": "Saleh Al-Shehri",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "207542",
+        "player_name": "Steven Bergwijn",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "34"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "242736",
+        "player_name": "Youssef En-Nesyri",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "267585",
+        "player_name": "Abdulaziz Al-Bishi",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "22"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "270670",
+        "player_name": "Moussa Diaby",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "280457",
+        "player_name": "Abdulrahman Al-Obud",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "24"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "324373",
+        "player_name": "Roger Fernandes",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "78"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "357108",
+        "player_name": "George Ilenikhena",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "357522",
+        "player_name": "Ahmed Al Ghamdi",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "371390",
+        "player_name": "Talal Haji",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "90"
+    },
+    {
+        "team_id": "2276",
+        "team_name": "Al Ittihad",
+        "player_id": "391952",
+        "player_name": "Adnan Al Bishri",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "52"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "140195",
+        "player_name": "Anthony Moris",
+        "age": 36,
+        "position": "Goalkeeper",
+        "jersey": "49"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "253409",
+        "player_name": "Marwan Al Haidari",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "96"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "403728",
+        "player_name": "Mohammed Alghanem",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "142291",
+        "player_name": "Bart Schenkeveld",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "163852",
+        "player_name": "Abdullah Al Hafith",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "172190",
+        "player_name": "Ahmad Asiri",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "219233",
+        "player_name": "Rebocho",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "267868",
+        "player_name": "Mohammed Khubrani",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "287057",
+        "player_name": "Bandar Al Mutairi",
+        "age": 36,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "357602",
+        "player_name": "Saeed Al Hamsal",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "357628",
+        "player_name": "Arif Al Haydar",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "357639",
+        "player_name": "Ali Al Salem",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "357649",
+        "player_name": "Hamad Al Jayzani",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "417508",
+        "player_name": "Raed Firas Al Shanqiti",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "160020",
+        "player_name": "Kostas Fortounis",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "206928",
+        "player_name": "Dimitrios Kourbelis",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "259139",
+        "player_name": "Paolo Fernandes",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "331919",
+        "player_name": "Bader Munshi",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "357521",
+        "player_name": "Majed Kanabah",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "12"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "357607",
+        "player_name": "Mohammed Al Abdullah",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "373137",
+        "player_name": "Faisal Al-Bakr",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "399522",
+        "player_name": "Ali Abdoulraouf Alabdrabalnabi",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "415061",
+        "player_name": "Abdoulie Mboge",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "415189",
+        "player_name": "Rakan Al Kabi",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "141188",
+        "player_name": "Joshua King",
+        "age": 34,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "239483",
+        "player_name": "Georgios Masouras",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "262499",
+        "player_name": "Saleh Al-Jamaan",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "93"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "287051",
+        "player_name": "Mansour Hamzi",
+        "age": 34,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "319155",
+        "player_name": "Hussain Ahmed Al Issa",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "370553",
+        "player_name": "Thamer Al Khaibri",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "90"
+    },
+    {
+        "team_id": "21829",
+        "team_name": "Al Khaleej",
+        "player_id": "417507",
+        "player_name": "Abdullah Turki Alzaynaldeen",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "271254",
+        "player_name": "Juan Pablo Cozzani",
+        "age": 27,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "371757",
+        "player_name": "Mohammed Alshammari",
+        "age": 34,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "389696",
+        "player_name": "Muhannad Al Yahya",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "48"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "422073",
+        "player_name": "Fares Bandar Al Zahrani",
+        "age": null,
+        "position": "Goalkeeper",
+        "jersey": "34"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "189897",
+        "player_name": "Norbert Gy\u00f6mb\u00e9r",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "251758",
+        "player_name": "Shaquille Pinas",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "38"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "310407",
+        "player_name": "Edgaras Utkus",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "366339",
+        "player_name": "Hassan Al-Asmari",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "367495",
+        "player_name": "Abdullah Masoud",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "373101",
+        "player_name": "Rashid Al Mutairi",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "373162",
+        "player_name": "Sultan Al-Shehri",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "7"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "390078",
+        "player_name": "Jamaan Al-Dosari",
+        "age": 38,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "417727",
+        "player_name": "Mansour Camara",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "228736",
+        "player_name": "Kevin N'Doram",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "96"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "243599",
+        "player_name": "John Buckley",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "251570",
+        "player_name": "Abdulrahman Al-Dossari",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "39"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "271331",
+        "player_name": "Hatan Bahbri",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "325009",
+        "player_name": "Iker Kortajarena",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "357644",
+        "player_name": "Abdulrahman Al Safari",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "373165",
+        "player_name": "Nawaf Al Shuwaier",
+        "age": 34,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "373174",
+        "player_name": "Muhammad Sawan",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "70"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "392589",
+        "player_name": "Anas Al Otaibi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "90"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "411190",
+        "player_name": "Ibrahem Barabaa",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "411191",
+        "player_name": "Salman Al Mosawa",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "412840",
+        "player_name": "Adi Adi",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "418746",
+        "player_name": "Yousef Al Honaifesh",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "55"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "418987",
+        "player_name": "Rakan Jaman",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "52"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "231921",
+        "player_name": "Adam Berry",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "255654",
+        "player_name": "Myziane Maolida",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "309410",
+        "player_name": "Ramiro Enrique",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "341460",
+        "player_name": "Abdulaziz Al-Aliwa",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "46"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "367538",
+        "player_name": "Ramzi Solan",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "373168",
+        "player_name": "Abdulmalik Al Harbi",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "47"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "382836",
+        "player_name": "Guga",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "391000",
+        "player_name": "Majed Khalifah",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "22028",
+        "team_name": "Al Kholood",
+        "player_id": "392550",
+        "player_name": "Abdullah Al Ajyan",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "222167",
+        "player_name": "Victor Braga",
+        "age": 34,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "323804",
+        "player_name": "Waled Al Enazi",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "87"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "373075",
+        "player_name": "Khaled Al Muqaitib",
+        "age": 34,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "373108",
+        "player_name": "Azzam Al Hussain",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "34"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "172933",
+        "player_name": "Mohammed Al-Fatil",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "199059",
+        "player_name": "Samir",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "302744",
+        "player_name": "Mohammed Al-Konaideri",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "357664",
+        "player_name": "Abdullah Al Hawsawi",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "367643",
+        "player_name": "Nawaf Al Hawsawi",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "50"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "367657",
+        "player_name": "Fahad Al Abdulrazzaq",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "373089",
+        "player_name": "Nasser Al Haleel",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "373119",
+        "player_name": "Saleh Al Bu Olayan",
+        "age": 22,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "377712",
+        "player_name": "Khalid Al Subaie",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "381007",
+        "player_name": "Sultan Alessa",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "66"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "412839",
+        "player_name": "Vitor Vargas",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "238899",
+        "player_name": "Guga",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "258646",
+        "player_name": "David Tijanic",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "43"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "287177",
+        "player_name": "Nabil Donga",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "80"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "337326",
+        "player_name": "Rakan Altulayhi",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "343934",
+        "player_name": "Abdulelah Al Shammry",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "357572",
+        "player_name": "Abdulaziz Al Harabi",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "366015",
+        "player_name": "Marin Prekodravac",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "44"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "372814",
+        "player_name": "Majed Dawran",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "373076",
+        "player_name": "Khaled Al Shammari",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "392634",
+        "player_name": "Abdullah Al Sagheer",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "421272",
+        "player_name": "Majed Mohammed Sharrahi",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "75"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "214690",
+        "player_name": "Bilal Boutobba",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "98"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "264515",
+        "player_name": "Bilel Aouacheria",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "269498",
+        "player_name": "Felippe Cardoso",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "70"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "289907",
+        "player_name": "L\u00e1zaro",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "307750",
+        "player_name": "Ali Jasim",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "357594",
+        "player_name": "Omar Al Ruwaili",
+        "age": 27,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "357611",
+        "player_name": "Hisham Al Dubais",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "367367",
+        "player_name": "Mohammed Al Aqel",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "90"
+    },
+    {
+        "team_id": "22023",
+        "team_name": "Al Najma",
+        "player_id": "372891",
+        "player_name": "Mohammed Mansour Mile",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "270910",
+        "player_name": "Raghid Al-Najjar",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "36"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "301748",
+        "player_name": "Bento",
+        "age": 27,
+        "position": "Goalkeeper",
+        "jersey": "24"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "302332",
+        "player_name": "Nawaf Al-Aqidi",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "391943",
+        "player_name": "Mubarak Al Buainain",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "61"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "404419",
+        "player_name": "Abdulrahman Al Otaibi",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "53"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "165562",
+        "player_name": "I\u00f1igo Mart\u00ednez",
+        "age": 35,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "256667",
+        "player_name": "Abdulelah Al-Amri",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "269485",
+        "player_name": "Sultan Al-Ghannam",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "277306",
+        "player_name": "Mohamed Simakan",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "313147",
+        "player_name": "Saad Al Nasser",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "96"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "331918",
+        "player_name": "Nawaf Boushal",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "336161",
+        "player_name": "Nader Al Sharari",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "341476",
+        "player_name": "Salem Al Najdi",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "83"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "379993",
+        "player_name": "Awad Aman",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "70"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "178383",
+        "player_name": "Marcelo Brozovic",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "256668",
+        "player_name": "Sami Al-Najei",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "271461",
+        "player_name": "Abdullah Al-Khaibari",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "296602",
+        "player_name": "Aiman Yahya",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "309320",
+        "player_name": "Ali Al-Hassan",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "341471",
+        "player_name": "Abdulmalik Al Jaber",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "362745",
+        "player_name": "Hayder Abdulkareem",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "391774",
+        "player_name": "Bassam Hazazi",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "88"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "404665",
+        "player_name": "Rakan Al Ghamdi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "56"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "22774",
+        "player_name": "Cristiano Ronaldo",
+        "age": 41,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "169797",
+        "player_name": "Sadio Man\u00e9",
+        "age": 34,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "184012",
+        "player_name": "Kingsley Coman",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "270415",
+        "player_name": "Abdulrahman Ghareeb",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "276350",
+        "player_name": "Jo\u00e3o F\u00e9lix",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "79"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "294239",
+        "player_name": "Abdullah Al-Hamdan",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "302333",
+        "player_name": "Mohammed Maran",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "16"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "309275",
+        "player_name": "\u00c2ngelo Gabriel",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "380395",
+        "player_name": "Saad Haqawi",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "60"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "391941",
+        "player_name": "Faris Salem",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "54"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "400856",
+        "player_name": "Youssef Mohammed Al Tahan",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "40"
+    },
+    {
+        "team_id": "817",
+        "team_name": "Al Nassr",
+        "player_id": "403855",
+        "player_name": "Abdulrahman Sufyani",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "58"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "202301",
+        "player_name": "Samuel Portugal",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "94"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "286017",
+        "player_name": "Rakan Najjar",
+        "age": 31,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "373140",
+        "player_name": "Hatem Aljuhani",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "26"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "389708",
+        "player_name": "Saad Al Qarni",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "92"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "174616",
+        "player_name": "Koray G\u00fcnter",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "310294",
+        "player_name": "Saeed Al-Rabiei",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "356106",
+        "player_name": "Muath Muath",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "42"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "357632",
+        "player_name": "Mohammed Abu Abd",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "357646",
+        "player_name": "Mohanad Al Qaydhi",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "98"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "366994",
+        "player_name": "Naif Asiri",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "367747",
+        "player_name": "Hussain Al Zabdani",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "8"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "390079",
+        "player_name": "Ahmed Ghassan",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "87"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "108251",
+        "player_name": "G\u00f6khan G\u00fcl",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "196748",
+        "player_name": "Juan Pedroza",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "252477",
+        "player_name": "Yvan Neyou",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "365540",
+        "player_name": "Saleh Al-Harthi",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "367695",
+        "player_name": "Mohammed Al Jahif",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "367748",
+        "player_name": "Abdulaziz Al Hatila",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "12"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "368599",
+        "player_name": "Saud Salem",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "390081",
+        "player_name": "Saif Balhareth",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "77"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "395382",
+        "player_name": "Mateo Borrell",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "55"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "410392",
+        "player_name": "Mohammed Al Qahtani",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "415057",
+        "player_name": "Ahmed Majrashi",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "96"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "415058",
+        "player_name": "Ibrahim Ashi",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "88"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "164556",
+        "player_name": "Tokmac Nguen",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "93"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "209584",
+        "player_name": "Khaled Narey",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "234395",
+        "player_name": "Christian Bassogog",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "13"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "291391",
+        "player_name": "Saleh Al Abbas",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "326767",
+        "player_name": "Burak Ince",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "21966",
+        "team_name": "Al Okhdood",
+        "player_id": "371782",
+        "player_name": "Khaled Al-Lazam",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "140079",
+        "player_name": "Koen Casteels",
+        "age": 33,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "171878",
+        "player_name": "Ahmed Al-Kassar",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "28"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "357584",
+        "player_name": "Meshari Sunyur",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "390998",
+        "player_name": "Mohammed Ibrahim",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "99"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "414984",
+        "player_name": "Abgullah Almuhaysin",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "157710",
+        "player_name": "Nacho",
+        "age": 36,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "171877",
+        "player_name": "Yasser Al-Shahrani",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "195753",
+        "player_name": "Gast\u00f3n \u00c1lvarez Suarez",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "285258",
+        "player_name": "Mohammed Qasem",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "286643",
+        "player_name": "Waleed Al-Ahmed",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "395390",
+        "player_name": "Alejandro Vergaz",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "49"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "421393",
+        "player_name": "Abdulah Al Jwayzan",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "196881",
+        "player_name": "Ot\u00e1vio",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "25"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "200192",
+        "player_name": "Julian Weigl",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "213056",
+        "player_name": "Nahitan N\u00e1ndez",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "283330",
+        "player_name": "Turki Al-Ammar",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "287058",
+        "player_name": "Ali Abdullah Hazzazi",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "288573",
+        "player_name": "Ibrahim Mahnashi",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "40"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "315523",
+        "player_name": "Musab Al-Juwayr",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "361692",
+        "player_name": "Mohammed Abu Al-Shamat",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "2"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "371796",
+        "player_name": "Jehad Thakri",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "391947",
+        "player_name": "Amar Al Yuhaybi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "90"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "411470",
+        "player_name": "Eyad Houssa",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "233075",
+        "player_name": "Juli\u00e1n Qui\u00f1ones",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "33"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "268703",
+        "player_name": "Mateo Retegui",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "32"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "286249",
+        "player_name": "Abdullah Al-Salem",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "306690",
+        "player_name": "Haitham Asiri",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "360279",
+        "player_name": "Christopher Bonsu Baah",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "22"
+    },
+    {
+        "team_id": "22022",
+        "team_name": "Al Qadsiah",
+        "player_id": "361399",
+        "player_name": "Gabriel Teixeira",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "157292",
+        "player_name": "Milan Borjan",
+        "age": 38,
+        "position": "Goalkeeper",
+        "jersey": "82"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "367371",
+        "player_name": "Abdurahman Al Shammeri",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "371781",
+        "player_name": "Emad Fidaa",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "97"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "410547",
+        "player_name": "Jan Petek",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "28"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "197151",
+        "player_name": "Yoann Barbet",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "198849",
+        "player_name": "Sergio Gonz\u00e1lez",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "256808",
+        "player_name": "Abdullah Hassuna",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "313422",
+        "player_name": "Mohammed Alkhaibari",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "331921",
+        "player_name": "Sulaiman Hazazi",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "363144",
+        "player_name": "Ahmed Khatir",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "367369",
+        "player_name": "Abdulelah Al Khaibari",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "80"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "372196",
+        "player_name": "Marzouq Tambakti",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "87"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "372894",
+        "player_name": "Osama Zaid Abdulaziz Al Bowardi",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "7"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "373083",
+        "player_name": "Ammar Al Harfi",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "373411",
+        "player_name": "Essam Bahri",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "45"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "399863",
+        "player_name": "Saud Al Tumbukti",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "408963",
+        "player_name": "Abdulaziz Al Asbahi",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "418040",
+        "player_name": "Ahmed Al Siyahi",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "35"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "181748",
+        "player_name": "Toz\u00e9",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "185523",
+        "player_name": "Victor Lekhal",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "243928",
+        "player_name": "Yahya Alshehri",
+        "age": 35,
+        "position": "Midfielder",
+        "jersey": "88"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "341421",
+        "player_name": "Khaled Ali",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "357621",
+        "player_name": "Muhammad Sahlouli",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "400624",
+        "player_name": "Talal Riyadh Al Shubili",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "408120",
+        "player_name": "Salman Matar",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "29"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "418364",
+        "player_name": "Faisal Al Subhi",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "94"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "218438",
+        "player_name": "Mamadou Sylla",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "9"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "255773",
+        "player_name": "Teddy Okou",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "302747",
+        "player_name": "Khalil Al-Absi",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "324809",
+        "player_name": "Enes Sali",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "98"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "339790",
+        "player_name": "Nasser Al Bishi",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "373566",
+        "player_name": "Leandro Antunes",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "403641",
+        "player_name": "Luca Ramirez",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "32"
+    },
+    {
+        "team_id": "21965",
+        "team_name": "Al Riyadh",
+        "player_id": "417994",
+        "player_name": "Sultan Ali Harun",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "199072",
+        "player_name": "Marcelo Grohe",
+        "age": 39,
+        "position": "Goalkeeper",
+        "jersey": "43"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "357534",
+        "player_name": "Abdulaziz Rahma",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "23"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "357668",
+        "player_name": "Mohammed Al Mahasna",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "33"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "399145",
+        "player_name": "Mishal Bin Motaib",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "55"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "411755",
+        "player_name": "Muhammad Al Otaibi",
+        "age": 17,
+        "position": "Goalkeeper",
+        "jersey": "60"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "190977",
+        "player_name": "Wesley Hoedt",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "253195",
+        "player_name": "Ali Al-Bulayhi",
+        "age": 36,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "307639",
+        "player_name": "Saad Balobaid",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "31"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "336156",
+        "player_name": "Hussain Al-Sabiyani",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "336159",
+        "player_name": "Fawaz Al Saqour",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "339789",
+        "player_name": "Mohammed Essa Harbush",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "38"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "357581",
+        "player_name": "Mubarak Al-Rajeh",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "94"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "357659",
+        "player_name": "Ali Makki",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "367368",
+        "player_name": "Mohammed Al Shwirekh",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "367513",
+        "player_name": "Mohammed Al Thani",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "394928",
+        "player_name": "Amjad Haraj",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "399146",
+        "player_name": "Adel Al Mutairi",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "36"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "409771",
+        "player_name": "Sultan",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "417376",
+        "player_name": "Nasser Ali Al Bishi",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "72"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "174893",
+        "player_name": "Yannick Carrasco",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "194557",
+        "player_name": "Josh Brownhill",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "218857",
+        "player_name": "Vincent Sierro",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "256672",
+        "player_name": "Ali Al-Asmari",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "40"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "265911",
+        "player_name": "Yacine Adli",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "29"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "279748",
+        "player_name": "Unai Hernandez",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "307638",
+        "player_name": "Basil Yousef Al-Sayyali",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "341474",
+        "player_name": "Faisal Al Sibyani",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "409796",
+        "player_name": "Abdulelah Daghar",
+        "age": null,
+        "position": "Midfielder",
+        "jersey": "71"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "413628",
+        "player_name": "Abdullah Jaman",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "63"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "185520",
+        "player_name": "Abderrazak Hamdallah",
+        "age": 35,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "196826",
+        "player_name": "Carlos",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "13"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "273590",
+        "player_name": "Haroune Camara",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "70"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "336157",
+        "player_name": "Abdullah Saeed",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "37"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "383084",
+        "player_name": "Hammam Al-Hammami",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "388400",
+        "player_name": "Majed Abdullah",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "389695",
+        "player_name": "Abdulaziz Al Othman",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "91"
+    },
+    {
+        "team_id": "793",
+        "team_name": "Al Shabab",
+        "player_id": "400062",
+        "player_name": "Ali Azaizeh",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "257325",
+        "player_name": "Mailson",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "269481",
+        "player_name": "Abdulquddus Atiah",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "399468",
+        "player_name": "Abdulrahman Alsenaid",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "25"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "186952",
+        "player_name": "Andrei Girotto",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "270416",
+        "player_name": "Al Mufarrij",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "357519",
+        "player_name": "Qassem",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "87"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "357549",
+        "player_name": "Mohammed Al Hurayji",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "66"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "362869",
+        "player_name": "Meshal Alaeli",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "371749",
+        "player_name": "Ibrahim Alshuayl",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "373156",
+        "player_name": "Mohammed Al Dossari",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "55"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "391104",
+        "player_name": "Moustapha S\u00e9mb\u00e8ne",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "404804",
+        "player_name": "Nawaf Mazen Al Hawairy",
+        "age": 17,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "215452",
+        "player_name": "Angelo Fulgini",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "219003",
+        "player_name": "Fl\u00e1vio",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "224789",
+        "player_name": "Aschraf El Mahdioui",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "347036",
+        "player_name": "Ahmed Saleh Bahusayn",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "29"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "347410",
+        "player_name": "Victor Hugo",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "367659",
+        "player_name": "Mohammed Mater Mohsin Mahzari",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "367728",
+        "player_name": "Abdulelah Hawsawi",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "77"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "388897",
+        "player_name": "Turki Al Shaifan",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "394295",
+        "player_name": "Abdulmalik Ghazzi Al Harbi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "44"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "192180",
+        "player_name": "Roger Mart\u00ednez",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "256608",
+        "player_name": "Fahad Alrashidi",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "97"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "269072",
+        "player_name": "Musa Barrow",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "271460",
+        "player_name": "Mohammed Al Kuwaykibi",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "314835",
+        "player_name": "Gabriel Teixeira",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "318055",
+        "player_name": "Cristhoper Zambrano",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "324942",
+        "player_name": "Mohammed Al-Qahtani",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "325943",
+        "player_name": "Marin Petkov",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "88"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "368594",
+        "player_name": "Hamoud Bassam",
+        "age": 21,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "372880",
+        "player_name": "Saif Rashad Mohamed",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "74"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "373132",
+        "player_name": "Koshaim Al Karani",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "70"
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "391105",
+        "player_name": "Bassem Al-Arini",
+        "age": 22,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "18459",
+        "team_name": "Al Taawoun",
+        "player_id": "391794",
+        "player_name": "Anas Al Ghamdi",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "33"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "256604",
+        "player_name": "Lu\u00eds Maximiano",
+        "age": 27,
+        "position": "Goalkeeper",
+        "jersey": "81"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "260035",
+        "player_name": "Marcin Bulka",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "99"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "282090",
+        "player_name": "Mustafa Malaika",
+        "age": 40,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "310551",
+        "player_name": "Ozaybi Raed",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "379651",
+        "player_name": "Mohammed Al Hakim",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "88"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "141213",
+        "player_name": "Ahmed Hegazi",
+        "age": 35,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "251569",
+        "player_name": "Mohammed Al-Burayk",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "256671",
+        "player_name": "Awn Al-Saluli",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "93"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "268468",
+        "player_name": "Abdi Faris",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "288572",
+        "player_name": "Khalifah Al-Dawsari",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "337325",
+        "player_name": "Abdulmalik Al Oyayari",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "356293",
+        "player_name": "Nathan Zeze",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "357651",
+        "player_name": "Islam Hawsawi",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "378621",
+        "player_name": "Nawaf Al Ghulaimish",
+        "age": 21,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "415062",
+        "player_name": "Ali Al Nakhli",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "48"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "147037",
+        "player_name": "Salman Al-Faraj",
+        "age": 37,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "176562",
+        "player_name": "Abdoulaye Doucour\u00e9",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "309318",
+        "player_name": "Abdulaziz Noor",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "357660",
+        "player_name": "Ala Al-Hajji",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "367653",
+        "player_name": "Abbas Al Hassan",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "372858",
+        "player_name": "Ayman Fallatah",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "95"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "375052",
+        "player_name": "Amadou Kon\u00e9",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "72"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "390083",
+        "player_name": "Younis Alshanqity",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "47"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "416495",
+        "player_name": "Geovanny Balanta",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "57"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "422214",
+        "player_name": "Yahya Mousa Yahya Gharawi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "61"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "422234",
+        "player_name": "Fares Ahmed Al Ghafli",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "54"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "118688",
+        "player_name": "Luciano Rodr\u00edguez",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "131752",
+        "player_name": "Alexandre Lacazette",
+        "age": 35,
+        "position": "Forward",
+        "jersey": "91"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "194543",
+        "player_name": "Sa\u00efd Benrahma",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "307749",
+        "player_name": "Hassan Hashim Al Ali",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "346286",
+        "player_name": "Ahmed Abdu",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "71"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "371659",
+        "player_name": "Muhannad Al-Saad",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "391781",
+        "player_name": "Nawaf Al Janahi",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "394467",
+        "player_name": "Rayane Messi",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "80"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "416543",
+        "player_name": "Abdulaziz Al Khanani",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "59"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "418721",
+        "player_name": "Jos\u00e9 Luis Carabal\u00ed",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "51"
+    },
+    {
+        "team_id": "130899",
+        "team_name": "Neom SC",
+        "player_id": "421308",
+        "player_name": "Ahmed Al Anazi",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "60"
+    }
+]

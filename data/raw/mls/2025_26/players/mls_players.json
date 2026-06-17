@@ -1,0 +1,6833 @@
+[
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "183780",
+        "player_name": "Brad Stuver",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "249729",
+        "player_name": "Stefan Cleveland",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "192547",
+        "player_name": "Antonio Gomez",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "196666",
+        "player_name": "Oleksandr Svatok",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "213250",
+        "player_name": "Mikkel Desler",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "231047",
+        "player_name": "Jon Gallagher",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "238438",
+        "player_name": "Brendan Hines-Ike",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "241859",
+        "player_name": "Julio Cascante",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "259805",
+        "player_name": "Zan Kolmanic",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "304696",
+        "player_name": "Guilherme Biro",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "308642",
+        "player_name": "Riley Thomas",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "322966",
+        "player_name": "Mateja Djordjevic",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "35"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "89175",
+        "player_name": "Adrian Gonzalez",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "37"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "150185",
+        "player_name": "Ilie S\u00e1nchez",
+        "age": 35,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "225834",
+        "player_name": "Besard Sabovic",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "304535",
+        "player_name": "Owen Wolff",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "33"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "316077",
+        "player_name": "Dani Pereira",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "318486",
+        "player_name": "CJ Fodrey",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "365828",
+        "player_name": "Micah Burton",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "32"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "377602",
+        "player_name": "Nicol\u00e1s Dubersarsky",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "381219",
+        "player_name": "Ervin Torres",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "38"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "162946",
+        "player_name": "Diego Rubio",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "216183",
+        "player_name": "J\u00e1der Obrian",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "228620",
+        "player_name": "Brandon V\u00e1zquez",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "237823",
+        "player_name": "Robert Taylor",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "16"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "275500",
+        "player_name": "Myrto Uzuni",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "276407",
+        "player_name": "Osman Bukari",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "20906",
+        "team_name": "Austin FC",
+        "player_id": "381490",
+        "player_name": "Jimmy Farkarlun",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "252607",
+        "player_name": "S\u00e9bastian Breza",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "303555",
+        "player_name": "Jonathan Sirois",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "318238",
+        "player_name": "Thomas Gillier",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "271816",
+        "player_name": "Luca Petrasso",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "295620",
+        "player_name": "Bode Hidalgo",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "303469",
+        "player_name": "Jalen Neal",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "304135",
+        "player_name": "Brandan Craig",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "304154",
+        "player_name": "Efra\u00edn Morales",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "324044",
+        "player_name": "Fernando \u00c1lvarez",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "364675",
+        "player_name": "Dawid Bugaj",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "401057",
+        "player_name": "Aleksandr Guboglo",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "87387",
+        "player_name": "Samuel Piette",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "279758",
+        "player_name": "Matthew Longstaff",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "280489",
+        "player_name": "Iv\u00e1n Jaime",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "302238",
+        "player_name": "Bryce Duke",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "343641",
+        "player_name": "Victor Loturi",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "233047",
+        "player_name": "Fabian Herbers",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "250685",
+        "player_name": "Giacomo Vrioni",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "275798",
+        "player_name": "Prince Owusu",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "307221",
+        "player_name": "Dante Sealy",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "308587",
+        "player_name": "Kwadwo Opoku",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "315919",
+        "player_name": "Sunusi Ibrahim",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "377044",
+        "player_name": "Olger Escobar",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "384984",
+        "player_name": "Hennadii Synchuk",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "9720",
+        "team_name": "CF Montr\u00e9al",
+        "player_id": "400462",
+        "player_name": "Owen Graham-Roache",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "35"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "6746",
+        "player_name": "David Bingham",
+        "age": 36,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "221408",
+        "player_name": "Kristijan Kahlina",
+        "age": 33,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "245083",
+        "player_name": "Drake Callender",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "297374",
+        "player_name": "Chituru Odunze",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "26"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "146290",
+        "player_name": "Tim Ream",
+        "age": 38,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "156506",
+        "player_name": "Nathan Byrne",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "159461",
+        "player_name": "Bill Tuiloma",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "172833",
+        "player_name": "Harry Toffolo",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "286759",
+        "player_name": "Nicholas Scardina",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "35"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "302060",
+        "player_name": "Jahkeele Marshall-Rutty",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "312130",
+        "player_name": "Adilson Malanda",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "360850",
+        "player_name": "Mikah Thomas",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "360934",
+        "player_name": "Jack Neeley",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "7567",
+        "player_name": "Ashley Westwood",
+        "age": 36,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "231057",
+        "player_name": "Eryk Williamson",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "246371",
+        "player_name": "Brandt Bronico",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "13"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "268604",
+        "player_name": "Pep Biel",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "282755",
+        "player_name": "Djibril Diani",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "319014",
+        "player_name": "Andrew Privett",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "322064",
+        "player_name": "Nikola Petkovic",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "372070",
+        "player_name": "Baye Coulibaly",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "55"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "146324",
+        "player_name": "Wilfried Zaha",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "312976",
+        "player_name": "Liel Abada",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "314343",
+        "player_name": "Archie Goodwin",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "340596",
+        "player_name": "Kerwin Vargas",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "340698",
+        "player_name": "Idan Toklomati",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "345889",
+        "player_name": "Brian Carmona Romero",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "41"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "355456",
+        "player_name": "Nimfasha Berchimas",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "356108",
+        "player_name": "Brandon Cambridge",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "36"
+    },
+    {
+        "team_id": "21300",
+        "team_name": "Charlotte FC",
+        "player_id": "383890",
+        "player_name": "Tyger Smalls",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "219276",
+        "player_name": "Zack Steffen",
+        "age": 31,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "293342",
+        "player_name": "Nico Hansen",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "41"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "360855",
+        "player_name": "Adam Beaudry",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "180719",
+        "player_name": "Andreas Maxs\u00f8",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "203974",
+        "player_name": "Rafael Santos",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "30"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "218188",
+        "player_name": "Rob Holding",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "233045",
+        "player_name": "Keegan Rosenberry",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "251369",
+        "player_name": "Reggie Cannon",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "260912",
+        "player_name": "Sam Vines",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "296216",
+        "player_name": "Ian Murphy",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "319441",
+        "player_name": "Noah Cobb",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "400746",
+        "player_name": "Anderson Rosa",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "36"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "222453",
+        "player_name": "Connor Ronan",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "277392",
+        "player_name": "Cole Bassett",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "277851",
+        "player_name": "Joshua Atencio",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "12"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "288873",
+        "player_name": "Ted Ku-Dipietro",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "297098",
+        "player_name": "Daouda Amadou",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "45"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "304129",
+        "player_name": "Paxten Aaronson",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "315920",
+        "player_name": "Oliver Larraz",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "334205",
+        "player_name": "Alexis Castillo Manyoma",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "377767",
+        "player_name": "Ali Fadal",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "15"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "399258",
+        "player_name": "Samuel Bassett",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "179245",
+        "player_name": "Alex Harris",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "16"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "288791",
+        "player_name": "Rafael Navarro",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "293695",
+        "player_name": "Calvin Harris",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "304623",
+        "player_name": "Darren Yapi",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "380600",
+        "player_name": "Wayne Frederick",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "13"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "380601",
+        "player_name": "Kimani Stewart-Baynes",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "184",
+        "team_name": "Colorado Rapids",
+        "player_id": "381753",
+        "player_name": "Sydney Wathuta",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "47"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "171562",
+        "player_name": "Evan Bush",
+        "age": 40,
+        "position": "Goalkeeper",
+        "jersey": "24"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "224640",
+        "player_name": "Nicholas Hagen",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "228348",
+        "player_name": "Abraham Romero",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "275080",
+        "player_name": "Patrick Schulte",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "28"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "382614",
+        "player_name": "Stanislav Lapkes",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "41"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "152660",
+        "player_name": "Rudy Camacho",
+        "age": 35,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "180113",
+        "player_name": "Steven Moreira",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "31"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "264469",
+        "player_name": "Yevhen Cheberko",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "271075",
+        "player_name": "Malte Amundsen",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "286389",
+        "player_name": "Andres Herrera",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "2"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "317021",
+        "player_name": "Mohamed Farsi",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "392011",
+        "player_name": "Cesar Ruvalcaba",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "48"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "399918",
+        "player_name": "Tristan Brown",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "156157",
+        "player_name": "Darlington Nagbe",
+        "age": 35,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "231052",
+        "player_name": "Amar Sejdic",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "235817",
+        "player_name": "Diego Rossi",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "240232",
+        "player_name": "Derrick Jones",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "257844",
+        "player_name": "D\u00e1niel Gazdag",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "270189",
+        "player_name": "Dylan Chambost",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "296221",
+        "player_name": "Sean Zawadzki",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "25"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "351379",
+        "player_name": "Hugo Picard",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "362812",
+        "player_name": "Taha Habroune",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "237957",
+        "player_name": "Lassi Lappalainen",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "270819",
+        "player_name": "Wessam Abou Ali",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "287444",
+        "player_name": "Ibrahim Aliyu",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "297121",
+        "player_name": "Jacen Russell-Rowe",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "359542",
+        "player_name": "Max Arfsten",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "183",
+        "team_name": "Columbus Crew",
+        "player_id": "399994",
+        "player_name": "Chase Adams",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "46"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "184960",
+        "player_name": "Alec Kann",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "242975",
+        "player_name": "Evan Louro",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "315972",
+        "player_name": "Roman Celentano",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "18"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "331104",
+        "player_name": "Nate Crockford",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "357785",
+        "player_name": "Paul Walters",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "25"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "42583",
+        "player_name": "Gilberto Flores",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "159296",
+        "player_name": "Alvas Powell",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "176044",
+        "player_name": "Brad Smith",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "187273",
+        "player_name": "Matt Miazga",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "201354",
+        "player_name": "Nick Hagglund",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "232755",
+        "player_name": "Teenage Hadebe",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "249768",
+        "player_name": "Miles Robinson",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "311520",
+        "player_name": "Lukas Engel",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "318955",
+        "player_name": "Noah Adnan",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "86436",
+        "player_name": "Evander",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "254292",
+        "player_name": "Tah Anunga",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "275106",
+        "player_name": "Obinna Nwobodo",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "279180",
+        "player_name": "Pavel Bucha",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "319004",
+        "player_name": "Peter Mangione",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "49"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "353751",
+        "player_name": "Stiven Jimenez",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "37"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "362895",
+        "player_name": "Gerardo Valenzuela",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "363908",
+        "player_name": "Samuel Gidi",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "398300",
+        "player_name": "Stefan Chirila",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "75574",
+        "player_name": "Kei Kamara",
+        "age": 41,
+        "position": "Forward",
+        "jersey": "85"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "171673",
+        "player_name": "Yuya Kubo",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "251694",
+        "player_name": "K\u00e9vin Denkey",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "257744",
+        "player_name": "Brenner",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "8"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "276305",
+        "player_name": "Luca Orellano",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "305664",
+        "player_name": "Ayoub Jabbari",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "361138",
+        "player_name": "Ender Echenique",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "66"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "364658",
+        "player_name": "Dominik Marczuk",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "369861",
+        "player_name": "Andr\u00e9s D\u00e1vila",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "43"
+    },
+    {
+        "team_id": "18267",
+        "team_name": "FC Cincinnati",
+        "player_id": "388854",
+        "player_name": "Kenji Mboma Dem",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "35"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "238919",
+        "player_name": "Maarten Paes",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "273249",
+        "player_name": "Jacob Jackson",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "98"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "308001",
+        "player_name": "Jt Harms",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "379566",
+        "player_name": "Michael Collodi",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "219275",
+        "player_name": "Shaq Moore",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "233460",
+        "player_name": "Sebastien Ibeagha",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "251801",
+        "player_name": "Lalas Abubakar",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "268731",
+        "player_name": "Osaze Urhoghide",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "293833",
+        "player_name": "Herbert Endeley",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "314829",
+        "player_name": "Geovane Jesus",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "356357",
+        "player_name": "Nolan Norris",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "398753",
+        "player_name": "Malachi Molina",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "35"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "400216",
+        "player_name": "Enzo Newman",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "400247",
+        "player_name": "\u00c1lvaro Augusto",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "405592",
+        "player_name": "Joshua Torquato",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "157285",
+        "player_name": "Ramiro",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "180955",
+        "player_name": "Sebastian Lletget",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "245843",
+        "player_name": "Paxton Pomykal",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "283864",
+        "player_name": "Christian Cappis",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "12"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "297142",
+        "player_name": "Patrickson Delgado",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "324553",
+        "player_name": "Diego Garc\u00eda",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "50"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "351188",
+        "player_name": "Pedrinho",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "379568",
+        "player_name": "Alejandro Urzua",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "380441",
+        "player_name": "Kaick",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "55"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "199822",
+        "player_name": "Anderson Julio",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "277128",
+        "player_name": "Petar Musa",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "291608",
+        "player_name": "Louicius Deedson",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "318373",
+        "player_name": "Bernard Kamungo",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "319388",
+        "player_name": "Tarik Scott",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "41"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "324809",
+        "player_name": "Enes Sali",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "348652",
+        "player_name": "Samuel Sarver",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "28"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "348870",
+        "player_name": "Logan Farrington",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "366021",
+        "player_name": "Anthony Ramirez",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "51"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "378655",
+        "player_name": "Tomas Pondeca",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "35"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "398754",
+        "player_name": "Daniel Baran",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "36"
+    },
+    {
+        "team_id": "185",
+        "team_name": "FC Dallas",
+        "player_id": "398755",
+        "player_name": "Diego Pepi",
+        "age": 21,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "65434",
+        "player_name": "Jonathan Bond",
+        "age": 33,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "156197",
+        "player_name": "Jimmy Maurer",
+        "age": 37,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "233049",
+        "player_name": "Andrew Tarbell",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "331136",
+        "player_name": "Blake Gillingham",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "26"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "400323",
+        "player_name": "Pedro",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "32"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "17478",
+        "player_name": "Michael Halliday",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "171623",
+        "player_name": "Daniel Steres",
+        "age": 35,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "196842",
+        "player_name": "Ant\u00f4nio Carlos",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "199690",
+        "player_name": "Franco Escobar",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "200139",
+        "player_name": "Damion Lowe",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "204833",
+        "player_name": "Pablo Ort\u00edz",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "218058",
+        "player_name": "Erik Sviatchenko",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "302996",
+        "player_name": "Obafemi Awodesu",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "315455",
+        "player_name": "Felipe Andrade",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "36"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "315921",
+        "player_name": "Ethan Bartlow",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "182070",
+        "player_name": "Duane Holmes",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "203304",
+        "player_name": "J\u00fanior Urso",
+        "age": 37,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "219466",
+        "player_name": "Diadie Samassekou",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "236342",
+        "player_name": "Artur",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "255910",
+        "player_name": "Amine Bassi",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "257090",
+        "player_name": "Ondrej Lingr",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "9"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "267116",
+        "player_name": "Griffin Dorsey",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "285890",
+        "player_name": "Jefferson Valverde",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "287464",
+        "player_name": "Sebastian Kowalczyk",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "303512",
+        "player_name": "Jack McGlynn",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "304169",
+        "player_name": "Erik Due\u00f1as",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "329364",
+        "player_name": "Brooklyn Raines",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "35"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "362345",
+        "player_name": "Diego Gonzalez",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "29"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "398298",
+        "player_name": "Sebastian Rodriguez",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "194553",
+        "player_name": "Ezequiel Ponce",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "214446",
+        "player_name": "Sergio Santos",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "289300",
+        "player_name": "Gabriel Segal",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "323199",
+        "player_name": "Lawrence Ennali",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "323247",
+        "player_name": "Nelson Qui\u00f1ones",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "346342",
+        "player_name": "Exon Arz\u00fa",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "33"
+    },
+    {
+        "team_id": "6077",
+        "team_name": "Houston Dynamo FC",
+        "player_id": "380678",
+        "player_name": "Stephen Annor Gyamfi",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "102985",
+        "player_name": "Oscar Ustari",
+        "age": 39,
+        "position": "Goalkeeper",
+        "jersey": "19"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "174703",
+        "player_name": "William Yarbrough",
+        "age": 37,
+        "position": "Goalkeeper",
+        "jersey": "25"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "297047",
+        "player_name": "Rocco R\u00edos Novo",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "34"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "121021",
+        "player_name": "Jordi Alba",
+        "age": 37,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "282589",
+        "player_name": "Marcelo Weigandt",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "57"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "310279",
+        "player_name": "Maximiliano Falc\u00f3n",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "315617",
+        "player_name": "Gonzalo Luj\u00e1n",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "316269",
+        "player_name": "Ian Fray",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "316344",
+        "player_name": "Noah Allen",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "319038",
+        "player_name": "Ryan Sailor",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "358595",
+        "player_name": "Tom\u00e1s Avil\u00e9s",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "359239",
+        "player_name": "Israel Boatwright",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "62"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "364401",
+        "player_name": "Tyler Hall",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "399942",
+        "player_name": "Samuel Basabe",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "51"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "399951",
+        "player_name": "Cesar Abadia-Reda",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "76"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "121893",
+        "player_name": "Sergio Busquets",
+        "age": 37,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "174466",
+        "player_name": "Rodrigo De Paul",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "199032",
+        "player_name": "Santiago Morales",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "81"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "229289",
+        "player_name": "David Ruiz",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "41"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "265897",
+        "player_name": "Ricardo Montenegro",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "69"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "315594",
+        "player_name": "Telasco Segovia",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "329025",
+        "player_name": "Yannick Bright",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "339804",
+        "player_name": "Baltasar Rodr\u00edguez",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "45843",
+        "player_name": "Lionel Messi",
+        "age": 38,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "125088",
+        "player_name": "Luis Su\u00e1rez",
+        "age": 39,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "211678",
+        "player_name": "Faf\u00e0 Picault",
+        "age": 35,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "315801",
+        "player_name": "Tadeo Allende",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "347042",
+        "player_name": "Allen Obando",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "387661",
+        "player_name": "Mateo Silvetti",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "24"
+    },
+    {
+        "team_id": "20232",
+        "team_name": "Inter Miami CF",
+        "player_id": "399970",
+        "player_name": "D\u00e1niel Pint\u00e9r",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "56"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "242928",
+        "player_name": "JT Marcinkowski",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "256614",
+        "player_name": "Brady Scott",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "322058",
+        "player_name": "Novak Micovic",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "105803",
+        "player_name": "Maya Yoshida",
+        "age": 37,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "111177",
+        "player_name": "Mathias J\u00f8rgensen",
+        "age": 36,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "133963",
+        "player_name": "Carlos Garc\u00e9s",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "183779",
+        "player_name": "Eriq Zavaleta",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "225615",
+        "player_name": "John Nelson",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "238050",
+        "player_name": "Miki Yamane",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "287252",
+        "player_name": "Mauricio Cuevas",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "297050",
+        "player_name": "Juli\u00e1n Aude",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "366047",
+        "player_name": "Harbor Miller",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "122356",
+        "player_name": "Marco Reus",
+        "age": 37,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "156187",
+        "player_name": "Diego Fagundez",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "230580",
+        "player_name": "Lucas Sanabria",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "270611",
+        "player_name": "Ricard Puig",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "286198",
+        "player_name": "Edwin Cerrillo",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "287355",
+        "player_name": "Tucker Lepley",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "287568",
+        "player_name": "Elijah Wynder",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "293694",
+        "player_name": "Isaiah Parente",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "380872",
+        "player_name": "Thomas Musto",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "65"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "235061",
+        "player_name": "Christian Ram\u00edrez",
+        "age": 35,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "246766",
+        "player_name": "Miguel Berry",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "256843",
+        "player_name": "Joseph Paintsil",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "28"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "293674",
+        "player_name": "Gino Vivi",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "295005",
+        "player_name": "Gabriel Pec",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "304659",
+        "player_name": "Matheus Nascimento",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "321370",
+        "player_name": "R\u00faben Ismael",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "187",
+        "team_name": "LA Galaxy",
+        "player_id": "400005",
+        "player_name": "Nicklaus Sullivan",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "83"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "43372",
+        "player_name": "Hugo Lloris",
+        "age": 39,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "261589",
+        "player_name": "David Ochoa",
+        "age": 35,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "262728",
+        "player_name": "Thomas Hasal",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "337443",
+        "player_name": "Cabral Carter",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "183758",
+        "player_name": "Ryan Hollingshead",
+        "age": 35,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "199904",
+        "player_name": "Eddie Segura",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "201103",
+        "player_name": "Aaron Long",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "218252",
+        "player_name": "Sergi Palencia",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "239175",
+        "player_name": "Ryan Porteous",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "283453",
+        "player_name": "Nkosi Tafari",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "91"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "319023",
+        "player_name": "Kenny Nielsen",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "45"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "363093",
+        "player_name": "\u00c9rick D\u00edaz",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "55"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "364684",
+        "player_name": "Lorenzo Dellavalle",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "370116",
+        "player_name": "Artem Smolyakov",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "399965",
+        "player_name": "Joshua Santiago",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "62"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "173386",
+        "player_name": "Yaw Yeboah",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "193171",
+        "player_name": "Mark Delgado",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "218965",
+        "player_name": "Jailson",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "231192",
+        "player_name": "Timothy Tillman",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "274296",
+        "player_name": "Mathieu Choini\u00e8re",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "66"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "280680",
+        "player_name": "Adam Salda\u00f1a",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "43"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "283228",
+        "player_name": "Frankie Amaya",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "285949",
+        "player_name": "Odin Holm",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "80"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "295727",
+        "player_name": "Ryan Raposo",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "307126",
+        "player_name": "Andy Moran",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "322658",
+        "player_name": "Igor Jesus",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "398302",
+        "player_name": "Jude Terry",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "56"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "115713",
+        "player_name": "David Mart\u00ednez",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "149945",
+        "player_name": "Son Heung-Min",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "213304",
+        "player_name": "Denis Bouanga",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "239814",
+        "player_name": "Alexandru Baluta",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "22"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "251805",
+        "player_name": "Jeremy Ebobisse",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "315967",
+        "player_name": "Tommy Mihalic",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "90"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "340613",
+        "player_name": "Nathan Ordaz",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "18966",
+        "team_name": "LAFC",
+        "player_id": "391448",
+        "player_name": "Adrian Wibowo",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "156217",
+        "player_name": "Joe Willis",
+        "age": 37,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "296695",
+        "player_name": "Brian Schwake",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "99"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "336586",
+        "player_name": "Xavier Valdez",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "146355",
+        "player_name": "Andy N\u00e1jar",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "31"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "167061",
+        "player_name": "Jeisson Palacios",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "183764",
+        "player_name": "Walker Zimmerman",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "201353",
+        "player_name": "Daniel Lovitz",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "234315",
+        "player_name": "Taylor Washington",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "249728",
+        "player_name": "Tate Schmitt",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "255501",
+        "player_name": "Jack Maher",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "266454",
+        "player_name": "Josh Bauer",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "286719",
+        "player_name": "Julian Gaines",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "389905",
+        "player_name": "Wyatt Meyer",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "398878",
+        "player_name": "Chris Applewhite",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "96526",
+        "player_name": "Jonathan P\u00e9rez",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "156228",
+        "player_name": "Gast\u00f3n Brugman",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "174548",
+        "player_name": "Hany Mukhtar",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "201136",
+        "player_name": "Bryan Acosta",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "233041",
+        "player_name": "Alex Muyl",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "290109",
+        "player_name": "Edvard Tagseth",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "294280",
+        "player_name": "Isaiah Jones",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "47"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "294876",
+        "player_name": "Ethan O'Brien",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "55"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "299251",
+        "player_name": "Christian Koffi",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "86"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "315524",
+        "player_name": "Patrick Yazbek",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "318341",
+        "player_name": "Matthew Corcoran",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "338832",
+        "player_name": "Alan Carleton",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "62"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "388342",
+        "player_name": "Jordan Knight",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "66"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "146067",
+        "player_name": "Teal Bunbury",
+        "age": 36,
+        "position": "Forward",
+        "jersey": "12"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "179237",
+        "player_name": "Tyler Boyd",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "227627",
+        "player_name": "Sam Surridge",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "286214",
+        "player_name": "Jacob Shaffelburg",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "313976",
+        "player_name": "Ahmed Qasim",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "37"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "363005",
+        "player_name": "Maximus Ekk",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "18986",
+        "team_name": "Nashville SC",
+        "player_id": "379907",
+        "player_name": "Adem Sipic",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "217514",
+        "player_name": "Alex Bono",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "24"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "303794",
+        "player_name": "Matt Turner",
+        "age": 31,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "384152",
+        "player_name": "JD Gunn",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "73"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "396928",
+        "player_name": "Donovan Parisian",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "33"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "164551",
+        "player_name": "Mamadou Fofana",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "183796",
+        "player_name": "Andrew Farrell",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "88"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "231150",
+        "player_name": "Tanner Beason",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "234906",
+        "player_name": "Victor Souza",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "47"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "245451",
+        "player_name": "Brandon Bye",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "270788",
+        "player_name": "Wyatt Omsberg",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "291705",
+        "player_name": "Keegan Hughes",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "322977",
+        "player_name": "Brayan Ceballos",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "334227",
+        "player_name": "William Sands",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "343191",
+        "player_name": "Ilay Feingold",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "360216",
+        "player_name": "Damario Mcintosh",
+        "age": 18,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "376513",
+        "player_name": "Peyton Miller",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "403642",
+        "player_name": "Hesron Barry",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "55"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "403643",
+        "player_name": "Gabe Dahlin",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "58"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "152168",
+        "player_name": "Carles Gil",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "216609",
+        "player_name": "Matt Polster",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "251806",
+        "player_name": "Jackson Yueill",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "276684",
+        "player_name": "Alhassan Yusuf",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "80"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "376802",
+        "player_name": "Allan Oyirwoth",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "400745",
+        "player_name": "Eric Klein",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "38"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "403366",
+        "player_name": "Cristiano Oliveira",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "35"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "403367",
+        "player_name": "Gevork Diarbian",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "45"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "410439",
+        "player_name": "Sharod George",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "59"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "261168",
+        "player_name": "Tom\u00e1s Chancalay",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "262507",
+        "player_name": "Ignatius Ganago",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "284834",
+        "player_name": "Leonardo Campana",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "303692",
+        "player_name": "Alex Monis",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "49"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "305755",
+        "player_name": "Dor Turgeman",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "314854",
+        "player_name": "Marcos Dias",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "39"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "317571",
+        "player_name": "Malcolm Fry",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "32"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "318999",
+        "player_name": "Liam Butts",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "48"
+    },
+    {
+        "team_id": "189",
+        "team_name": "New England Revolution",
+        "player_id": "338883",
+        "player_name": "Luca Langoni",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "41"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "184786",
+        "player_name": "Tomas Romero",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "220434",
+        "player_name": "Greg Ranjitsingh",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "18"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "252974",
+        "player_name": "Matt Freese",
+        "age": 27,
+        "position": "Goalkeeper",
+        "jersey": "49"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "319392",
+        "player_name": "Alexander Rando",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "44"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "185792",
+        "player_name": "Thiago Martins",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "238740",
+        "player_name": "Prince Amponsah",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "254450",
+        "player_name": "Kevin O'Toole",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "270669",
+        "player_name": "Strahinja Tanasijevic",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "276051",
+        "player_name": "Raul Gustavo",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "297380",
+        "player_name": "Tayvon Gray",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "321979",
+        "player_name": "Mitja Ilenic",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "35"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "328865",
+        "player_name": "Max Murray",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "366218",
+        "player_name": "Andrew Baiera",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "38"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "400718",
+        "player_name": "Nico Cavallo",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "70624",
+        "player_name": "Maxi Mor\u00e1lez",
+        "age": 39,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "108107",
+        "player_name": "Nicol\u00e1s Fern\u00e1ndez",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "241031",
+        "player_name": "Aiden O'Neill",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "259199",
+        "player_name": "Andr\u00e9s Perea",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "268192",
+        "player_name": "Keaton Parks",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "55"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "285383",
+        "player_name": "Justin Haak",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "80"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "358680",
+        "player_name": "Jonathan Shore",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "32"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "358681",
+        "player_name": "Maxi Carrizo",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "29"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "381209",
+        "player_name": "Jacob Arroyave",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "47"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "381250",
+        "player_name": "Peter Molinari",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "71"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "250852",
+        "player_name": "Hannes Wolf",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "310827",
+        "player_name": "Alonso Mart\u00ednez",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "16"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "335238",
+        "player_name": "Juli\u00e1n Fern\u00e1ndez",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "337149",
+        "player_name": "Agustin Ojeda",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "378653",
+        "player_name": "Zidane Ya\u00f1ez",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "36"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "379908",
+        "player_name": "Malachi Jones",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "88"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "402322",
+        "player_name": "Seymour Reid",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "17606",
+        "team_name": "New York City FC",
+        "player_id": "407483",
+        "player_name": "Sebastiano Musu",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "81"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "128253",
+        "player_name": "Carlos Mercado",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "99"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "150334",
+        "player_name": "Pedro Gallese",
+        "age": 36,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "316317",
+        "player_name": "Javier Otero",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "147256",
+        "player_name": "Robin Jansson",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "210228",
+        "player_name": "Adri\u00e1n Mar\u00edn",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "236641",
+        "player_name": "Kyle Smith",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "248276",
+        "player_name": "Alex Freeman",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "30"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "255476",
+        "player_name": "Rodrigo Schlegel",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "311532",
+        "player_name": "David Brekalo",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "316325",
+        "player_name": "Thomas Williams",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "68"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "376511",
+        "player_name": "Tahir Reid-Brown",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "408368",
+        "player_name": "Jackson Platts",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "61"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "412294",
+        "player_name": "Titus Sandy Jr",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "36"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "181558",
+        "player_name": "Wilder Cartagena",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "233401",
+        "player_name": "Mart\u00edn Ojeda",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "241473",
+        "player_name": "Eduard Atuesta",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "250448",
+        "player_name": "Iv\u00e1n Angulo",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "77"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "285939",
+        "player_name": "Dagur Th\u00f3rhallsson",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "291218",
+        "player_name": "C\u00e9sar Araujo",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "325936",
+        "player_name": "Shakur Mohammed",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "355365",
+        "player_name": "Favian Loyola",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "95"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "388445",
+        "player_name": "Colin Guske",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "25"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "390621",
+        "player_name": "Joran Gerbet",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "35"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "401054",
+        "player_name": "Zakaria Taifi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "96"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "403119",
+        "player_name": "Riyon Tori",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "38"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "403760",
+        "player_name": "Dylan Judelson",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "74"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "151510",
+        "player_name": "Luis Muriel",
+        "age": 35,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "294071",
+        "player_name": "Duncan McGuire",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "13"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "324270",
+        "player_name": "Marco Pasalic",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "87"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "329273",
+        "player_name": "Tyrese Spicer",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "354154",
+        "player_name": "Yutaro Tsukada",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "34"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "356098",
+        "player_name": "Gustavo Caraballo",
+        "age": 17,
+        "position": "Forward",
+        "jersey": "65"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "378916",
+        "player_name": "Nicol\u00e1s Rodr\u00edguez",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "403425",
+        "player_name": "Justin Ellis",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "59"
+    },
+    {
+        "team_id": "12011",
+        "team_name": "Orlando City SC",
+        "player_id": "408267",
+        "player_name": "Bernardo Rhein Goncalves",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "44"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "186943",
+        "player_name": "Andre Blake",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "18"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "255097",
+        "player_name": "George Marks",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "365853",
+        "player_name": "Andrew Rick",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "76"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "409646",
+        "player_name": "Pierce Holbrook",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "234962",
+        "player_name": "Jakob Glesnes",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "246855",
+        "player_name": "Olivier Mbaizo",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "261317",
+        "player_name": "Kai Wagner",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "286778",
+        "player_name": "Nathan Harriel",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "351372",
+        "player_name": "Olwethu Makhanya",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "366034",
+        "player_name": "Frankie Westfield",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "366558",
+        "player_name": "Neil Pierre",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "134066",
+        "player_name": "Alejandro Bedoya",
+        "age": 39,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "266026",
+        "player_name": "Indiana Vassilev",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "271536",
+        "player_name": "Jes\u00fas Bueno",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "274002",
+        "player_name": "Jeremy Rafanello",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "288060",
+        "player_name": "Ben Bender",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "304130",
+        "player_name": "Quinn Sullivan",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "33"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "322063",
+        "player_name": "Jovan Lukic",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "4"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "333939",
+        "player_name": "Danley Jean Jacques",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "378649",
+        "player_name": "Nicholas Pariano",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "384397",
+        "player_name": "Cavan Sullivan",
+        "age": 16,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "203926",
+        "player_name": "Mikkel Uhre",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "263585",
+        "player_name": "Milan Iloski",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "32"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "313068",
+        "player_name": "Tai Baribo",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "322680",
+        "player_name": "Bruno Damiani",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "333746",
+        "player_name": "Chris Donovan",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "338175",
+        "player_name": "Edward Davis",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "376494",
+        "player_name": "Sal Olivas",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "55"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "379938",
+        "player_name": "Markus Anderson",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "35"
+    },
+    {
+        "team_id": "10739",
+        "team_name": "Philadelphia Union",
+        "player_id": "402321",
+        "player_name": "Stas Korzeniowski",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "37"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "159382",
+        "player_name": "Maxime Cr\u00e9peau",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "254340",
+        "player_name": "Trey Muse",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "25"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "257619",
+        "player_name": "James Pantemis",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "41"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "29447",
+        "player_name": "Ian Smith",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "187782",
+        "player_name": "Eric Miller",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "188305",
+        "player_name": "Dario Zuparic",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "249756",
+        "player_name": "Kamal Miller",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "302672",
+        "player_name": "Juan Mosquera",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "302907",
+        "player_name": "Zac McGraw",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "318510",
+        "player_name": "Blake Pope",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "45"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "332367",
+        "player_name": "Finn Surman",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "20"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "371458",
+        "player_name": "Sawyer Jura",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "51"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "71042",
+        "player_name": "Diego Char\u00e1",
+        "age": 40,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "121767",
+        "player_name": "Mat\u00edas Rojas",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "35"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "156564",
+        "player_name": "Joao Ortiz",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "80"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "223780",
+        "player_name": "Felipe Carballo",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "33"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "228578",
+        "player_name": "Cristhian Paredes",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "290715",
+        "player_name": "David Ayala",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "301463",
+        "player_name": "Jimer Fory",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "303579",
+        "player_name": "David Da Costa",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "381261",
+        "player_name": "Adolfo Enriquez",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "46"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "129395",
+        "player_name": "Jonathan Rodr\u00edguez",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "202539",
+        "player_name": "Felipe Mora",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "222765",
+        "player_name": "Ariel Lassiter",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "252818",
+        "player_name": "Omir Fern\u00e1ndez",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "22"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "255418",
+        "player_name": "Kristoffer Velde",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "315294",
+        "player_name": "Antony",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "354979",
+        "player_name": "Kevin Kelsy",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "381216",
+        "player_name": "Noah Santos",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "37"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "381665",
+        "player_name": "Daniel Nunez",
+        "age": 17,
+        "position": "Forward",
+        "jersey": "63"
+    },
+    {
+        "team_id": "9723",
+        "team_name": "Portland Timbers",
+        "player_id": "391712",
+        "player_name": "Gage Guerra",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "88"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "134307",
+        "player_name": "Rafael",
+        "age": 36,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "157111",
+        "player_name": "Zac MacMath",
+        "age": 34,
+        "position": "Goalkeeper",
+        "jersey": "18"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "231193",
+        "player_name": "Mason Stajduhar",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "400330",
+        "player_name": "Max Kerkvliet",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "24"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "73591",
+        "player_name": "Luis Rivera",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "183778",
+        "player_name": "DeAndre Yedlin",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "203329",
+        "player_name": "Justen Glad",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "243168",
+        "player_name": "Alexandros Katranis",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "98"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "256489",
+        "player_name": "Samuel Junqua",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "257622",
+        "player_name": "Javain Brown",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "91"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "270238",
+        "player_name": "Brayan Vera",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "294874",
+        "player_name": "Philip Quinton",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "303472",
+        "player_name": "Zackery Farnsworth",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "304126",
+        "player_name": "Kobi Henry",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "316331",
+        "player_name": "Derrick Silva",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "399188",
+        "player_name": "Gio Villa",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "41"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "148356",
+        "player_name": "Diego Luna",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "228390",
+        "player_name": "Pablo Ruiz",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "238896",
+        "player_name": "Diogo Gon\u00e7alves",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "265977",
+        "player_name": "Braian Ojeda",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "296109",
+        "player_name": "Emeka Eneli",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "319083",
+        "player_name": "Griffin Dillon",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "81"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "329366",
+        "player_name": "Jude Wellings",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "38"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "362114",
+        "player_name": "Noel Caliskan",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "92"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "380794",
+        "player_name": "Luca Moisa",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "399119",
+        "player_name": "Owen Anderson",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "100525",
+        "player_name": "Johnny Russell",
+        "age": 36,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "139998",
+        "player_name": "Matthew Bell",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "292912",
+        "player_name": "Victor Olatunji",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "303508",
+        "player_name": "Tyler Wolff",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "16"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "313069",
+        "player_name": "William Agada",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "319046",
+        "player_name": "Jes\u00fas Barea",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "36"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "335525",
+        "player_name": "Rwan Cruz",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "12"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "358654",
+        "player_name": "Ariath Piol",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "374519",
+        "player_name": "Zavier Gozo",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "72"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "399189",
+        "player_name": "Omar Marquez",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "40"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "399190",
+        "player_name": "Aiden Hezarkhani",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "39"
+    },
+    {
+        "team_id": "4771",
+        "team_name": "Real Salt Lake",
+        "player_id": "404655",
+        "player_name": "Marcos Zambrano-Delgado",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "265874",
+        "player_name": "CJ dos Santos",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "286424",
+        "player_name": "Pablo Sisniega",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "336963",
+        "player_name": "Duran Ferree",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "18"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "182014",
+        "player_name": "Andr\u00e9s Reyes",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "210139",
+        "player_name": "Paddy McNair",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "242613",
+        "player_name": "Franco Negri",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "257114",
+        "player_name": "Christopher McVey",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "97"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "329734",
+        "player_name": "William Kumado",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "365859",
+        "player_name": "Oscar Verhoeven",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "371460",
+        "player_name": "Aiden Harangi",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "377553",
+        "player_name": "Leo Duru",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "381072",
+        "player_name": "Luca Bombino",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "399756",
+        "player_name": "Ian Pilcher",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "116825",
+        "player_name": "An\u00edbal Godoy",
+        "age": 36,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "191693",
+        "player_name": "Emmanuel Boateng",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "214371",
+        "player_name": "Jeppe Tverskov",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "225609",
+        "player_name": "Luca de la Torre",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "250454",
+        "player_name": "Anders Dreyer",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "277212",
+        "player_name": "Onni Valakari",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "365854",
+        "player_name": "David Vazquez",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "371488",
+        "player_name": "Pedro Soma",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "15"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "400713",
+        "player_name": "Manu Duah",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "186324",
+        "player_name": "Marcus Ingvartsen",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "200161",
+        "player_name": "Hirving Lozano",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "207638",
+        "player_name": "Amahl Pellegrino",
+        "age": 35,
+        "position": "Forward",
+        "jersey": "90"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "220573",
+        "player_name": "Corey Baird",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "291999",
+        "player_name": "Alex Mighten",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "303619",
+        "player_name": "Alejandro Alvarado Jr.",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "70"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "312610",
+        "player_name": "Tom\u00e1s \u00c1ngel",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "22529",
+        "team_name": "San Diego FC",
+        "player_id": "399457",
+        "player_name": "Anisse Saidi",
+        "age": 17,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "216999",
+        "player_name": "Earl Edwards",
+        "age": 34,
+        "position": "Goalkeeper",
+        "jersey": "36"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "243832",
+        "player_name": "Daniel",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "42"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "279112",
+        "player_name": "Francesco Montali",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "403710",
+        "player_name": "Luca Ulrich",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "97"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "222188",
+        "player_name": "Dave Romney",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "223355",
+        "player_name": "V\u00edtor Costa",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "94"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "236882",
+        "player_name": "Rodrigues",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "245098",
+        "player_name": "Nick Lima",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "249985",
+        "player_name": "DeJuan Jones",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "250920",
+        "player_name": "Bruno Wilson",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "281494",
+        "player_name": "Daniel Munie",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "331616",
+        "player_name": "Max Floriani",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "380800",
+        "player_name": "Jamar Ricketts",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "398859",
+        "player_name": "Wilson Eisner",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "398860",
+        "player_name": "Reid Roberts",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "73200",
+        "player_name": "Cristian Espinoza",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "235593",
+        "player_name": "Ronaldo Vieira",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "37"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "237002",
+        "player_name": "Mark-Anthony Kaye",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "246337",
+        "player_name": "Jack Skahan",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "249699",
+        "player_name": "Ian Harkes",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "317465",
+        "player_name": "Noel Buck",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "333752",
+        "player_name": "Niko Tsakiris",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "359572",
+        "player_name": "Cruz Medina",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "15"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "371459",
+        "player_name": "Edwyn Mendoza",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "38"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "382638",
+        "player_name": "Beau Leroux",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "399104",
+        "player_name": "Kaedren Spivey",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "29"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "400722",
+        "player_name": "Nick Fernandez",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "172688",
+        "player_name": "Josef Mart\u00ednez",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "186385",
+        "player_name": "Cristian Arango",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "295339",
+        "player_name": "Preston Judd",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "300420",
+        "player_name": "Ousseni Bouda",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "191",
+        "team_name": "San Jose Earthquakes",
+        "player_id": "302893",
+        "player_name": "Benjamin Kikanovic",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "28"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "131979",
+        "player_name": "Stefan Frei",
+        "age": 40,
+        "position": "Goalkeeper",
+        "jersey": "24"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "268173",
+        "player_name": "Andy Thomas",
+        "age": 27,
+        "position": "Goalkeeper",
+        "jersey": "26"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "271850",
+        "player_name": "Jacob Castro",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "29"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "399960",
+        "player_name": "Mohammed Shour",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "41"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "175922",
+        "player_name": "Kim Kee-Hee",
+        "age": 36,
+        "position": "Defender",
+        "jersey": "20"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "206682",
+        "player_name": "Yeimar G\u00f3mez",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "252474",
+        "player_name": "Nouhou Tolo",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "254383",
+        "player_name": "Jackson Ragen",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "256514",
+        "player_name": "Alex Roldan",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "257193",
+        "player_name": "Jon Bell",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "257759",
+        "player_name": "Leo Burney",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "299188",
+        "player_name": "Antino Lopez",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "35"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "371080",
+        "player_name": "Stuart Hawkins",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "171573",
+        "player_name": "Albert Rusn\u00e1k",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "201606",
+        "player_name": "Jo\u00e3o Paulo",
+        "age": 35,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "216617",
+        "player_name": "Cristian Roldan",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "272039",
+        "player_name": "Peter Kingston",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "45"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "280765",
+        "player_name": "Daniel Leyva",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "75"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "304120",
+        "player_name": "Reed Baker-Whiting",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "318554",
+        "player_name": "Obed Vargas",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "319045",
+        "player_name": "Kalani Kossa-Rienzi",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "85"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "384356",
+        "player_name": "Snyder Brunell",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "37"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "399948",
+        "player_name": "Sebastian Gomez",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "90"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "159491",
+        "player_name": "Paul Arriola",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "196354",
+        "player_name": "Ryan Kent",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "210252",
+        "player_name": "Jordan Morris",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "13"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "251571",
+        "player_name": "Jes\u00fas Ferreira",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "254382",
+        "player_name": "Paul Rothrock",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "256450",
+        "player_name": "Daniel Musovski",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "280721",
+        "player_name": "Pedro de la Vega",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "301856",
+        "player_name": "Osaze De Rosario",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "95"
+    },
+    {
+        "team_id": "9726",
+        "team_name": "Seattle Sounders FC",
+        "player_id": "362501",
+        "player_name": "Georgi Minoungou",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "93"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "272505",
+        "player_name": "John Pulskamp",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "319016",
+        "player_name": "Ryan Schewe",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "36"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "398299",
+        "player_name": "Jack Kortkamp",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "196978",
+        "player_name": "Tim Leibold",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "217816",
+        "player_name": "Ian James",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "231395",
+        "player_name": "Joaqu\u00edn",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "235485",
+        "player_name": "Andrew Brody",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "259925",
+        "player_name": "Logan Ndenbe",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "286194",
+        "player_name": "Zorhan Bassong",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "286804",
+        "player_name": "Jansen Miller",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "303521",
+        "player_name": "Robert Voloder",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "304424",
+        "player_name": "Al\u00e1n Montes",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "395357",
+        "player_name": "Jacob Bartlett",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "199926",
+        "player_name": "Erik Thommy",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "26"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "207894",
+        "player_name": "Nemanja Radoja",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "215186",
+        "player_name": "Memo Rodr\u00edguez",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "222659",
+        "player_name": "Manu Garc\u00eda",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "286760",
+        "player_name": "Jacob Davis",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "216998",
+        "player_name": "Khiry Shelton",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "233050",
+        "player_name": "D\u00e1niel Sall\u00f3i",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "240110",
+        "player_name": "Dejan Joveljic",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "259070",
+        "player_name": "Shapi Suleymanov",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "93"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "267109",
+        "player_name": "Mason Toye",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "13"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "297277",
+        "player_name": "Santiago Mu\u00f1oz",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "186",
+        "team_name": "Sporting Kansas City",
+        "player_id": "362459",
+        "player_name": "Stephen Afrifa",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "141316",
+        "player_name": "Sean Johnson",
+        "age": 37,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "294040",
+        "player_name": "Luka Gavran",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "90"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "359271",
+        "player_name": "Adisa De Rosario",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "77"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "140531",
+        "player_name": "Kevin Long",
+        "age": 35,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "220571",
+        "player_name": "Henry Wingo",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "227734",
+        "player_name": "Sigurd Rosted",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "230626",
+        "player_name": "Richie Laryea",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "252562",
+        "player_name": "Raoul Petretta",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "298072",
+        "player_name": "Kobe Franklin",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "310293",
+        "player_name": "Zane Monlouis",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "337361",
+        "player_name": "Nickseon Gomis",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "364702",
+        "player_name": "Lazar Stefanovic",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "76"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "381755",
+        "player_name": "Reid Fisher",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "75"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "184221",
+        "player_name": "Jonathan Osorio",
+        "age": 34,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "233707",
+        "player_name": "Maxime Dominguez",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "241245",
+        "player_name": "Jos\u00e9 Cifuentes",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "252351",
+        "player_name": "Djordje Mihailovic",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "308639",
+        "player_name": "Malik Henry",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "78"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "319389",
+        "player_name": "Kosi Thompson",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "353145",
+        "player_name": "Michael Sullivan",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "74"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "359270",
+        "player_name": "Markus Cimermancic",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "71"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "359272",
+        "player_name": "Alonso Coello",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "373662",
+        "player_name": "Nathaniel Edwards",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "25"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "231098",
+        "player_name": "Derrick Etienne Jr.",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "290190",
+        "player_name": "Theo Corbeanu",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "298071",
+        "player_name": "Deandre Kerr",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "323130",
+        "player_name": "Jules-Anthony Vilsaint",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "7318",
+        "team_name": "Toronto FC",
+        "player_id": "403288",
+        "player_name": "D\u00e9kwon Barrow",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "91"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "223042",
+        "player_name": "Adri\u00e1n Zendejas",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "272338",
+        "player_name": "Yohei Takaoka",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "305783",
+        "player_name": "Isaac Boehmer",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "32"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "341343",
+        "player_name": "Max Anchor",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "186148",
+        "player_name": "Sebastian Schonlau",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "193452",
+        "player_name": "Sam Adekugbe",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "251089",
+        "player_name": "Joederik Pupe",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "256476",
+        "player_name": "Tristan Blackmon",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "286523",
+        "player_name": "Math\u00edas Laborda",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "302798",
+        "player_name": "Ranko Veselinovic",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "333333",
+        "player_name": "Giuseppe Bovalina",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "338836",
+        "player_name": "Tate Johnson",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "340228",
+        "player_name": "Ali Ahmed",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "341727",
+        "player_name": "\u00c9dier Ocampo",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "343994",
+        "player_name": "Belal Halbouni",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "355390",
+        "player_name": "Mark O'Neill",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "53"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "381213",
+        "player_name": "Adrian Pelayo",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "48"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "391991",
+        "player_name": "Nikola Djordjevic",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "41"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "403644",
+        "player_name": "Daniel Russo",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "54"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "173404",
+        "player_name": "Ryan Gauld",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "25"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "202501",
+        "player_name": "Andr\u00e9s Cubas",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "277302",
+        "player_name": "Jean-Claude Ngando",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "26"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "289420",
+        "player_name": "Antoine Coupland",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "43"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "295771",
+        "player_name": "Sebastian Berhalter",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "297118",
+        "player_name": "Ralph Priso-Mbongue",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "337051",
+        "player_name": "Jackson Castro",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "44"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "371467",
+        "player_name": "Liam Mackenzie",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "97"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "371482",
+        "player_name": "Jeevan Badwal",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "59"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "123465",
+        "player_name": "Thomas M\u00fcller",
+        "age": 36,
+        "position": "Forward",
+        "jersey": "13"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "249490",
+        "player_name": "Brian White",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "24"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "256209",
+        "player_name": "Emmanuel Sabbi",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "280612",
+        "player_name": "Jayden Nelson",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "309232",
+        "player_name": "Kenji Cabrera",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "351302",
+        "player_name": "Daniel R\u00edos",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "359541",
+        "player_name": "Nelson Pierre",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "42"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "403773",
+        "player_name": "Johnny Selemani",
+        "age": 17,
+        "position": "Forward",
+        "jersey": "63"
+    },
+    {
+        "team_id": "9727",
+        "team_name": "Vancouver Whitecaps",
+        "player_id": "405591",
+        "player_name": "Rayan Elloumi",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "75"
+    }
+]

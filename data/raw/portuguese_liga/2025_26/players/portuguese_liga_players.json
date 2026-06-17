@@ -1,0 +1,3557 @@
+[
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "138975",
+        "player_name": "Pedro Trigueira",
+        "age": 38,
+        "position": "Goalkeeper",
+        "jersey": "88"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "202353",
+        "player_name": "Sim\u00e3o Bertelli",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "93"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "315681",
+        "player_name": "Adriel",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "82720",
+        "player_name": "Cristian Devenish",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "42"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "184036",
+        "player_name": "Aderlan Santos",
+        "age": 37,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "185902",
+        "player_name": "Kiki",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "194019",
+        "player_name": "R\u00faben Semedo",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "35"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "233056",
+        "player_name": "Carlos Ponck",
+        "age": 35,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "241197",
+        "player_name": "Daniel Rivas",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "271562",
+        "player_name": "Mateus Piv\u00f3",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "97"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "303051",
+        "player_name": "Guillem Molina",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "351602",
+        "player_name": "Paulo Vitor",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "422038",
+        "player_name": "Afonso Fernandes Silva",
+        "age": 17,
+        "position": "Defender",
+        "jersey": "64"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "283792",
+        "player_name": "\u00c1ngel Algobia",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "302630",
+        "player_name": "Tiago Galletto",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "304351",
+        "player_name": "Roni",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "70"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "307930",
+        "player_name": "Pedro Lima",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "352200",
+        "player_name": "Gustavo Mendon\u00e7a",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "41190",
+        "player_name": "Andre Green",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "119532",
+        "player_name": "Diego Duarte",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "124021",
+        "player_name": "Nen\u00ea",
+        "age": 42,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "151321",
+        "player_name": "T\u00f3man\u00e9",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "278645",
+        "player_name": "Antoine Baroan",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "336456",
+        "player_name": "\u00d3scar Perea",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "362144",
+        "player_name": "Babatunde Akinsola",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "22064",
+        "team_name": "AVS",
+        "player_id": "407001",
+        "player_name": "Guilherme Neiva",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "286109",
+        "player_name": "Anatoliy Trubin",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "307631",
+        "player_name": "Samuel Soares",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "24"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "405541",
+        "player_name": "Diogo Ferreira",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "409962",
+        "player_name": "Arnas Voitinovicius",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "51"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "119289",
+        "player_name": "Nicol\u00e1s Otamendi",
+        "age": 38,
+        "position": "Defender",
+        "jersey": "30"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "265944",
+        "player_name": "Alexander Bah",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "308979",
+        "player_name": "Amar Dedic",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "318374",
+        "player_name": "Joshua Wynder",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "66"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "329653",
+        "player_name": "Samuel Dahl",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "329691",
+        "player_name": "Tom\u00e1s Ara\u00fajo",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "332394",
+        "player_name": "Sidny Lopes Cabral",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "346588",
+        "player_name": "Ant\u00f3nio Silva",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "399408",
+        "player_name": "Jo\u00e3o Fonseca",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "55"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "401410",
+        "player_name": "Gon\u00e7alo Oliveira",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "64"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "403874",
+        "player_name": "Daniel Banjaqui",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "58"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "403878",
+        "player_name": "Jos\u00e9 Neto",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "62"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "418792",
+        "player_name": "Kevin Pinto",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "79"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "192421",
+        "player_name": "Rafa Silva",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "212900",
+        "player_name": "Fredrik Aursnes",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "271854",
+        "player_name": "Leandro Barreiro",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "292921",
+        "player_name": "Enzo Barrenechea",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "301520",
+        "player_name": "Richard R\u00edos",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "308603",
+        "player_name": "Georgiy Sudakov",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "358451",
+        "player_name": "Manu Silva",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "364640",
+        "player_name": "Diogo Prioste",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "86"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "364654",
+        "player_name": "Nuno F\u00e9lix",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "60"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "384419",
+        "player_name": "Jo\u00e3o R\u00eago",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "84"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "400474",
+        "player_name": "Tiago Dias Freitas",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "88"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "403154",
+        "player_name": "Jo\u00e3o Veloso",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "68"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "411353",
+        "player_name": "Gon\u00e7alo Moreira",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "77"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "414316",
+        "player_name": "Miguel Figueiredo",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "73"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "183640",
+        "player_name": "Bruma",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "220819",
+        "player_name": "Vangelis Pavlidis",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "229443",
+        "player_name": "Dodi Luk\u00e9bakio",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "313415",
+        "player_name": "Andreas Schjelderup",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "334530",
+        "player_name": "Henrique Ara\u00fajo",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "39"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "339191",
+        "player_name": "Gianluca Prestianni",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "364180",
+        "player_name": "Franjo Ivanovic",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "403873",
+        "player_name": "An\u00edsio Cabral",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "72"
+    },
+    {
+        "team_id": "1929",
+        "team_name": "Benfica",
+        "player_id": "415025",
+        "player_name": "Rodrigo R\u00eago",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "67"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "151272",
+        "player_name": "Tiago S\u00e1",
+        "age": 31,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "319267",
+        "player_name": "Luk\u00e1s Horn\u00edcek",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "324992",
+        "player_name": "Alaa Bellarouch",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "36"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "370134",
+        "player_name": "Jo\u00e3o Carvalho",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "78"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "403884",
+        "player_name": "Rom\u00e1rio Cunha",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "56"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "92335",
+        "player_name": "Paulo Oliveira",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "255249",
+        "player_name": "Sikou Niakate",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "265984",
+        "player_name": "V\u00edctor G\u00f3mez",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "301417",
+        "player_name": "Bright Arrey-Mbi",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "322209",
+        "player_name": "Adrian Leon Barisic",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "324930",
+        "player_name": "Gustaf Lagerbielke",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "344843",
+        "player_name": "Leonardo Lelo",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "379945",
+        "player_name": "Nuno Matos",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "62"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "389772",
+        "player_name": "Jonat\u00e1s Noro",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "53"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "411192",
+        "player_name": "Jo\u00e3o Matos",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "40"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "413440",
+        "player_name": "Fod\u00e9 Carlos Gaspar Pascoal",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "81"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "422037",
+        "player_name": "Afonso Sousa",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "96"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "50959",
+        "player_name": "Jo\u00e3o Moutinho",
+        "age": 39,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "219304",
+        "player_name": "Florian Grillitsch",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "250906",
+        "player_name": "Carvalho",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "287494",
+        "player_name": "Rodrigo Zalazar",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "326029",
+        "player_name": "Jean-Baptiste Gorby",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "29"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "328795",
+        "player_name": "Demir Ege Tiknaz",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "347459",
+        "player_name": "Mario Dorgeles",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "361468",
+        "player_name": "Gabriel Moscardo",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "364653",
+        "player_name": "Jo\u00e3o Gon\u00e7alves",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "80"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "364669",
+        "player_name": "Yanis Da Rocha",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "41"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "398386",
+        "player_name": "Diego Rodrigues",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "50"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "418321",
+        "player_name": "Ant\u00f3nio Gil",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "92"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "421767",
+        "player_name": "Luis Teixeira Pinto",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "90"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "98573",
+        "player_name": "Gabriel Mart\u00ednez",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "184423",
+        "player_name": "Ricardo Horta",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "285434",
+        "player_name": "Fran Navarro",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "39"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "301262",
+        "player_name": "Amine El Ouazzani",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "303808",
+        "player_name": "Pau V\u00edctor",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "362876",
+        "player_name": "Rodrigo Silva",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "70"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "380621",
+        "player_name": "Samy Merheg",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "400353",
+        "player_name": "Sandro Vidigal",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "95"
+    },
+    {
+        "team_id": "2994",
+        "team_name": "Braga",
+        "player_id": "403877",
+        "player_name": "Jo\u00e3o Arag\u00e3o",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "72"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "236200",
+        "player_name": "Lucas Fran\u00e7a",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "37"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "332352",
+        "player_name": "Kaique",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "368528",
+        "player_name": "Kevyn",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "124019",
+        "player_name": "Jo\u00e3o Aur\u00e9lio",
+        "age": 37,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "225543",
+        "player_name": "L\u00e9o Santos",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "251494",
+        "player_name": "Lenny Vallier",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "264019",
+        "player_name": "Ivanildo Fernandes",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "269954",
+        "player_name": "Ulisses",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "317232",
+        "player_name": "Z\u00e9 Vitor",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "38"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "318200",
+        "player_name": "Alan Nu\u00f1ez",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "351497",
+        "player_name": "Jos\u00e9 Gomes",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "351581",
+        "player_name": "Francisco Gon\u00e7alves",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "165576",
+        "player_name": "Andr\u00e9 Sousa",
+        "age": 35,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "173228",
+        "player_name": "Jota",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "183972",
+        "player_name": "Filipe Soares",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "216371",
+        "player_name": "Matheus Dias",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "228403",
+        "player_name": "Liziero",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "306580",
+        "player_name": "Miguel Baeza",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "318755",
+        "player_name": "Chiheb Labidi",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "15"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "335241",
+        "player_name": "Daniel J\u00fanior",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "346832",
+        "player_name": "Joel Silva",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "26"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "351579",
+        "player_name": "Martim Gustavo",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "406871",
+        "player_name": "Deivison",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "88"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "82009",
+        "player_name": "Jes\u00fas Ram\u00edrez",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "177690",
+        "player_name": "Lucas Jo\u00e3o",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "215279",
+        "player_name": "Witi",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "265388",
+        "player_name": "Paulinho",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "297072",
+        "player_name": "Gabriel Veron",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "3472",
+        "team_name": "C.D. Nacional",
+        "player_id": "369840",
+        "player_name": "Pablo Ruan",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "46976",
+        "player_name": "Ricardo Batista",
+        "age": 39,
+        "position": "Goalkeeper",
+        "jersey": "33"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "228458",
+        "player_name": "Patrick Sequeira",
+        "age": 27,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "344848",
+        "player_name": "Rodrigo Moura",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "358088",
+        "player_name": "Ivan Mandic",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "95"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "104172",
+        "player_name": "Jos\u00e9 Fonte",
+        "age": 42,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "149660",
+        "player_name": "Andr\u00e9 Geraldes",
+        "age": 35,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "248860",
+        "player_name": "Gaizka Larrazabal",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "72"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "258918",
+        "player_name": "Abdu Cont\u00e9",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "283147",
+        "player_name": "Kaique Rocha",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "328225",
+        "player_name": "Joao Goulart",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "373713",
+        "player_name": "Pedro Rosas",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "75"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "386143",
+        "player_name": "Kaly",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "408554",
+        "player_name": "Afonso Vieira",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "55"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "156818",
+        "player_name": "Sebasti\u00e1n P\u00e9rez",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "285846",
+        "player_name": "Lawrence Ofori",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "80"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "301593",
+        "player_name": "David Sousa",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "43"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "324002",
+        "player_name": "Iyad Mohamed",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "336585",
+        "player_name": "Rafael Brito",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "347073",
+        "player_name": "Jo\u00e3o Marques",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "421533",
+        "player_name": "Abdu Dafe",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "59"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "201763",
+        "player_name": "Cassiano",
+        "age": 36,
+        "position": "Forward",
+        "jersey": "90"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "231196",
+        "player_name": "Jeremy Livolant",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "297156",
+        "player_name": "Kelian Nsona Wa Saka",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "303822",
+        "player_name": "Clau Mendes",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "307846",
+        "player_name": "Tiago Morais",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "316614",
+        "player_name": "Xander Severina",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "330211",
+        "player_name": "Dailon Livramento",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "337004",
+        "player_name": "Oluwakorede Osundina",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "13"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "351529",
+        "player_name": "Kiki Silva",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "32"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "380131",
+        "player_name": "Kevin Prieto",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "21581",
+        "team_name": "Casa Pia",
+        "player_id": "408555",
+        "player_name": "Miguel Neves",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "58"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "141624",
+        "player_name": "Joel Robles",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "309597",
+        "player_name": "Martin Turk",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "365799",
+        "player_name": "Diogo Dias",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "238901",
+        "player_name": "Ferro",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "284764",
+        "player_name": "Pedro Amaral",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "290047",
+        "player_name": "Ricard S\u00e1nchez",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "294295",
+        "player_name": "Antef Tsoungui",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "306030",
+        "player_name": "K\u00e9vin Boma",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "320945",
+        "player_name": "Felix Bacher",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "340727",
+        "player_name": "Or Israelov",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "345515",
+        "player_name": "Goncalo Costa",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "20"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "373605",
+        "player_name": "Pedro Carvalho",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "398970",
+        "player_name": "Philippe Lanquetin",
+        "age": 21,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "408948",
+        "player_name": "Longin Bimai",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "57"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "419290",
+        "player_name": "Jan Montes",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "91"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "144046",
+        "player_name": "Pizzi",
+        "age": 36,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "185343",
+        "player_name": "Jo\u00e3o Carvalho",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "12"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "243734",
+        "player_name": "Jordan Holsgrove",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "245913",
+        "player_name": "Rafik Guitane",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "99"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "249093",
+        "player_name": "Xeka",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "290048",
+        "player_name": "Jandro Orellana",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "307733",
+        "player_name": "Nodar Lominadze",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "393124",
+        "player_name": "Lu\u00eds Gomes",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "97"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "407197",
+        "player_name": "Bernardo Louren\u00e7o",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "79"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "271900",
+        "player_name": "Alejandro Marqu\u00e9s",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "272488",
+        "player_name": "Yanis Begraoui",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "308760",
+        "player_name": "Khayon Edwards",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "365812",
+        "player_name": "Peixinho",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "70"
+    },
+    {
+        "team_id": "12216",
+        "team_name": "Estoril",
+        "player_id": "379981",
+        "player_name": "Andr\u00e9 Lacximicant",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "130499",
+        "player_name": "Renan Ribeiro",
+        "age": 36,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "307267",
+        "player_name": "Dudu",
+        "age": 27,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "362113",
+        "player_name": "Diogo Pinto",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "373606",
+        "player_name": "David Grilo",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "247701",
+        "player_name": "Bruno Langa",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "295087",
+        "player_name": "Jefferson Encada",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "297764",
+        "player_name": "Luan Patrick",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "30"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "303631",
+        "player_name": "Bernardo Schappo",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "306290",
+        "player_name": "Yahya Kalley",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "328921",
+        "player_name": "Issiar Dram\u00e9",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "342146",
+        "player_name": "Stefan Lekovic",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "352178",
+        "player_name": "Max Scholze",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "367593",
+        "player_name": "Ni",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "388471",
+        "player_name": "Georgii Tunguliiadi",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "402890",
+        "player_name": "Ot\u00e1vio",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "83"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "404969",
+        "player_name": "Caica",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "41"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "340086",
+        "player_name": "Tom Moustier",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "351541",
+        "player_name": "Paulo Moreira",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "357717",
+        "player_name": "Robinho",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "364988",
+        "player_name": "Kevin H\u00f6\u00f6g Jansson",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "399285",
+        "player_name": "Alex Sola",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "63"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "418107",
+        "player_name": "Eddy Dou\u00e9",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "39"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "216290",
+        "player_name": "Rodrigo Pinho",
+        "age": 35,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "250059",
+        "player_name": "Jovane Cabral",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "267578",
+        "player_name": "Ianis Stoica",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "276819",
+        "player_name": "Sydney van Hooijdonk",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "279137",
+        "player_name": "Brahimi Bilal",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "26"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "319827",
+        "player_name": "Abraham Marcus",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "332252",
+        "player_name": "Leandro Antonetti",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "357091",
+        "player_name": "Chilohem Onuoha",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "70"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "364655",
+        "player_name": "Jorge Meireles",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "366460",
+        "player_name": "Mathew Gbomadu",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "399173",
+        "player_name": "Alisson Souza",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "80"
+    },
+    {
+        "team_id": "21610",
+        "team_name": "Estrela",
+        "player_id": "418460",
+        "player_name": "Henrique Poniewas",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "86"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "28261",
+        "player_name": "Joao Costa",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "24"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "142670",
+        "player_name": "Cl\u00e1udio Ramos",
+        "age": 34,
+        "position": "Goalkeeper",
+        "jersey": "14"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "238903",
+        "player_name": "Diogo Costa",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "99"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "364651",
+        "player_name": "Gon\u00e7alo Ribeiro",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "91"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "388159",
+        "player_name": "Diogo Fernandes",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "51"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "96254",
+        "player_name": "Thiago Silva",
+        "age": 41,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "221788",
+        "player_name": "Jan Bednarek",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "268437",
+        "player_name": "Nehu\u00e9n P\u00e9rez",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "274289",
+        "player_name": "Moura",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "74"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "289513",
+        "player_name": "Zaidu Sanusi",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "304965",
+        "player_name": "Jakub Kiwior",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "345752",
+        "player_name": "Dominik Prpic",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "346111",
+        "player_name": "Alberto Costa",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "20"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "364642",
+        "player_name": "Gabi Br\u00e1s",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "73"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "364657",
+        "player_name": "Martim Fernandes",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "52"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "184118",
+        "player_name": "Seko Fofana",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "194289",
+        "player_name": "Tiago Silva",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "58"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "223776",
+        "player_name": "Pablo Rosario",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "13"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "307381",
+        "player_name": "Gabri Veiga",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "307601",
+        "player_name": "Alan Varela",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "373520",
+        "player_name": "Victor Froholdt",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "387204",
+        "player_name": "Rodrigo Mora",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "86"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "399215",
+        "player_name": "Andr\u00e9 Oliveira",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "68"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "399216",
+        "player_name": "Jo\u00e3o Teixeira",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "92"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "404141",
+        "player_name": "Bernardo Lima",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "66"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "127420",
+        "player_name": "Luuk de Jong",
+        "age": 35,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "225555",
+        "player_name": "Yann Karamoh",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "75"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "256909",
+        "player_name": "Pep\u00ea",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "289769",
+        "player_name": "Terem Moffi",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "292268",
+        "player_name": "Borja Sainz",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "350513",
+        "player_name": "Deniz G\u00fcl",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "364815",
+        "player_name": "Samu Aghehowa",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "375383",
+        "player_name": "Oskar Pietuszewski",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "376664",
+        "player_name": "William Gomes",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "384295",
+        "player_name": "Gon\u00e7alo Santos Sousa",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "49"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "410793",
+        "player_name": "Andr\u00e9 Miranda",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "72"
+    },
+    {
+        "team_id": "437",
+        "team_name": "FC Porto",
+        "player_id": "420165",
+        "player_name": "Tiago Andrade",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "59"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "250759",
+        "player_name": "Daniel Figueira",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "99"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "266667",
+        "player_name": "Luc\u00e3o",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "345832",
+        "player_name": "Andr\u00e9 Picornell",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "183070",
+        "player_name": "Jonathan Buatu",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "250888",
+        "player_name": "Ghislain Konan",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "266675",
+        "player_name": "Weverson",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "304634",
+        "player_name": "Z\u00e9 Carlos",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "313888",
+        "player_name": "Marvin Elimbi",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "345768",
+        "player_name": "Hevertton Santos",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "20"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "354375",
+        "player_name": "Antonio Espigares",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "48"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "355033",
+        "player_name": "Jonathan Mutombo",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "45"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "376504",
+        "player_name": "Arthur Tchaptchet",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "59"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "309575",
+        "player_name": "Facundo C\u00e1seres",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "312549",
+        "player_name": "Lu\u00eds Esteves",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "332042",
+        "player_name": "Santiago Garc\u00eda",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "95"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "338296",
+        "player_name": "Z\u00e9 Carlos",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "345529",
+        "player_name": "Mohamed Bamba",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "358927",
+        "player_name": "Mart\u00edn Fern\u00e1ndez",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "32"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "388696",
+        "player_name": "Gui Beleza",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "400064",
+        "player_name": "Diogo Pereira",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "403524",
+        "player_name": "Rodrigo Rodrigues",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "80"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "405552",
+        "player_name": "Gil Martins",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "408148",
+        "player_name": "Guilherme Freitas",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "409513",
+        "player_name": "Gon\u00e7alo Maia",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "82"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "123865",
+        "player_name": "Hector Hern\u00e1ndez",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "172285",
+        "player_name": "Murilo",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "279658",
+        "player_name": "Sergio Bermejo",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "303866",
+        "player_name": "Joelson Mendes",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "350244",
+        "player_name": "Carlos Eduardo",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "358444",
+        "player_name": "Tidjany Tour\u00e9",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "366579",
+        "player_name": "Bassco Soyer",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "88"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "384482",
+        "player_name": "Gustavo Varela",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "89"
+    },
+    {
+        "team_id": "3699",
+        "team_name": "Gil Vicente",
+        "player_id": "407341",
+        "player_name": "Agust\u00edn Moreira",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "75433",
+        "player_name": "Andr\u00e9 Ferreira",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "144905",
+        "player_name": "Mika",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "158211",
+        "player_name": "Caio Secco",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "219004",
+        "player_name": "Jobson Marac\u00e1s",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "304065",
+        "player_name": "Fabiano",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "70"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "318406",
+        "player_name": "Michel",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "333090",
+        "player_name": "Dinis Pinto",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "76"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "352651",
+        "player_name": "Diogo Travassos",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "365774",
+        "player_name": "Gilberto Batista",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "66"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "381522",
+        "player_name": "Kevyn Monteiro",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "393761",
+        "player_name": "\u00c1lvaro Mart\u00ednez",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "395893",
+        "player_name": "Leandro Santos",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "71"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "406868",
+        "player_name": "Kiko",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "266670",
+        "player_name": "Alan",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "314574",
+        "player_name": "Nile John",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "332687",
+        "player_name": "Vasco Sousa",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "15"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "343635",
+        "player_name": "Rodri Alonso",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "351061",
+        "player_name": "Jimi Gower",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "359248",
+        "player_name": "Mateja Stjepanovic",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "398750",
+        "player_name": "Afonso Assis",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "25"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "418383",
+        "player_name": "Miguel Silva",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "276645",
+        "player_name": "Cedric Teguia",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "321375",
+        "player_name": "Kiko Bondoso",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "359433",
+        "player_name": "Landerson",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "78"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "364591",
+        "player_name": "Lu\u00eds Semedo",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "3696",
+        "team_name": "Moreirense",
+        "player_id": "394475",
+        "player_name": "Yan Maranh\u00e3o",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "99"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "177898",
+        "player_name": "Rui Silva",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "274284",
+        "player_name": "Jo\u00e3o Virg\u00ednia",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "329031",
+        "player_name": "Diego Callai",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "41"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "362066",
+        "player_name": "Francisco Silva",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "99"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "124204",
+        "player_name": "Nuno Santos",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "11"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "259871",
+        "player_name": "Ricardo Mangas",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "91"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "290590",
+        "player_name": "Eduardo Quaresma",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "72"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "300514",
+        "player_name": "Georgios Vagiannidis",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "304106",
+        "player_name": "Gon\u00e7alo In\u00e1cio",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "314473",
+        "player_name": "Zeno Debast",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "318189",
+        "player_name": "R\u00f4mulo",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "49"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "333209",
+        "player_name": "Iv\u00e1n Fresneda",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "343964",
+        "player_name": "Ousmane Diomande",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "366786",
+        "player_name": "Jo\u00e3o Muniz",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "373623",
+        "player_name": "Bruno Ramos",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "54"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "402224",
+        "player_name": "David Moreira",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "45"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "414124",
+        "player_name": "Salvador Blopa",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "70"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "416643",
+        "player_name": "Rodrigo Dias",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "50"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "258923",
+        "player_name": "Giorgi Kochorashvili",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "262591",
+        "player_name": "Pedro Gon\u00e7alves",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "270752",
+        "player_name": "Hidemasa Morita",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "274911",
+        "player_name": "Morten Hjulmand",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "287025",
+        "player_name": "Maxi Ara\u00fajo",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "290592",
+        "player_name": "Daniel Bragan\u00e7a",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "296969",
+        "player_name": "Geny Catamo",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "359450",
+        "player_name": "Rayan Lucas",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "60"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "364672",
+        "player_name": "Samuel Justo",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "96"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "376274",
+        "player_name": "Geovany Quenda",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "392622",
+        "player_name": "Jo\u00e3o Sim\u00f5es",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "52"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "398054",
+        "player_name": "Eduardo Felic\u00edssimo",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "73"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "266318",
+        "player_name": "Fotis Ioannidis",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "89"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "272722",
+        "player_name": "Luis Su\u00e1rez",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "97"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "274159",
+        "player_name": "Francisco Trinc\u00e3o",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "297345",
+        "player_name": "Souleymane Faye",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "349812",
+        "player_name": "Mauro Couto",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "78"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "361429",
+        "player_name": "Luis Guilherme",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "31"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "380529",
+        "player_name": "Rafael Nel",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "90"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "400101",
+        "player_name": "Lucas Anjos",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "67"
+    },
+    {
+        "team_id": "2250",
+        "team_name": "Sporting CP",
+        "player_id": "414123",
+        "player_name": "Fl\u00e1vio Gon\u00e7alves",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "58"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "216134",
+        "player_name": "Charles",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "27"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "341739",
+        "player_name": "Juan Castillo",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "25"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "358241",
+        "player_name": "Lucas Furtado",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "359933",
+        "player_name": "Gui",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "91"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "121221",
+        "player_name": "Andr\u00e9 Oliveira",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "75"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "218262",
+        "player_name": "Rodrigo Abascal",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "286545",
+        "player_name": "Orest Lebedenko",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "324007",
+        "player_name": "Miguel Maga",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "332660",
+        "player_name": "\u00d3scar Rivas",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "332686",
+        "player_name": "Jo\u00e3o Mendes",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "345742",
+        "player_name": "Miguel N\u00f3brega",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "361500",
+        "player_name": "Thiago Balieiro",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "362062",
+        "player_name": "Tony Strata",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "66"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "420907",
+        "player_name": "Francisco Lagos Dias",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "82"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "206714",
+        "player_name": "Samu",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "297037",
+        "player_name": "Beni",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "304076",
+        "player_name": "Telmo Arcanjo",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "345751",
+        "player_name": "Gon\u00e7alo Nogueira",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "368325",
+        "player_name": "Diogo Sousa",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "370770",
+        "player_name": "Matija Mitrovic",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "380617",
+        "player_name": "Hugo Nunes",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "46"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "403880",
+        "player_name": "Zeega",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "50"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "409828",
+        "player_name": "Miguel Nogueira",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "88"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "410818",
+        "player_name": "Rica Rocha",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "80"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "127575",
+        "player_name": "N\u00e9lson Oliveira",
+        "age": 34,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "252095",
+        "player_name": "Oumar Camara",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "320918",
+        "player_name": "Fabio Gomez",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "22"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "322491",
+        "player_name": "Alioune Ndoye",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "90"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "351586",
+        "player_name": "Gustavo da Silva",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "405929",
+        "player_name": "Ejike Opara",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "33"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "410817",
+        "player_name": "Noah Saviolo",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "48"
+    },
+    {
+        "team_id": "5309",
+        "team_name": "Vit\u00f3ria de Guimaraes",
+        "player_id": "414525",
+        "player_name": "Guilherme Paula",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "32"
+    }
+]

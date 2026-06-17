@@ -1,0 +1,2846 @@
+[
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "134169",
+        "player_name": "Lukas Hradecky",
+        "age": 36,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "258875",
+        "player_name": "Philipp K\u00f6hn",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "325600",
+        "player_name": "Yann Lienard",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "388329",
+        "player_name": "Jules Stawiecki",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "404659",
+        "player_name": "Yanis Benchaouch",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "60"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "155532",
+        "player_name": "Eric Dier",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "214401",
+        "player_name": "Thilo Kehrer",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "228421",
+        "player_name": "Wout Faes",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "240353",
+        "player_name": "Caio Henrique",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "240660",
+        "player_name": "Jordan Teze",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "277718",
+        "player_name": "Mohammed Salisu",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "310640",
+        "player_name": "Vanderson ",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "345243",
+        "player_name": "Kassoum Ouattara",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "20"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "350525",
+        "player_name": "Christian Mawissa",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "396631",
+        "player_name": "Bradel Kiwa",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "38721",
+        "player_name": "Lamine Camara",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "15"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "138860",
+        "player_name": "Paul Pogba",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "159348",
+        "player_name": "Takumi Minamino",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "195501",
+        "player_name": "Aleksandr Golovin",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "208518",
+        "player_name": "Mamadou Coulibaly",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "222628",
+        "player_name": "Denis Zakaria",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "253992",
+        "player_name": "Kr\u00e9pin Diatta",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "329690",
+        "player_name": "Maghnes Akliouche",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "356925",
+        "player_name": "Stanis Idumbo",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "388328",
+        "player_name": "Samuel Nibomb\u00e9",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "44"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "396630",
+        "player_name": "Aladji Bamba",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "403930",
+        "player_name": "Matthias Wamu Oyatambwe",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "33"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "411027",
+        "player_name": "Ilane Tour\u00e9",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "49"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "411449",
+        "player_name": "Pape Cabral",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "41"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "282643",
+        "player_name": "Folarin Balogun",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "292957",
+        "player_name": "Ansu Fati",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "31"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "308552",
+        "player_name": "Mika Biereth",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "317404",
+        "player_name": "Simon Adingra",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "24"
+    },
+    {
+        "team_id": "174",
+        "team_name": "AS Monaco",
+        "player_id": "365789",
+        "player_name": "Paris Brunner",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "114031",
+        "player_name": "Alex Teixeira",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "197631",
+        "player_name": "Mory Diaw",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "99"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "211669",
+        "player_name": "Lionel Mpasi",
+        "age": 31,
+        "position": "Goalkeeper",
+        "jersey": "77"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "371498",
+        "player_name": "Paul Argney",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "138564",
+        "player_name": "Lo\u00efc N\u00e9go",
+        "age": 35,
+        "position": "Defender",
+        "jersey": "7"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "180174",
+        "player_name": "Gautier Lloris",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "258270",
+        "player_name": "Ayumu Seko",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "297167",
+        "player_name": "Timothee Pemb\u00e9l\u00e9",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "297168",
+        "player_name": "Etienne Youte Kinkoue",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "304213",
+        "player_name": "Arouna Sangante",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "93"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "306548",
+        "player_name": "Fod\u00e9 Doucour\u00e9",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "386384",
+        "player_name": "Yanis Zouaoui",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "401714",
+        "player_name": "Stephan Zagadou",
+        "age": 17,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "409374",
+        "player_name": "Georges Gomis",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "416467",
+        "player_name": "Yanis Monkolot",
+        "age": 17,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "19433",
+        "player_name": "Thierno Bah",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "38"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "178056",
+        "player_name": "Sofiane Boufal",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "185685",
+        "player_name": "Abdoulaye Tour\u00e9",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "94"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "291982",
+        "player_name": "Rassoul Ndiaye",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "294632",
+        "player_name": "Reda Khadra",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "303338",
+        "player_name": "Lucas Gourna-Douath",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "319290",
+        "player_name": "Yassine Kechta",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "346519",
+        "player_name": "Simon Ebonog",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "26"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "388878",
+        "player_name": "Daren Mosengo",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "78"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "388879",
+        "player_name": "Guy Zohouri",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "397959",
+        "player_name": "Adams Diabat\u00e9",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "39"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "417261",
+        "player_name": "Thomas Rousseau",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "37"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "231366",
+        "player_name": "Mbwana Samatta",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "285840",
+        "player_name": "Godson Kyeremeh",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "285975",
+        "player_name": "F\u00e9lix Mambimbi",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "297743",
+        "player_name": "Issa Soumar\u00e9",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "45"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "388881",
+        "player_name": "Noam Obougou",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "411169",
+        "player_name": "Enzo Koffi Vinette",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "415744",
+        "player_name": "Kenny Quetant",
+        "age": 19,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "3236",
+        "team_name": "Le Havre AC",
+        "player_id": "417260",
+        "player_name": "Yanis Beau Djellel",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "34"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "101451",
+        "player_name": "R\u00e9gis Gurtner",
+        "age": 39,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "131742",
+        "player_name": "Mathieu Gorgelin",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "344517",
+        "player_name": "Robin Risser",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "393430",
+        "player_name": "Adam Delplace",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "403417",
+        "player_name": "Ilan Jourdren",
+        "age": 17,
+        "position": "Goalkeeper",
+        "jersey": "60"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "165892",
+        "player_name": "Arthur Masuaku",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "181946",
+        "player_name": "Ruben Aguilar",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "197187",
+        "player_name": "Jonathan Gradit",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "233199",
+        "player_name": "Matthieu Udol",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "240438",
+        "player_name": "Malang Sarr",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "20"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "286011",
+        "player_name": "Saud Abdulhamid",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "329484",
+        "player_name": "Samson Baidoo",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "350577",
+        "player_name": "Pierre Ganiou",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "387044",
+        "player_name": "Nidal Celik",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "393432",
+        "player_name": "Kyllian Antonio",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "398737",
+        "player_name": "Oscar Lenne",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "173266",
+        "player_name": "Adrien Thomasson",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "228547",
+        "player_name": "Mamadou Sangare",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "228557",
+        "player_name": "Amadou Haidara",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "358915",
+        "player_name": "Fode Sylla",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "378981",
+        "player_name": "Alpha Diallo",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "31"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "379227",
+        "player_name": "Anthony Bermont",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "26"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "387061",
+        "player_name": "Andrija Bulatovic",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "412217",
+        "player_name": "Mezian Soares",
+        "age": 16,
+        "position": "Midfielder",
+        "jersey": "41"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "156898",
+        "player_name": "Florian Thauvin",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "186189",
+        "player_name": "Wesley Sa\u00efd",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "22"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "193281",
+        "player_name": "Allan Saint-Maximin",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "215687",
+        "player_name": "Florian Sotoca",
+        "age": 35,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "222180",
+        "player_name": "Odsonne \u00c9douard",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "308246",
+        "player_name": "Abdallah Sima",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "401045",
+        "player_name": "Rayan Fofana",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "38"
+    },
+    {
+        "team_id": "175",
+        "team_name": "Lens",
+        "player_id": "417648",
+        "player_name": "Erawan Garnier",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "34"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "167905",
+        "player_name": "Marc-Aurele Caillard",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "255780",
+        "player_name": "Arnaud Bodart",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "257267",
+        "player_name": "Berke \u00d6zer",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "408358",
+        "player_name": "Thomas Sajous",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "411321",
+        "player_name": "Samy Merzouk",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "415421",
+        "player_name": "Zadig Lanssade",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "60"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "150451",
+        "player_name": "A\u00efssa Mandi",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "166473",
+        "player_name": "Thomas Meunier",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "174322",
+        "player_name": "Chancel Mbemba",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "217381",
+        "player_name": "Calvin Verdonk",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "250853",
+        "player_name": "Romain Perraud",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "318577",
+        "player_name": "Nathan Ngoy",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "340900",
+        "player_name": "Alexsandro ",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "346844",
+        "player_name": "Tiago Santos ",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "366905",
+        "player_name": "Ousmane Tour\u00e9",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "36"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "394751",
+        "player_name": "Morgan Costarelli",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "408359",
+        "player_name": "Maxima Goffi",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "38"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "416423",
+        "player_name": "Stephane Noumbissie",
+        "age": 19,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "123683",
+        "player_name": "Benjamin Andr\u00e9",
+        "age": 35,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "179187",
+        "player_name": "Nabil Bentaleb",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "318779",
+        "player_name": "H\u00e1kon Haraldsson",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "345988",
+        "player_name": "Ngal'ayel Mukau",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "355971",
+        "player_name": "Ethan Mbapp\u00e9",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "373927",
+        "player_name": "Ayyoub Bouaddi",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "32"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "375316",
+        "player_name": "Lilian Baret",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "33"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "417255",
+        "player_name": "Saad Boussadia",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "88965",
+        "player_name": "Olivier Giroud",
+        "age": 39,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "231778",
+        "player_name": "Gaetan Perrin",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "28"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "283626",
+        "player_name": "Osame Sahraoui",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "288900",
+        "player_name": "Felix Correia",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "323173",
+        "player_name": "Marius Broholm",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "358999",
+        "player_name": "Hamza Igmane",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "359651",
+        "player_name": "Matias Fernandez-Pardo",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "367360",
+        "player_name": "Noah Edjouma",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "393322",
+        "player_name": "Younes Lachaab",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "43"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "400352",
+        "player_name": "Soriba Diaoune",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "35"
+    },
+    {
+        "team_id": "166",
+        "team_name": "Lille",
+        "player_id": "417256",
+        "player_name": "Matah Yondjio",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "41"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "157963",
+        "player_name": "Maxime Dup\u00e9",
+        "age": 33,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "241029",
+        "player_name": "Yehvann Diouf",
+        "age": 26,
+        "position": "Goalkeeper",
+        "jersey": "80"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "368014",
+        "player_name": "Bartosz Zelazowski",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "409027",
+        "player_name": "Th\u00e9o Bruy\u00e8re",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "418043",
+        "player_name": "Matys Youst",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "70"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "130165",
+        "player_name": "Dante",
+        "age": 42,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "232089",
+        "player_name": "Jonathan Clauss",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "92"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "236957",
+        "player_name": "Mohamed Abdelmoneim",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "265234",
+        "player_name": "Ali Abdi",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "265923",
+        "player_name": "Melvin Bard",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "319161",
+        "player_name": "Antoine Mendy",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "357205",
+        "player_name": "Kojo Peprah Oppong",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "358975",
+        "player_name": "Mo\u00efse Bombito",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "64"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "370703",
+        "player_name": "Juma Bah",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "396919",
+        "player_name": "Laurenzo Monteiro",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "48"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "399226",
+        "player_name": "Mousslim Youssouf",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "404832",
+        "player_name": "Brad-Hamilton Mantsounga",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "36"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "408218",
+        "player_name": "Kayyum Alabi",
+        "age": 18,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "418319",
+        "player_name": "Yanis Sofikitis",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "53"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "176816",
+        "player_name": "Morgan Sanson",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "240672",
+        "player_name": "Tanguy Ndombele",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "255192",
+        "player_name": "Youssouf Ndayishimiye",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "55"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "276260",
+        "player_name": "Charles Vanhoutte",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "276995",
+        "player_name": "Sofiane Diop",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "287078",
+        "player_name": "Hicham Boudaoui",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "292769",
+        "player_name": "Salis Abdul Samed",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "99"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "357425",
+        "player_name": "Djibril Coulibaly",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "39"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "362061",
+        "player_name": "Tom Louchet",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "397392",
+        "player_name": "Gabin Bernardeau",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "416459",
+        "player_name": "Millan Brignone",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "45"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "416460",
+        "player_name": "Everton Pereira",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "41"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "282597",
+        "player_name": "Isak Jansson",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "290081",
+        "player_name": "Tiago Gouveia",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "47"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "304151",
+        "player_name": "Kevin Carlos ",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "90"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "306557",
+        "player_name": "Mohamed-Ali Cho",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "311118",
+        "player_name": "Elye Wahi",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "379066",
+        "player_name": "Kail Boudache",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "32"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "399717",
+        "player_name": "Zoumana Diallo",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "44"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "408217",
+        "player_name": "Enguerrand Bouard",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "38"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "413847",
+        "player_name": "Jah-Mason Telusson",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "42"
+    },
+    {
+        "team_id": "2502",
+        "team_name": "Nice",
+        "player_id": "418320",
+        "player_name": "K\u00e9fren Ali",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "52"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "86255",
+        "player_name": "R\u00e9my Riou",
+        "age": 38,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "122280",
+        "player_name": "Kevin Trapp",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "35"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "301770",
+        "player_name": "Obed Nkambadio",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "16"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "127572",
+        "player_name": "Timoth\u00e9e Kolodziejczak",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "196729",
+        "player_name": "Hamari Traor\u00e9",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "235768",
+        "player_name": "Sofiane Alakouch",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "246805",
+        "player_name": "Thibault De Smet",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "287474",
+        "player_name": "Moustapha Mbow",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "287572",
+        "player_name": "Samir Chergui",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "31"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "308195",
+        "player_name": "Otavio ",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "332549",
+        "player_name": "Diego Coppola",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "42"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "354865",
+        "player_name": "Tuomas Ollila",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "371471",
+        "player_name": "Nhoa Sangui",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "377595",
+        "player_name": "Killian Prouchet",
+        "age": 21,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "416434",
+        "player_name": "Anis Fatahine",
+        "age": 20,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "219153",
+        "player_name": "Vincent Marchetti",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "4"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "221527",
+        "player_name": "Pierre Lees-Melou",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "33"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "223122",
+        "player_name": "Maxime L\u00f3pez",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "227720",
+        "player_name": "Mathieu Cafaro",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "13"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "266096",
+        "player_name": "Marshall Munetsi",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "304918",
+        "player_name": "Ilan Kebbal",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "364746",
+        "player_name": "Adama Camara",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "402888",
+        "player_name": "Rudy Matondo",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "130123",
+        "player_name": "Ciro Immobile",
+        "age": 36,
+        "position": "Forward",
+        "jersey": "36"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "174872",
+        "player_name": "Julien Lopez",
+        "age": 34,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "187647",
+        "player_name": "Moses Simon",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "225559",
+        "player_name": "Jonathan Ikon\u00e9",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "93"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "238392",
+        "player_name": "Alimani Gory",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "248675",
+        "player_name": "Pierre-Yves Hamel",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "257126",
+        "player_name": "Jean-Phillipe Krasso",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "259744",
+        "player_name": "Willem Geubbels",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "301265",
+        "player_name": "Lamine Gueye",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "341333",
+        "player_name": "Luca Koleosho",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "24"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "381635",
+        "player_name": "Mohamed Benoit-Dao",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "37"
+    },
+    {
+        "team_id": "6851",
+        "team_name": "Paris FC",
+        "player_id": "417680",
+        "player_name": "Zakarya Khaldi",
+        "age": 21,
+        "position": "Forward",
+        "jersey": null
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "248699",
+        "player_name": "Matvei Safonov",
+        "age": 27,
+        "position": "Goalkeeper",
+        "jersey": "39"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "288925",
+        "player_name": "Lucas Chevalier",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "379089",
+        "player_name": "Renato Marin",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "89"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "415149",
+        "player_name": "Martin James",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "60"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "417263",
+        "player_name": "Arthur Vignaud",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "70"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "422106",
+        "player_name": "Bilal Laurendon",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "80"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "159047",
+        "player_name": "Marquinhos ",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "196200",
+        "player_name": "Lucas Hern\u00e1ndez",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "240233",
+        "player_name": "Achraf Hakimi",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "287005",
+        "player_name": "Willian Pacho",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "51"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "290591",
+        "player_name": "Nuno Mendes",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "304503",
+        "player_name": "Illia Zabarnyi",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "316128",
+        "player_name": "Lucas Beraldo",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "329465",
+        "player_name": "Samba Coulibaly",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "55"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "403981",
+        "player_name": "David Boly",
+        "age": 17,
+        "position": "Defender",
+        "jersey": "42"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "422107",
+        "player_name": "Thomas Cordier",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "53"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "422192",
+        "player_name": "Dimitri Lucea",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "54"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "214596",
+        "player_name": "Fabi\u00e1n Ruiz",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "274197",
+        "player_name": "Lee Kang-In",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "288897",
+        "player_name": "Vitinha ",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "345581",
+        "player_name": "Warren Za\u00efre-Emery",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "33"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "355061",
+        "player_name": "Jo\u00e3o Neves",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "87"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "379088",
+        "player_name": "Senny Mayulu",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "403420",
+        "player_name": "Wassim Slama",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "48"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "403578",
+        "player_name": "Dro Fern\u00e1ndez",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "411462",
+        "player_name": "Yanis Khafi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "46"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "411463",
+        "player_name": "Mathis Jangeal",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "41"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "416441",
+        "player_name": "Noah Nsoki",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "45"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "229744",
+        "player_name": "Ousmane Demb\u00e9l\u00e9",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "274745",
+        "player_name": "Khvicha Kvaratskhelia",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "288896",
+        "player_name": "Gon\u00e7alo Ramos",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "328238",
+        "player_name": "Bradley Barcola",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "336388",
+        "player_name": "D\u00e9sir\u00e9 Dou\u00e9",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "388522",
+        "player_name": "Ibrahim Mbaye",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "49"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "403419",
+        "player_name": "Quentin Ndjantou",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "47"
+    },
+    {
+        "team_id": "160",
+        "team_name": "Paris Saint-Germain",
+        "player_id": "413849",
+        "player_name": "Pierre Mounguengue",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "57"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "164126",
+        "player_name": "Brice Samba",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "372092",
+        "player_name": "Ayoube Akabou",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "80"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "409659",
+        "player_name": "Mathys Silistre",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "414191",
+        "player_name": "Kilian Belazzoug",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "60"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "290141",
+        "player_name": "Lilian Brassier",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "291614",
+        "player_name": "Anthony Rouault",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "305669",
+        "player_name": "Alidu Seidu",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "36"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "313890",
+        "player_name": "Quentin Merlin",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "355980",
+        "player_name": "J\u00e9r\u00e9my Jacquet",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "97"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "372260",
+        "player_name": "Mahamadou Nagida",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "376339",
+        "player_name": "Abdelhamid A\u00eft Boudlal",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "48"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "404780",
+        "player_name": "Isiaka Soukouna",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "67"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "418956",
+        "player_name": "Junior Ake",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "75"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "175064",
+        "player_name": "Glen Kamara",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "4"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "190806",
+        "player_name": "Przemyslaw Frankowski",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "95"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "207136",
+        "player_name": "Valentin Rongier",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "243844",
+        "player_name": "Sebastian Szymanski",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "268966",
+        "player_name": "Mahdi Camara",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "45"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "355982",
+        "player_name": "Djaoui Ciss\u00e9",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "416462",
+        "player_name": "Paolo Limon",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "74"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "418750",
+        "player_name": "Chibuike Ugochukwu",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "79"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "202099",
+        "player_name": "Breel Embolo",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "223120",
+        "player_name": "Ludovic Blas",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "242738",
+        "player_name": "Arnaud Nordin",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "70"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "257489",
+        "player_name": "Mousa Al-Tamari",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "323850",
+        "player_name": "Esteban Lepaul",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "390389",
+        "player_name": "Yassir Zabiri",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "77"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "398977",
+        "player_name": "Henrick Do Marcolino",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "409660",
+        "player_name": "Nordan Mukiele",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "65"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "414190",
+        "player_name": "Lucas Rosier",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "71"
+    },
+    {
+        "team_id": "169",
+        "team_name": "Stade Rennais",
+        "player_id": "415193",
+        "player_name": "Elias Legendre",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "35"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "183562",
+        "player_name": "Karl-Johan Johnsson",
+        "age": 36,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "260545",
+        "player_name": "Stefan Bajic",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "50"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "332343",
+        "player_name": "Mike Penders",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "39"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "408136",
+        "player_name": "Gabriel Kerckaert",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "60"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "225426",
+        "player_name": "Ben Chilwell",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "290101",
+        "player_name": "Andrew Omobamidele",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "305935",
+        "player_name": "Ismael Doukoure",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "346636",
+        "player_name": "Guela Dou\u00e9",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "359934",
+        "player_name": "Lucas H\u00f8gsberg",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "363218",
+        "player_name": "Aaron Anselmino",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "397220",
+        "player_name": "Amadou Ciss\u00e9",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "401330",
+        "player_name": "Sacha Lung",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "35"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "418786",
+        "player_name": "Yoann Becker",
+        "age": 17,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "20975",
+        "player_name": "Julio Enciso",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "303787",
+        "player_name": "Sebastian Nanasi",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "320760",
+        "player_name": "Valent\u00edn Barco",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "32"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "336794",
+        "player_name": "Abdoul Ouattara",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "340583",
+        "player_name": "Junior Mwanga",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "347919",
+        "player_name": "Maximillian Oyedele",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "364764",
+        "player_name": "Mathis Amougou",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "378491",
+        "player_name": "Samir El Mourabet",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "29"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "405540",
+        "player_name": "Rafael Lu\u00eds",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "83"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "408137",
+        "player_name": "Max Mar\u00e9chal",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "46"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "418506",
+        "player_name": "Tyrese Noubissie",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "421928",
+        "player_name": "Idrissa Sabaly",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": null
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "301047",
+        "player_name": "David Datro Fofana",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "304871",
+        "player_name": "Emmanuel Emegha",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "340678",
+        "player_name": "Diego Moreira",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "348301",
+        "player_name": "Martial Godo",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "350501",
+        "player_name": "Samuel Amo-Ameyaw",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "350961",
+        "player_name": "Joaqu\u00edn Panichelli",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "371556",
+        "player_name": "Yaya Di\u00e9m\u00e9",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "34"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "379012",
+        "player_name": "Gessime Yassine",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "80"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "401738",
+        "player_name": "Ghianny Kodia",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "37"
+    },
+    {
+        "team_id": "180",
+        "team_name": "Strasbourg",
+        "player_id": "416177",
+        "player_name": "Jean-Baptiste Bosey",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "38"
+    }
+]

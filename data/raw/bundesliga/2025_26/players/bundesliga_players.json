@@ -1,0 +1,4259 @@
+[
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "165424",
+        "player_name": "Frederik Ronnow",
+        "age": 33,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "221460",
+        "player_name": "Carl Klaus",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "25"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "238706",
+        "player_name": "Matheo Raab",
+        "age": 27,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "422096",
+        "player_name": "Tom Wisbereit",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "48"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "146485",
+        "player_name": "Christopher Trimmel",
+        "age": 39,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "222567",
+        "player_name": "Josip Juranovic",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "233622",
+        "player_name": "Danilho Doekhi",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "258910",
+        "player_name": "Diogo Leite",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "263202",
+        "player_name": "Derrick K\u00f6hn",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "268808",
+        "player_name": "Stanley N'Soki",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "324269",
+        "player_name": "Tom Rothe",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "330455",
+        "player_name": "Leopold Querfeld",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "406371",
+        "player_name": "Andrik Markgraf",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "159152",
+        "player_name": "Rani Khedira",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "170604",
+        "player_name": "Janik Haberer",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "218596",
+        "player_name": "Robert Skov",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "220796",
+        "player_name": "Tim Skarke",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "257085",
+        "player_name": "Alex Kr\u00e1l",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "33"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "276323",
+        "player_name": "Jeong Woo-Yeong",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "284702",
+        "player_name": "Andr\u00e1s Sch\u00e4fer",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "13"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "349922",
+        "player_name": "Aljoscha Kemlein",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "421735",
+        "player_name": "Linus G\u00fcther",
+        "age": 16,
+        "position": "Midfielder",
+        "jersey": "49"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "212478",
+        "player_name": "Oliver Burke",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "341441",
+        "player_name": "Andrej Ilic",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "366363",
+        "player_name": "Ilyas Ansah",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "366823",
+        "player_name": "Livan Burcu",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "386438",
+        "player_name": "David Preu",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "598",
+        "team_name": "1. FC Union Berlin",
+        "player_id": "386460",
+        "player_name": "Dmytro Bohdanov",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "161825",
+        "player_name": "Janis Blaswich",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "28"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "175069",
+        "player_name": "Niklas Lomb",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "36"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "177821",
+        "player_name": "Mark Flekken",
+        "age": 33,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "238418",
+        "player_name": "Jonas Omlin",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "18"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "415131",
+        "player_name": "Jesper Schlich",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "99684",
+        "player_name": "Issa Traor\u00e9",
+        "age": 18,
+        "position": "Defender",
+        "jersey": null
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "166396",
+        "player_name": "Alejandro Grimaldo",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "20"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "174967",
+        "player_name": "Lucas V\u00e1zquez",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "257287",
+        "player_name": "Edmond Tapsoba",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "12"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "298524",
+        "player_name": "Jarell Quansah",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "300410",
+        "player_name": "Lo\u00efc Bad\u00e9",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "334374",
+        "player_name": "Arthur",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "346376",
+        "player_name": "Tim Oermann",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "396655",
+        "player_name": "Axel Tape",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "397120",
+        "player_name": "Ben Hawighorst",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "408701",
+        "player_name": "Ferdinand Pohl",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "46"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "174617",
+        "player_name": "Jonas Hofmann",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "180998",
+        "player_name": "Robert Andrich",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "219294",
+        "player_name": "Aleix Garc\u00eda",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "228393",
+        "player_name": "Exequiel Palacios",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "25"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "301416",
+        "player_name": "Malik Tillman",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "364080",
+        "player_name": "Ezequiel Fern\u00e1ndez",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "403899",
+        "player_name": "Jeremiah Mensah",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "408703",
+        "player_name": "Montrell Culbreath",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "415130",
+        "player_name": "Naba Mensah",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "45"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "212330",
+        "player_name": "Patrik Schick",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "241662",
+        "player_name": "Martin Terrier",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "263134",
+        "player_name": "Nathan Tella",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "318534",
+        "player_name": "Ernest Poku",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "346947",
+        "player_name": "Eliesse Ben Seghir",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "361212",
+        "player_name": "Ibrahim Maza",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "398709",
+        "player_name": "Christian Kofane",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "35"
+    },
+    {
+        "team_id": "131",
+        "team_name": "Bayer Leverkusen",
+        "player_id": "419917",
+        "player_name": "Emmanuel Owen",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "47"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "84774",
+        "player_name": "Manuel Neuer",
+        "age": 40,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "113733",
+        "player_name": "Sven Ulreich",
+        "age": 37,
+        "position": "Goalkeeper",
+        "jersey": "26"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "323790",
+        "player_name": "Jonas Urbig",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "388141",
+        "player_name": "Leon Klanac",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "48"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "409827",
+        "player_name": "Jannis B\u00e4rtl",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "35"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "410636",
+        "player_name": "Leonard Prescott",
+        "age": 16,
+        "position": "Goalkeeper",
+        "jersey": "37"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "97111",
+        "player_name": "Hiroki Ito",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "157688",
+        "player_name": "Kim Min-Jae",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "176228",
+        "player_name": "Rapha\u00ebl Guerreiro",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "188052",
+        "player_name": "Jonathan Tah",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "222793",
+        "player_name": "Dayot Upamecano",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "236721",
+        "player_name": "Alphonso Davies",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "276329",
+        "player_name": "Josip Stanisic",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "388224",
+        "player_name": "Vincent Manuba",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "41"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "405586",
+        "player_name": "Cassiano Kiala",
+        "age": 17,
+        "position": "Defender",
+        "jersey": "30"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "416461",
+        "player_name": "Deniz Ofli",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "420811",
+        "player_name": "Filip Pavic",
+        "age": 16,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "169189",
+        "player_name": "Konrad Laimer",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "174550",
+        "player_name": "Leon Goretzka",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "190161",
+        "player_name": "Joshua Kimmich",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "286831",
+        "player_name": "Michael Olise",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "303821",
+        "player_name": "Jamal Musiala",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "324660",
+        "player_name": "Tom Bischof",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "359370",
+        "player_name": "Aleksandar Pavlovic",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "45"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "379223",
+        "player_name": "Guido Rovere",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "31"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "402841",
+        "player_name": "Lennart Karl",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "405585",
+        "player_name": "David Daiber",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "47"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "417373",
+        "player_name": "Maycon Cardozo",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "49"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "420899",
+        "player_name": "Erblin Osmani",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "38"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "142200",
+        "player_name": "Harry Kane",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "178980",
+        "player_name": "Serge Gnabry",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "257390",
+        "player_name": "Luis D\u00edaz",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "308524",
+        "player_name": "Nicolas Jackson",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "399864",
+        "player_name": "Wisdom Mike",
+        "age": 17,
+        "position": "Forward",
+        "jersey": "36"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "409016",
+        "player_name": "Bara Sapoko Ndiaye",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "39"
+    },
+    {
+        "team_id": "132",
+        "team_name": "Bayern Munich",
+        "player_id": "422013",
+        "player_name": "Bastian Assomo",
+        "age": 16,
+        "position": "Forward",
+        "jersey": "33"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "174521",
+        "player_name": "Patrick Drewes",
+        "age": 33,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "178380",
+        "player_name": "Alexander Meyer",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "33"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "238544",
+        "player_name": "Gregor Kobel",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "331297",
+        "player_name": "Silas Ostrzinski",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "31"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "186263",
+        "player_name": "Niklas S\u00fcle",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "220703",
+        "player_name": "Ramy Bensebaini",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "220714",
+        "player_name": "Waldemar Anton",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "222991",
+        "player_name": "Julian Ryerson",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "286828",
+        "player_name": "Nico Schlotterbeck",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "297084",
+        "player_name": "Yan Couto",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "310709",
+        "player_name": "Daniel Svensson",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "372034",
+        "player_name": "Almugera Kabar",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "42"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "387437",
+        "player_name": "Filippo Man\u00e9",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "387529",
+        "player_name": "Elias Benkara",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "47"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "413817",
+        "player_name": "Luca Reggiani",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "49"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "159142",
+        "player_name": "Emre Can",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "173907",
+        "player_name": "Marcel Sabitzer",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "197628",
+        "player_name": "Julian Brandt",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "225563",
+        "player_name": "Salih \u00d6zcan",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "281122",
+        "player_name": "Felix Nmecha",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "294317",
+        "player_name": "Carney Chukwuemeka",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "324820",
+        "player_name": "Jobe Bellingham",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "387500",
+        "player_name": "Danylo Krevsun",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "45"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "403933",
+        "player_name": "Mussa Kaba",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "48"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "186381",
+        "player_name": "Serhou Guirassy",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "274913",
+        "player_name": "Karim Adeyemi",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "290639",
+        "player_name": "Maximilian Beier",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "291629",
+        "player_name": "F\u00e1bio Silva",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "403781",
+        "player_name": "Mathis Albert",
+        "age": 17,
+        "position": "Forward",
+        "jersey": "41"
+    },
+    {
+        "team_id": "124",
+        "team_name": "Borussia Dortmund",
+        "player_id": "403833",
+        "player_name": "Samuele In\u00e1cio",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "40"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "122273",
+        "player_name": "Tobias Sippel",
+        "age": 38,
+        "position": "Goalkeeper",
+        "jersey": "21"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "238536",
+        "player_name": "Moritz Nicolas",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "33"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "304631",
+        "player_name": "Jan Olschowsky",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "23"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "344654",
+        "player_name": "Tiago Pereira",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "42"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "202642",
+        "player_name": "Marvin Friedrich",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "206863",
+        "player_name": "Kevin Diks",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "212237",
+        "player_name": "Nico Elvedi",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "30"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "272135",
+        "player_name": "Joe Scally",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "323061",
+        "player_name": "Fabio Chiarodia",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "328492",
+        "player_name": "Kota Takai",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "346617",
+        "player_name": "Lukas Ullrich",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "175006",
+        "player_name": "Kevin St\u00f6ger",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "196029",
+        "player_name": "Franck Honorat",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "9"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "238527",
+        "player_name": "Florian Neuhaus",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "258876",
+        "player_name": "Robin Hack",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "25"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "275805",
+        "player_name": "Philipp Sander",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "282676",
+        "player_name": "Nathan N'Goumou",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "290230",
+        "player_name": "Giovanni Reyna",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "13"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "304793",
+        "player_name": "Jens Castrop",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "307364",
+        "player_name": "Rocco Reitz",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "330239",
+        "player_name": "Hugo Bolin",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "38"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "337079",
+        "player_name": "Yannick Engelhardt",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "397566",
+        "player_name": "Niklas Swider",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "39"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "408539",
+        "player_name": "Wael Mohya",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "36"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "415726",
+        "player_name": "Fritz Fleck",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "184869",
+        "player_name": "Haris Tabakovic",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "185906",
+        "player_name": "Tim Kleindienst",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "271352",
+        "player_name": "Shuto Machino",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "371484",
+        "player_name": "Alejo Sarco",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "8"
+    },
+    {
+        "team_id": "268",
+        "team_name": "Borussia M\u00f6nchengladbach",
+        "player_id": "386420",
+        "player_name": "Jan Urbich",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "40"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "122396",
+        "player_name": "Jens Grahl",
+        "age": 37,
+        "position": "Goalkeeper",
+        "jersey": "33"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "184550",
+        "player_name": "Michael Zetterer",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "23"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "338950",
+        "player_name": "Kau\u00e3 Santos",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "397160",
+        "player_name": "Amil Siljevic",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "39"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "120829",
+        "player_name": "Nathaniel Brown",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "208285",
+        "player_name": "Robin Koch",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "234787",
+        "player_name": "Rasmus Kristensen",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "304222",
+        "player_name": "Arthur Theate",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "305556",
+        "player_name": "Nnamdi Collins",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "319404",
+        "player_name": "Aur\u00e8le Amenda",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "371596",
+        "player_name": "Keita Kosugi",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "372788",
+        "player_name": "Elias Baum",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "404775",
+        "player_name": "Fousseny Doumbia",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "41"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "128521",
+        "player_name": "Timothy Chandler",
+        "age": 36,
+        "position": "Midfielder",
+        "jersey": "22"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "143020",
+        "player_name": "Mario G\u00f6tze",
+        "age": 34,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "191098",
+        "player_name": "Mahmoud Dahoud",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "209595",
+        "player_name": "Ellyes Skhiri",
+        "age": 31,
+        "position": "Midfielder",
+        "jersey": "15"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "219627",
+        "player_name": "Ritsu Doan",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "336460",
+        "player_name": "Hugo Larsson",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "337306",
+        "player_name": "Far\u00e8s Cha\u00efbi",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "355369",
+        "player_name": "Can Uzun",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "365997",
+        "player_name": "Oscar H\u00f8jlund",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "399423",
+        "player_name": "Love Arrhov",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "31"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "406373",
+        "player_name": "Marvin Dills",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "45"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "156479",
+        "player_name": "Michy Batshuayi",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "274887",
+        "player_name": "Jonathan Burkardt",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "296321",
+        "player_name": "Arnaud Kalimuendo",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "305555",
+        "player_name": "Ansgar Knauff",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "346662",
+        "player_name": "Jean-Matt\u00e9o Bahoya",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "359793",
+        "player_name": "Younes Ebnoutalib",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "403767",
+        "player_name": "Alexander Staff",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "53"
+    },
+    {
+        "team_id": "125",
+        "team_name": "Eintracht Frankfurt",
+        "player_id": "416636",
+        "player_name": "Ayoube Amaimouni",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "29"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "121007",
+        "player_name": "Ron-Robert Zieler",
+        "age": 37,
+        "position": "Goalkeeper",
+        "jersey": "20"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "205751",
+        "player_name": "Marvin Schw\u00e4be",
+        "age": 31,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "258973",
+        "player_name": "Matthias K\u00f6bbing",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "44"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "167683",
+        "player_name": "Dominique Heintz",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "238520",
+        "player_name": "Timo H\u00fcbers",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "279958",
+        "player_name": "Luca Kilian",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "301348",
+        "player_name": "Cenk \u00d6zkacar",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "302981",
+        "player_name": "Sebastian Sebulonsen",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "306161",
+        "player_name": "Rav van den Berg",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "306378",
+        "player_name": "Joel Schmied",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "310466",
+        "player_name": "Kristoffer Lund",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "357337",
+        "player_name": "Jahmai Simpson-Pusey",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "415733",
+        "player_name": "Cenny Neumann",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "36"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "418989",
+        "player_name": "David F\u00fcrst",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "49"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "151464",
+        "player_name": "Florian Kainz",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "231173",
+        "player_name": "Linton Maina",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "37"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "236136",
+        "player_name": "Alessio Castro-Montes",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "17"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "283683",
+        "player_name": "Tom Krauss",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "286815",
+        "player_name": "\u00cdsak J\u00f3hannesson",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "290398",
+        "player_name": "Eric Martel",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "300444",
+        "player_name": "Jan Thielmann",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "29"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "304933",
+        "player_name": "Jakub Kaminski",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "343969",
+        "player_name": "Denis Huseinbasic",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "372029",
+        "player_name": "Fayssal Harchaoui",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "380795",
+        "player_name": "Said El Mala",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "13"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "408344",
+        "player_name": "Felipe Ch\u00e1vez",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "191352",
+        "player_name": "Luca Waldschmidt",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "255355",
+        "player_name": "Ragnar Ache",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "275797",
+        "player_name": "Marius Bulter",
+        "age": 33,
+        "position": "Forward",
+        "jersey": "30"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "384155",
+        "player_name": "Malek El Mala",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "416417",
+        "player_name": "Fynn Schenten",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "40"
+    },
+    {
+        "team_id": "122",
+        "team_name": "FC Cologne",
+        "player_id": "417605",
+        "player_name": "Youssoupha Niang",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "38"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "180162",
+        "player_name": "Daniel Heuer Fernandes",
+        "age": 33,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "304258",
+        "player_name": "Sander Tangvik",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "386446",
+        "player_name": "Hannes Hermann",
+        "age": 21,
+        "position": "Goalkeeper",
+        "jersey": "40"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "388681",
+        "player_name": "Fernando Dickes",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "41"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "243626",
+        "player_name": "Miro Muheim",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "251061",
+        "player_name": "Jordan Torunarigha",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "283729",
+        "player_name": "Noah Katterbach",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "306347",
+        "player_name": "Giorgi Gocholeishvili",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "309840",
+        "player_name": "Warmed Omari",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "313897",
+        "player_name": "William Mikelbrencis",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "364962",
+        "player_name": "Luka Vuskovic",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "44"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "410645",
+        "player_name": "Louis Lemke",
+        "age": 16,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "415376",
+        "player_name": "Shafiq Nandja",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "88865",
+        "player_name": "Fabio Vieira",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "238542",
+        "player_name": "Bakery Jatta",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "268239",
+        "player_name": "Albert Sambi Lokonga",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "284835",
+        "player_name": "Nicol\u00e1s Capaldo",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "297750",
+        "player_name": "Albert Gr\u00f8nbaek",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "23"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "321226",
+        "player_name": "Nicolai Remberg",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "21"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "343993",
+        "player_name": "Daniel Elfadli",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "346567",
+        "player_name": "Omar Megeed",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "39"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "182245",
+        "player_name": "Yussuf Poulsen",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "15"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "206999",
+        "player_name": "Jean-Luc Domp\u00e9",
+        "age": 30,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "246846",
+        "player_name": "Robert Glatzel",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "289745",
+        "player_name": "Philip Otele",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "291849",
+        "player_name": "Rayan Philippe",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "300961",
+        "player_name": "Ransford-Yeboah K\u00f6nigsd\u00f6rffer",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "359707",
+        "player_name": "Damion Downs",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "376056",
+        "player_name": "Otto Stange",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "49"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "384471",
+        "player_name": "Alexander R\u00f8ssing-Lelesiit",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "38"
+    },
+    {
+        "team_id": "127",
+        "team_name": "Hamburg SV",
+        "player_id": "388392",
+        "player_name": "Fabio Bald\u00e9",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "45"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "149297",
+        "player_name": "Daniel Batz",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "33"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "206114",
+        "player_name": "Robin Zentner",
+        "age": 31,
+        "position": "Goalkeeper",
+        "jersey": "27"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "321057",
+        "player_name": "Lasse Rie\u00df",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "376555",
+        "player_name": "Louis Babatz",
+        "age": 20,
+        "position": "Goalkeeper",
+        "jersey": "35"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "144620",
+        "player_name": "Stefan Bell",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "154603",
+        "player_name": "Danny da Costa",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "175905",
+        "player_name": "Silvan Widmer",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "30"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "218646",
+        "player_name": "Andreas Hanche-Olsen",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "238531",
+        "player_name": "Maxim Leitsch",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "238906",
+        "player_name": "Stefan Posch",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "239574",
+        "player_name": "Phillipp Mwene",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "241297",
+        "player_name": "Anthony Caci",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "334198",
+        "player_name": "Nikolas Veratschnig",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "375371",
+        "player_name": "Kacper Potulski",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "48"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "134103",
+        "player_name": "Lee Jae-Sung",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "172997",
+        "player_name": "Dominik Kohr",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "31"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "210818",
+        "player_name": "Nadiem Amiri",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "267798",
+        "player_name": "Lennard Maloney",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "15"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "307282",
+        "player_name": "Paul Nebel",
+        "age": 23,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "333646",
+        "player_name": "Sota Kawasaki",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "357030",
+        "player_name": "Kaishu Sano",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "392851",
+        "player_name": "Daniel Gleiber",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "411839",
+        "player_name": "Jeremiah Debrah",
+        "age": 17,
+        "position": "Midfielder",
+        "jersey": "38"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "421667",
+        "player_name": "Daniel Imafidon",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "195027",
+        "player_name": "Sheraldo Becker",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "234376",
+        "player_name": "Phillip Tietz",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "20"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "279282",
+        "player_name": "Silas Katompa-Mvumpa",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "303116",
+        "player_name": "William B\u00f8ving",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "14"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "307031",
+        "player_name": "Fabio Moreno Fell",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "36"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "307515",
+        "player_name": "Benedict Hollerbach",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "308843",
+        "player_name": "Armindo Sieb",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "351280",
+        "player_name": "Nelson Weiper",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "44"
+    },
+    {
+        "team_id": "2950",
+        "team_name": "Mainz",
+        "player_id": "366388",
+        "player_name": "Kasey Bos",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "119620",
+        "player_name": "P\u00e9ter Gul\u00e1csi",
+        "age": 36,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "200079",
+        "player_name": "Leopold Zingerle",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "25"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "277377",
+        "player_name": "Maarten Vandevoordt",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "26"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "162162",
+        "player_name": "Willi Orb\u00e1n",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "201803",
+        "player_name": "Lukas Klostermann",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "16"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "220711",
+        "player_name": "Benjamin Henrichs",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "249548",
+        "player_name": "David Raum",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "258963",
+        "player_name": "Ridle Baku",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "304740",
+        "player_name": "El Chadaille Bitshiabu",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "319100",
+        "player_name": "Castello Lukeba",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "365367",
+        "player_name": "Kosta Nedeljkovic",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "368003",
+        "player_name": "Max Finkgrafe",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "35"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "238886",
+        "player_name": "Xaver Schlager",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "274897",
+        "player_name": "Christoph Baumgartner",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "305956",
+        "player_name": "Nicolas Seiwald",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "13"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "319368",
+        "player_name": "Antonio Nusa",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "330233",
+        "player_name": "Ezechiel Banzuzi",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "364897",
+        "player_name": "Assan Ou\u00e9draogo",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "372232",
+        "player_name": "Andrija Maksimovic",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "33"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "388683",
+        "player_name": "Viggo Gebel",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "47"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "413837",
+        "player_name": "Benno Kaltefleiter",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "37"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "310131",
+        "player_name": "Johan Bakayoko",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "324766",
+        "player_name": "R\u00f4mulo",
+        "age": 24,
+        "position": "Forward",
+        "jersey": "40"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "357683",
+        "player_name": "Brajan Gruda",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "362794",
+        "player_name": "Conrad Harder",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "366911",
+        "player_name": "Tidiam Gomis",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "380942",
+        "player_name": "Ayodele Thomas",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "21"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "387845",
+        "player_name": "Sani Suleiman",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "402479",
+        "player_name": "Yan Diomande",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "49"
+    },
+    {
+        "team_id": "11420",
+        "team_name": "RB Leipzig",
+        "player_id": "413839",
+        "player_name": "Samba Konate",
+        "age": 17,
+        "position": "Forward",
+        "jersey": "45"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "122292",
+        "player_name": "Florian M\u00fcller",
+        "age": 28,
+        "position": "Goalkeeper",
+        "jersey": "21"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "224246",
+        "player_name": "Jannik Huth",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "24"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "321064",
+        "player_name": "Noah Atubolu",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "169753",
+        "player_name": "Anthony Jung",
+        "age": 34,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "170209",
+        "player_name": "Matthias Ginter",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "28"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "171701",
+        "player_name": "Lukas K\u00fcbler",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "17"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "174618",
+        "player_name": "Christian G\u00fcnter",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "30"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "219316",
+        "player_name": "Philipp Lienhart",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "231190",
+        "player_name": "Niklas Beste",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "19"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "364596",
+        "player_name": "Philipp Treu",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "367557",
+        "player_name": "Max Rosenfelder",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "367558",
+        "player_name": "Jordy Makengo",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "387474",
+        "player_name": "Ifechukwu Ogbus",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "43"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "416415",
+        "player_name": "Karl Steinmann",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "65"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "149570",
+        "player_name": "Nicolas H\u00f6fler",
+        "age": 36,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "179571",
+        "player_name": "Vincenzo Grifo",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "32"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "214203",
+        "player_name": "Maximilian Eggestein",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "277859",
+        "player_name": "Daniel-Kofi Kyereh",
+        "age": 30,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "291203",
+        "player_name": "Patrick Osterhage",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "303031",
+        "player_name": "Yuito Suzuki",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "386992",
+        "player_name": "Johan Manzambi",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "44"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "419274",
+        "player_name": "Rouven Tarnutzer",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "69"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "202802",
+        "player_name": "Maximilian Philipp",
+        "age": 32,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "238525",
+        "player_name": "Lucas H\u00f6ler",
+        "age": 31,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "310883",
+        "player_name": "Igor Matanovic",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "31"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "346619",
+        "player_name": "Derry Scherhant",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "126",
+        "team_name": "SC Freiburg",
+        "player_id": "390031",
+        "player_name": "Cyriaque Iri\u00e9",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "22"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "79941",
+        "player_name": "Nikola Vasilj",
+        "age": 30,
+        "position": "Goalkeeper",
+        "jersey": "22"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "307489",
+        "player_name": "Ben Voll",
+        "age": 25,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "342164",
+        "player_name": "Emil Gazdov",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "47"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "386896",
+        "player_name": "Simon Spari",
+        "age": 23,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "196297",
+        "player_name": "Karol Mets",
+        "age": 33,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "202696",
+        "player_name": "Manolis Saliakas",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "207317",
+        "player_name": "Hauke Wahl",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "253675",
+        "player_name": "Lars Ritzka",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "280065",
+        "player_name": "Adam Dzwigala",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "283952",
+        "player_name": "David Nemeth",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "305716",
+        "player_name": "Arkadiusz Pyrka",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "11"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "306889",
+        "player_name": "Fin Stevens",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "349211",
+        "player_name": "Jannik Robatsch",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "364803",
+        "player_name": "Louis Oppie",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "399042",
+        "player_name": "Tomoya Ando",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "173141",
+        "player_name": "Mathias Rasmussen",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "178071",
+        "player_name": "Jackson Irvine",
+        "age": 33,
+        "position": "Midfielder",
+        "jersey": "7"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "204115",
+        "player_name": "Eric Smith",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "8"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "233835",
+        "player_name": "Mathias Pereira Lage",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "258855",
+        "player_name": "James Sands",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "260643",
+        "player_name": "Connor Metcalfe",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "297567",
+        "player_name": "Joel Chima Fujita",
+        "age": 24,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "394412",
+        "player_name": "Marwin Schmitz",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "42"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "409375",
+        "player_name": "Nick Schmidt",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "44"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "250459",
+        "player_name": "Martijn Kaars",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "259453",
+        "player_name": "Danel Sinani",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "10"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "271135",
+        "player_name": "Taichi Hara",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "294291",
+        "player_name": "Ricky-Jade Jones",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "317322",
+        "player_name": "Andreas Hountondji",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "387129",
+        "player_name": "Abdoulie Ceesay",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "270",
+        "team_name": "St. Pauli",
+        "player_id": "397578",
+        "player_name": "Romeo Aigbekaen",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "38"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "201123",
+        "player_name": "Fabian Bredlow",
+        "age": 31,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "205750",
+        "player_name": "Alexander N\u00fcbel",
+        "age": 29,
+        "position": "Goalkeeper",
+        "jersey": "33"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "301319",
+        "player_name": "Stefan Drljaca",
+        "age": 27,
+        "position": "Goalkeeper",
+        "jersey": "21"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "409213",
+        "player_name": "Florian Hellstern",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "44"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "216225",
+        "player_name": "Maximilian Mittelst\u00e4dt",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "7"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "223266",
+        "player_name": "Pascal Stenzel",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "258870",
+        "player_name": "Dan-Axel Zagadou",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "258909",
+        "player_name": "Jeff Chabot",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "24"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "266839",
+        "player_name": "Josha Vagnoman",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "289322",
+        "player_name": "Ramon Hendriks",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "308461",
+        "player_name": "Lorenz Assignon",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "323847",
+        "player_name": "Ameen Al Dakhil",
+        "age": 24,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "332574",
+        "player_name": "Luca Jaquez",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "372026",
+        "player_name": "Finn Jeltsch",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "29"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "376559",
+        "player_name": "Maximilian Herwerth",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "37"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "403741",
+        "player_name": "Yanik Spalt",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "56"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "241742",
+        "player_name": "Atakan Karazor",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "16"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "259878",
+        "player_name": "Nikolas Nartey",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "28"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "268951",
+        "player_name": "Chris F\u00fchrich",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "290232",
+        "player_name": "Angelo Stiller",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "336595",
+        "player_name": "Bilal El Khannouss",
+        "age": 22,
+        "position": "Midfielder",
+        "jersey": "11"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "372032",
+        "player_name": "Noah Darvich",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "387489",
+        "player_name": "Chema Andr\u00e9s",
+        "age": 21,
+        "position": "Midfielder",
+        "jersey": "30"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "393123",
+        "player_name": "Christopher Olivier",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "31"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "408285",
+        "player_name": "Mirza Catovic",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "35"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "418044",
+        "player_name": "Lauri Penna",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "49"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "252323",
+        "player_name": "Lazar Jovanovic",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "45"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "269136",
+        "player_name": "Ermedin Demirovic",
+        "age": 28,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "273300",
+        "player_name": "Deniz Undav",
+        "age": 29,
+        "position": "Forward",
+        "jersey": "26"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "290811",
+        "player_name": "Jamie Leweling",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "18"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "304019",
+        "player_name": "Tiago Tom\u00e1s",
+        "age": 23,
+        "position": "Forward",
+        "jersey": "8"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "345115",
+        "player_name": "Badredine Bouanani",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "27"
+    },
+    {
+        "team_id": "134",
+        "team_name": "VfB Stuttgart",
+        "player_id": "367725",
+        "player_name": "Jeremy Ar\u00e9valo",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "25"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "149841",
+        "player_name": "Pavao Pervan",
+        "age": 38,
+        "position": "Goalkeeper",
+        "jersey": "12"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "172005",
+        "player_name": "Marius M\u00fcller",
+        "age": 32,
+        "position": "Goalkeeper",
+        "jersey": "29"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "259474",
+        "player_name": "Kamil Grabara",
+        "age": 27,
+        "position": "Goalkeeper",
+        "jersey": "1"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "380185",
+        "player_name": "Jakub Zielinski",
+        "age": 18,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "191176",
+        "player_name": "Denis Vavro",
+        "age": 30,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "228397",
+        "player_name": "Rog\u00e9rio",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "13"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "238870",
+        "player_name": "Joakim Maehle",
+        "age": 29,
+        "position": "Defender",
+        "jersey": "21"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "264245",
+        "player_name": "Moritz Jenz",
+        "age": 27,
+        "position": "Defender",
+        "jersey": "15"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "310132",
+        "player_name": "Jenson Seelt",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "14"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "321247",
+        "player_name": "Kilian Fischer",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "323708",
+        "player_name": "Aaron Zehnter",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "25"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "329267",
+        "player_name": "Cleiton",
+        "age": 23,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "331084",
+        "player_name": "Sa\u00ebl Kumbedi",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "26"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "333927",
+        "player_name": "Jeanu\u00ebl Belocian",
+        "age": 21,
+        "position": "Defender",
+        "jersey": "6"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "336104",
+        "player_name": "Konstantinos Koulierakis",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "341627",
+        "player_name": "Jonas Adjetey",
+        "age": 22,
+        "position": "Defender",
+        "jersey": "18"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "389628",
+        "player_name": "Till Neininger",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "34"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "403548",
+        "player_name": "Jan B\u00fcrger",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "41"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "144130",
+        "player_name": "Christian Eriksen",
+        "age": 34,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "169037",
+        "player_name": "Maximilian Arnold",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "27"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "183529",
+        "player_name": "Kevin Paredes",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "40"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "189529",
+        "player_name": "Yannick Gerhardt",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "31"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "220120",
+        "player_name": "Mattias Svanberg",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "32"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "237549",
+        "player_name": "Lovro Majer",
+        "age": 28,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "257039",
+        "player_name": "Vinicius Souza",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "5"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "278822",
+        "player_name": "Jesper Lindstrom",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "19"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "300095",
+        "player_name": "Patrick Wimmer",
+        "age": 25,
+        "position": "Midfielder",
+        "jersey": "39"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "366562",
+        "player_name": "Bence D\u00e1rdai",
+        "age": 20,
+        "position": "Midfielder",
+        "jersey": "8"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "414502",
+        "player_name": "Pharell Hensel",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "37"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "271215",
+        "player_name": "Jonas Wind",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "23"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "315384",
+        "player_name": "Mohamed Amoura",
+        "age": 26,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "338854",
+        "player_name": "Adam Daghim",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "345905",
+        "player_name": "Dzenan Pejcinovic",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "362959",
+        "player_name": "Kento Shiogai",
+        "age": 21,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "388614",
+        "player_name": "Trevor Benedict",
+        "age": 19,
+        "position": "Forward",
+        "jersey": "43"
+    },
+    {
+        "team_id": "138",
+        "team_name": "VfL Wolfsburg",
+        "player_id": "415252",
+        "player_name": "Bruno Katz",
+        "age": 18,
+        "position": "Forward",
+        "jersey": "42"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "162111",
+        "player_name": "Markus Kolke",
+        "age": 35,
+        "position": "Goalkeeper",
+        "jersey": "25"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "282646",
+        "player_name": "Karl Hein",
+        "age": 24,
+        "position": "Goalkeeper",
+        "jersey": "13"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "338852",
+        "player_name": "Mio Backhaus",
+        "age": 22,
+        "position": "Goalkeeper",
+        "jersey": "30"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "385354",
+        "player_name": "Stefan Smarkalev",
+        "age": 19,
+        "position": "Goalkeeper",
+        "jersey": "37"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "159139",
+        "player_name": "Mitchell Weiser",
+        "age": 32,
+        "position": "Defender",
+        "jersey": "8"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "186026",
+        "player_name": "Niklas Stark",
+        "age": 31,
+        "position": "Defender",
+        "jersey": "4"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "224074",
+        "player_name": "Karim Coulibaly",
+        "age": 19,
+        "position": "Defender",
+        "jersey": "31"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "231674",
+        "player_name": "Maximilian W\u00f6ber",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "39"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "232477",
+        "player_name": "Marco Friedl",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "32"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "265965",
+        "player_name": "Yukinari Sugawara",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "3"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "275844",
+        "player_name": "Amos Pieper",
+        "age": 28,
+        "position": "Defender",
+        "jersey": "5"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "279961",
+        "player_name": "Felix Agu",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "27"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "282388",
+        "player_name": "Olivier Deman",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "2"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "307242",
+        "player_name": "Isaac Schmidt",
+        "age": 26,
+        "position": "Defender",
+        "jersey": "23"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "309487",
+        "player_name": "Julian Malatini",
+        "age": 25,
+        "position": "Defender",
+        "jersey": "22"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "399865",
+        "player_name": "Mick Schmetgens",
+        "age": 18,
+        "position": "Defender",
+        "jersey": "33"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "419946",
+        "player_name": "Mats Heitmann",
+        "age": 20,
+        "position": "Defender",
+        "jersey": "46"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "157560",
+        "player_name": "Leonardo Bittencourt",
+        "age": 32,
+        "position": "Midfielder",
+        "jersey": "10"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "234757",
+        "player_name": "Jens Stage",
+        "age": 29,
+        "position": "Midfielder",
+        "jersey": "6"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "238296",
+        "player_name": "Romano Schmid",
+        "age": 26,
+        "position": "Midfielder",
+        "jersey": "20"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "268987",
+        "player_name": "Cameron Puertas",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "18"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "270389",
+        "player_name": "Senne Lynen",
+        "age": 27,
+        "position": "Midfielder",
+        "jersey": "14"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "394499",
+        "player_name": "Wesley Adeh",
+        "age": 19,
+        "position": "Midfielder",
+        "jersey": "34"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "398005",
+        "player_name": "Patrice Covic",
+        "age": 18,
+        "position": "Midfielder",
+        "jersey": "24"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "287276",
+        "player_name": "Victor Boniface",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "44"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "305853",
+        "player_name": "Marco Gr\u00fcll",
+        "age": 27,
+        "position": "Forward",
+        "jersey": "17"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "332325",
+        "player_name": "Keke Topp",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "9"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "340639",
+        "player_name": "Justin Njinmah",
+        "age": 25,
+        "position": "Forward",
+        "jersey": "11"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "355997",
+        "player_name": "Samuel Mbangula",
+        "age": 22,
+        "position": "Forward",
+        "jersey": "7"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "364204",
+        "player_name": "Jovan Milosevic",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "19"
+    },
+    {
+        "team_id": "137",
+        "team_name": "Werder Bremen",
+        "player_id": "407196",
+        "player_name": "Salim Musah",
+        "age": 20,
+        "position": "Forward",
+        "jersey": "29"
+    }
+]
